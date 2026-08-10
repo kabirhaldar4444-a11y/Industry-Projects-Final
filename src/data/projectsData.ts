@@ -2097,7 +2097,7 @@ export const projectsData: ProjectData[] = [
     "Area": "720 km",
     "Budget": "$8 Billion",
     "Deadline": "2027",
-    "Location": "Gujarat",
+    "Location": "Ahmedabad, Gujarat & Dholera, Gujarat",
     "CapacityDetails": "Major north–south highway connecting Gdansk, Warsaw, and Kraków.",
     "ParsedBudget": 8
   },
@@ -2121,7 +2121,7 @@ export const projectsData: ProjectData[] = [
     "Area": "80-100 km²",
     "Budget": "₹1,500-2,000 Crore",
     "Deadline": "2034",
-    "Location": "Punjab",
+    "Location": "Amritsar, Punjab",
     "CapacityDetails": "Smart city infrastructure and civic amenities.",
     "ParsedBudget": 0.21
   },
@@ -2133,7 +2133,7 @@ export const projectsData: ProjectData[] = [
     "Area": "800+ km",
     "Budget": "₹15,000-20,000 Crore",
     "Deadline": "2031",
-    "Location": "Punjab, West Bengal",
+    "Location": "Amritsar, Punjab & Kolkata, West Bengal",
     "CapacityDetails": "Industrial trade corridor across 7 states.",
     "ParsedBudget": 2.11
   },
@@ -2145,7 +2145,7 @@ export const projectsData: ProjectData[] = [
     "Area": "1,843 km",
     "Budget": "~₹1.82 Lakh Crore",
     "Deadline": "2020-2028",
-    "Location": "Punjab, West Bengal",
+    "Location": "Amritsar, Punjab & Kolkata, West Bengal",
     "CapacityDetails": "Dedicated freight corridor, multi-lane highways, terminal expansions.",
     "ParsedBudget": 21.927710843373493
   },
@@ -2169,7 +2169,7 @@ export const projectsData: ProjectData[] = [
     "Area": "20-25 km",
     "Budget": "₹3,500-4,500 Crore",
     "Deadline": "2032",
-    "Location": "Karnataka",
+    "Location": "Bengaluru, Karnataka",
     "CapacityDetails": "Elevated road network for urban mobility.",
     "ParsedBudget": 0.48
   },
@@ -2205,7 +2205,7 @@ export const projectsData: ProjectData[] = [
     "Area": "262 km",
     "Budget": "~₹19,920 Crore",
     "Deadline": "2027",
-    "Location": "Karnataka, Andhra Pradesh, Tamil Nadu",
+    "Location": "Bengaluru, Karnataka & Chennai, Tamil Nadu",
     "CapacityDetails": "High-speed greenfield corridor connecting economic centers.",
     "ParsedBudget": 2.4
   },
@@ -2217,7 +2217,7 @@ export const projectsData: ProjectData[] = [
     "Area": "800 acres",
     "Budget": "$400 Million",
     "Deadline": "2015 - 2020",
-    "Location": "Rajasthan, India",
+    "Location": "Bhadla, Rajasthan",
     "CapacityDetails": "Large-scale renewable energy project using PV technology in Alentejo.",
     "ParsedBudget": 0.4
   },
@@ -2241,7 +2241,7 @@ export const projectsData: ProjectData[] = [
     "Area": "60-90 km²",
     "Budget": "₹1,000-1,500 Crore",
     "Deadline": "2035",
-    "Location": "Chhattisgarh",
+    "Location": "Bhilai, Chhattisgarh",
     "CapacityDetails": "Smart city command center, civic services, roads.",
     "ParsedBudget": 0.15
   },
@@ -2253,7 +2253,7 @@ export const projectsData: ProjectData[] = [
     "Area": "Airport",
     "Budget": "₹6,225 Crore",
     "Deadline": "2027",
-    "Location": "Andhra Pradesh",
+    "Location": "Bhogapuram, Andhra Pradesh",
     "CapacityDetails": "Bhogapuram International Airport key infrastructure development in India.",
     "ParsedBudget": 0.75
   },
@@ -2265,7 +2265,7 @@ export const projectsData: ProjectData[] = [
     "Area": "20-25 km",
     "Budget": "₹2,500-3,500 Crore",
     "Deadline": "2030",
-    "Location": "Madhya Pradesh",
+    "Location": "Bhopal, Madhya Pradesh",
     "CapacityDetails": "Priority metro rail lines and elevated stations.",
     "ParsedBudget": 0.36
   },
@@ -2277,7 +2277,7 @@ export const projectsData: ProjectData[] = [
     "Area": "2,000 acres (~8.1 km²)",
     "Budget": "₹2,500-3,000 Crore",
     "Deadline": "2033",
-    "Location": "Rajasthan",
+    "Location": "Bikaner, Rajasthan",
     "CapacityDetails": "500 MW solar PV power plant.",
     "ParsedBudget": 0.33
   },
@@ -2289,7 +2289,7 @@ export const projectsData: ProjectData[] = [
     "Area": "120–150 km (Link)",
     "Budget": "~₹11,000 Crore",
     "Deadline": "2032",
-    "Location": "Assam, India",
+    "Location": "Dibrugarh, Assam & Dhemaji, Assam",
     "CapacityDetails": "Strategic rail-cum-road bridge over Brahmaputra River.",
     "ParsedBudget": 1.3253012048192772
   },
@@ -2349,7 +2349,7 @@ export const projectsData: ProjectData[] = [
     "Area": "359 meters high",
     "Budget": "~₹1,480 Crore",
     "Deadline": "2004-2024",
-    "Location": "Jammu & Kashmir ",
+    "Location": "Jammu & Kashmir",
     "CapacityDetails": "World's highest railway arch bridge connecting Kashmir.",
     "ParsedBudget": 0.1783132530120482
   },
@@ -2385,7 +2385,7 @@ export const projectsData: ProjectData[] = [
     "Area": "133 km",
     "Budget": "~₹12,450 Crore",
     "Deadline": "2028",
-    "Location": "Tamil Nadu",
+    "Location": "Chennai, Tamil Nadu",
     "CapacityDetails": "Freight corridor connecting industrial zones and ports.",
     "ParsedBudget": 1.5
   },
@@ -2421,7 +2421,7 @@ export const projectsData: ProjectData[] = [
     "Area": "500-700 hectares",
     "Budget": "₹4,000-6,000 Crore",
     "Deadline": "2032",
-    "Location": "Tamil Nadu",
+    "Location": "Colachel, Tamil Nadu",
     "CapacityDetails": "Commercial deep-sea port terminal.",
     "ParsedBudget": 0.6
   },
@@ -2433,7 +2433,7 @@ export const projectsData: ProjectData[] = [
     "Area": "1,504 km",
     "Budget": "~₹99,600 Crore",
     "Deadline": "2026",
-    "Location": "UP, Rajasthan, Gujarat, Maharashtra",
+    "Location": "Uttar Pradesh, Rajasthan, Gujarat, Maharashtra",
     "CapacityDetails": "Electrified tracks, logistics hubs connecting North & West India.",
     "ParsedBudget": 12
   },
@@ -2457,7 +2457,7 @@ export const projectsData: ProjectData[] = [
     "Area": "1,504 km",
     "Budget": "~₹7.47 Lakh Crore",
     "Deadline": "2018-2027",
-    "Location": "Delhi, Maharashtra",
+    "Location": "Delhi & Mumbai, Maharashtra",
     "CapacityDetails": "Smart industrial cities, logistics expressways, power grids.",
     "ParsedBudget": 90
   },
@@ -2469,7 +2469,7 @@ export const projectsData: ProjectData[] = [
     "Area": "670 km",
     "Budget": "~₹37,350 Crore",
     "Deadline": "2028",
-    "Location": "Delhi, Haryana, Punjab, J&K",
+    "Location": "Delhi, Amritsar, Punjab & Katra, Jammu & Kashmir",
     "CapacityDetails": "Connecting Delhi, Punjab, and J&K pilgrimage destinations.",
     "ParsedBudget": 4.5
   },
@@ -2481,7 +2481,7 @@ export const projectsData: ProjectData[] = [
     "Area": "82 km",
     "Budget": "~₹31,540 Crore",
     "Deadline": "2028",
-    "Location": "Delhi, Uttar Pradesh",
+    "Location": "Delhi & Meerut, Uttar Pradesh",
     "CapacityDetails": "Semi-high-speed regional rail (up to 180 km/h).",
     "ParsedBudget": 3.8
   },
@@ -2493,7 +2493,7 @@ export const projectsData: ProjectData[] = [
     "Area": "1,350 km",
     "Budget": "~₹1.07 Lakh Crore",
     "Deadline": "2027",
-    "Location": "Delhi, Haryana, \nRajasthan, MP, \nGujarat, Maharashtra",
+    "Location": "Delhi & Mumbai, Maharashtra",
     "CapacityDetails": "Intelligent traffic systems, wildlife crossings, access-controlled.",
     "ParsedBudget": 12.891566265060241
   },
@@ -2529,7 +2529,7 @@ export const projectsData: ProjectData[] = [
     "Area": "29 km",
     "Budget": "~₹9,960 Crore",
     "Deadline": "2026",
-    "Location": "Delhi & Haryana",
+    "Location": "Delhi & Gurugram, Haryana",
     "CapacityDetails": "Elevated roads and tunnels connecting Delhi and Gurugram.",
     "ParsedBudget": 1.2
   },
@@ -2553,7 +2553,7 @@ export const projectsData: ProjectData[] = [
     "Area": "1,839 km",
     "Budget": "~₹91,300 Crore",
     "Deadline": "2026",
-    "Location": "Punjab to West Bengal",
+    "Location": "Punjab & West Bengal",
     "CapacityDetails": "Coal transport and industrial logistics (Punjab to West Bengal).",
     "ParsedBudget": 11
   },
@@ -2565,7 +2565,7 @@ export const projectsData: ProjectData[] = [
     "Area": "1,000-1,500 hectares",
     "Budget": "₹7,500-10,000 Crore",
     "Deadline": "2032",
-    "Location": "Tamil Nadu",
+    "Location": "Enayam, Tamil Nadu",
     "CapacityDetails": "Deep-sea container transshipment hub.",
     "ParsedBudget": 1.05
   },
@@ -2613,7 +2613,7 @@ export const projectsData: ProjectData[] = [
     "Area": "91.3 km",
     "Budget": "~₹7,470 Crore",
     "Deadline": "2026",
-    "Location": "Uttar Pradesh",
+    "Location": "Gorakhpur, Uttar Pradesh",
     "CapacityDetails": "Access-controlled roads linking to Purvanchal Expressway.",
     "ParsedBudget": 0.9
   },
@@ -2637,7 +2637,7 @@ export const projectsData: ProjectData[] = [
     "Area": "180 km",
     "Budget": "$12 Billion",
     "Deadline": "2030",
-    "Location": "Great Nicobar Island, \nAndaman & Nicobar\n Islands, India",
+    "Location": "Great Nicobar Island, Andaman & Nicobar Islands",
     "CapacityDetails": "Mass rapid transit lines to improve public transport.",
     "ParsedBudget": 12
   },
@@ -2649,7 +2649,7 @@ export const projectsData: ProjectData[] = [
     "Area": "Multiple Corridors",
     "Budget": "~₹99,600 Crore",
     "Deadline": "2019-2025",
-    "Location": "Various Corridors, India",
+    "Location": "Pan India",
     "CapacityDetails": "Heavy double-stack container trackbeds (25-tonne axle loads).",
     "ParsedBudget": 12
   },
@@ -2673,7 +2673,7 @@ export const projectsData: ProjectData[] = [
     "Area": "1,000 acres",
     "Budget": "₹8,000-9,000 Crore",
     "Deadline": "2032",
-    "Location": "Telangana",
+    "Location": "Hyderabad, Telangana",
     "CapacityDetails": "Integrated pharmaceutical industrial cluster.",
     "ParsedBudget": 1.02
   },
@@ -2685,7 +2685,7 @@ export const projectsData: ProjectData[] = [
     "Area": "340 km",
     "Budget": "~₹39,010 Crore",
     "Deadline": "2030",
-    "Location": "Telangana",
+    "Location": "Hyderabad, Telangana",
     "CapacityDetails": "Highway supporting urban expansion and freight movement.",
     "ParsedBudget": 4.7
   },
@@ -2697,7 +2697,7 @@ export const projectsData: ProjectData[] = [
     "Area": "350-400 km",
     "Budget": "₹5,500-6,500 Crore",
     "Deadline": "2033",
-    "Location": "Madhya Pradesh, Gujarat",
+    "Location": "Indore, Madhya Pradesh & Ahmedabad, Gujarat",
     "CapacityDetails": "High-speed inter-state expressway.",
     "ParsedBudget": 0.72
   },
@@ -2709,7 +2709,7 @@ export const projectsData: ProjectData[] = [
     "Area": "10-15 km",
     "Budget": "₹2,000-3,000 Crore",
     "Deadline": "2034",
-    "Location": "Rajasthan",
+    "Location": "Jaipur, Rajasthan",
     "CapacityDetails": "Elevated traffic bypass corridor.",
     "ParsedBudget": 0.3
   },
@@ -2733,7 +2733,7 @@ export const projectsData: ProjectData[] = [
     "Area": "Multiple Facilities",
     "Budget": "~₹31,540 Crore",
     "Deadline": "2030",
-    "Location": "Karnataka, Maharashtra \n& Tamil Nadu,",
+    "Location": "Karnataka, Maharashtra & Tamil Nadu",
     "CapacityDetails": "2.5 GW wind farms, utility-scale PV, battery energy storage.",
     "ParsedBudget": 3.8
   },
@@ -2745,7 +2745,7 @@ export const projectsData: ProjectData[] = [
     "Area": "150 acres",
     "Budget": "₹2,000-3,000 Crore",
     "Deadline": "2033",
-    "Location": "Gujarat",
+    "Location": "Kandla, Gujarat",
     "CapacityDetails": "Port infrastructure expansion at Deendayal/Kandla port.",
     "ParsedBudget": 0.3
   },
@@ -2757,7 +2757,7 @@ export const projectsData: ProjectData[] = [
     "Area": "1,425 acres",
     "Budget": "~₹16,600 Crore",
     "Deadline": "2032",
-    "Location": "Gujarat",
+    "Location": "Kandla, Gujarat",
     "CapacityDetails": "Integrated logistics and industrial infrastructure around Deendayal Port.",
     "ParsedBudget": 2
   },
@@ -2769,7 +2769,7 @@ export const projectsData: ProjectData[] = [
     "Area": "2,805 km",
     "Budget": "~₹10,790 Crore",
     "Deadline": "2027",
-    "Location": "Gujarat, Rajasthan, \nHaryana, Uttar Pradesh,\n Bihar, India",
+    "Location": "Kandla, Gujarat & Gorakhpur, Uttar Pradesh",
     "CapacityDetails": "One of the world's longest LPG pipelines supplying northern India.",
     "ParsedBudget": 1.3
   },
@@ -2829,7 +2829,7 @@ export const projectsData: ProjectData[] = [
     "Area": "20-25 km",
     "Budget": "₹4,500-6,000 Crore",
     "Deadline": "2031",
-    "Location": "West Bengal",
+    "Location": "Kolkata, West Bengal",
     "CapacityDetails": "East-west rapid transit metro line.",
     "ParsedBudget": 0.63
   },
@@ -2841,7 +2841,7 @@ export const projectsData: ProjectData[] = [
     "Area": "20-25 km",
     "Budget": "₹3,000-4,000 Crore",
     "Deadline": "2034",
-    "Location": "West Bengal",
+    "Location": "Kolkata, West Bengal",
     "CapacityDetails": "Airport link metro rail corridor.",
     "ParsedBudget": 0.42
   },
@@ -2853,7 +2853,7 @@ export const projectsData: ProjectData[] = [
     "Area": "10-12 km",
     "Budget": "₹3,000-4,500 Crore",
     "Deadline": "2034",
-    "Location": "West Bengal",
+    "Location": "Kolkata, West Bengal & Howrah, West Bengal",
     "CapacityDetails": "Underwater river tunnel metro link.",
     "ParsedBudget": 0.45
   },
@@ -2865,7 +2865,7 @@ export const projectsData: ProjectData[] = [
     "Area": "7 km",
     "Budget": "$10 Billion",
     "Deadline": "2030",
-    "Location": "Andhra Pradesh, India",
+    "Location": "Kovvada, Andhra Pradesh",
     "CapacityDetails": "Thermal and renewable energy facilities to meet electricity demand.",
     "ParsedBudget": 10
   },
@@ -2877,7 +2877,7 @@ export const projectsData: ProjectData[] = [
     "Area": "Deep-water Berths",
     "Budget": "~₹7,055 Crore",
     "Deadline": "2022-26",
-    "Location": "Krishnapatnam, Tirupati Region,\n Andhra Pradesh",
+    "Location": "Krishnapatnam, Andhra Pradesh",
     "CapacityDetails": "Cargo handling expansion, automated quay crane dispatch systems.",
     "ParsedBudget": 0.85
   },
@@ -2889,7 +2889,7 @@ export const projectsData: ProjectData[] = [
     "Area": "25-30 km",
     "Budget": "₹2,500-3,500 Crore",
     "Deadline": "2035",
-    "Location": "Uttar Pradesh",
+    "Location": "Lucknow, Uttar Pradesh",
     "CapacityDetails": "East-west metro corridor expansion.",
     "ParsedBudget": 0.36
   },
@@ -2901,7 +2901,7 @@ export const projectsData: ProjectData[] = [
     "Area": "10-12 km",
     "Budget": "₹1,500-2,000 Crore",
     "Deadline": "2030",
-    "Location": "Punjab",
+    "Location": "Ludhiana, Punjab",
     "CapacityDetails": "Elevated urban corridor in Ludhiana.",
     "ParsedBudget": 0.21
   },
@@ -2913,7 +2913,7 @@ export const projectsData: ProjectData[] = [
     "Area": "2,132 acres",
     "Budget": "~₹4,150 Crore",
     "Deadline": "2030",
-    "Location": "Goa",
+    "Location": "Mopa, Goa",
     "CapacityDetails": "Upgrading Manohar Int'l Airport in Goa for growing tourism.",
     "ParsedBudget": 0.5
   },
@@ -2949,7 +2949,7 @@ export const projectsData: ProjectData[] = [
     "Area": "20-25 km",
     "Budget": "₹4,500-6,000 Crore",
     "Deadline": "2031",
-    "Location": "Maharashtra",
+    "Location": "Mumbai, Maharashtra",
     "CapacityDetails": "32 km elevated metro corridor.",
     "ParsedBudget": 0.63
   },
@@ -2961,7 +2961,7 @@ export const projectsData: ProjectData[] = [
     "Area": "20-25 km",
     "Budget": "₹8,000-10,000 Crore",
     "Deadline": "2032",
-    "Location": "Maharashtra",
+    "Location": "Thane, Maharashtra & Kalyan, Maharashtra",
     "CapacityDetails": "Elevated rapid transit connecting Thane and Kalyan.",
     "ParsedBudget": 1.08
   },
@@ -2985,7 +2985,7 @@ export const projectsData: ProjectData[] = [
     "Area": "15-20 km",
     "Budget": "₹3,000-4,500 Crore",
     "Deadline": "2032",
-    "Location": "Maharashtra",
+    "Location": "Mumbai, Maharashtra",
     "CapacityDetails": "Underground metro link to international airport.",
     "ParsedBudget": 0.45
   },
@@ -2997,7 +2997,7 @@ export const projectsData: ProjectData[] = [
     "Area": "21.8 km",
     "Budget": "~₹18,260 Crore",
     "Deadline": "2024",
-    "Location": "Maharashtra",
+    "Location": "Mumbai, Maharashtra & Navi Mumbai, Maharashtra",
     "CapacityDetails": "India's longest sea bridge connecting Mumbai and Navi Mumbai.",
     "ParsedBudget": 2.2
   },
@@ -3033,7 +3033,7 @@ export const projectsData: ProjectData[] = [
     "Area": "Industrial Zones",
     "Budget": "~₹3,735 Crore",
     "Deadline": "2023-2026",
-    "Location": "Hingna, Nagpur, Maharashtra",
+    "Location": "Nagpur, Maharashtra",
     "CapacityDetails": "Electric arc furnace, AI-driven melt analytics, closed-loop cooling.",
     "ParsedBudget": 0.45
   },
@@ -3057,7 +3057,7 @@ export const projectsData: ProjectData[] = [
     "Area": "701 km",
     "Budget": "~₹62,250 Crore",
     "Deadline": "2027",
-    "Location": "Maharashtra",
+    "Location": "Nagpur, Maharashtra & Mumbai, Maharashtra",
     "CapacityDetails": "High-speed access-controlled expressway for freight and travel.",
     "ParsedBudget": 7.5
   },
@@ -3081,7 +3081,7 @@ export const projectsData: ProjectData[] = [
     "Area": "400 acres",
     "Budget": "~₹3,320 Crore",
     "Deadline": "2022-2026",
-    "Location": " Gujarat ",
+    "Location": "Lothal, Gujarat",
     "CapacityDetails": "Museum galleries, reconstructed Lothal dockyard, theme park.",
     "ParsedBudget": 0.4
   },
@@ -3105,7 +3105,7 @@ export const projectsData: ProjectData[] = [
     "Area": "25-30 km",
     "Budget": "₹4,000-6,000 Crore",
     "Deadline": "2030",
-    "Location": "Maharashtra",
+    "Location": "Navi Mumbai, Maharashtra",
     "CapacityDetails": "Elevated metro line in Navi Mumbai.",
     "ParsedBudget": 0.6
   },
@@ -3117,7 +3117,7 @@ export const projectsData: ProjectData[] = [
     "Area": "180 km",
     "Budget": "$12 Billion",
     "Deadline": "2023-2025",
-    "Location": "Himachal Pradesh",
+    "Location": "Solan, Himachal Pradesh",
     "CapacityDetails": "Mass rapid transit lines to improve public transport.",
     "ParsedBudget": 12
   },
@@ -3153,7 +3153,7 @@ export const projectsData: ProjectData[] = [
     "Area": "150-200 hectares",
     "Budget": "₹3,000-4,500 Crore",
     "Deadline": "2033",
-    "Location": "Odisha",
+    "Location": "Paradip, Odisha",
     "CapacityDetails": "New outer harbor and mechanized berths.",
     "ParsedBudget": 0.45
   },
@@ -3165,7 +3165,7 @@ export const projectsData: ProjectData[] = [
     "Area": "4,791 acres",
     "Budget": "~₹19,920 Crore",
     "Deadline": "2035",
-    "Location": "Tamil Nadu",
+    "Location": "Parandur, Tamil Nadu",
     "CapacityDetails": "Chennai's proposed second international airport.",
     "ParsedBudget": 2.4
   },
@@ -3177,7 +3177,7 @@ export const projectsData: ProjectData[] = [
     "Area": "1,200+ km planned",
     "Budget": "~₹24,900 Crore",
     "Deadline": "2035",
-    "Location": "Multiple States",
+    "Location": "Pan India",
     "CapacityDetails": "Eco-friendly connectivity for hilly and remote terrain.",
     "ParsedBudget": 3
   },
@@ -3189,7 +3189,7 @@ export const projectsData: ProjectData[] = [
     "Area": "20-30 km",
     "Budget": "₹3,000-4,500 Crore",
     "Deadline": "2031",
-    "Location": "Bihar",
+    "Location": "Patna, Bihar",
     "CapacityDetails": "Promenade, ghat redevelopment, and riverfront beautification.",
     "ParsedBudget": 0.45
   },
@@ -3213,7 +3213,7 @@ export const projectsData: ProjectData[] = [
     "Area": "450 km",
     "Budget": "~₹29,050 Crore",
     "Deadline": "2030",
-    "Location": "Bihar & West Bengal",
+    "Location": "Patna, Bihar & Kolkata, West Bengal",
     "CapacityDetails": "High-speed highway linking Bihar and West Bengal.",
     "ParsedBudget": 3.5
   },
@@ -3261,7 +3261,7 @@ export const projectsData: ProjectData[] = [
     "Area": "200 acres",
     "Budget": "₹3,000-4,000 Crore",
     "Deadline": "2033",
-    "Location": "Maharashtra",
+    "Location": "Pune, Maharashtra",
     "CapacityDetails": "Expansion to accommodate growing passenger traffic.",
     "ParsedBudget": 0.42
   },
@@ -3273,7 +3273,7 @@ export const projectsData: ProjectData[] = [
     "Area": "15-20 km",
     "Budget": "₹2,500-3,500 Crore",
     "Deadline": "2031",
-    "Location": "Maharashtra",
+    "Location": "Pune, Maharashtra",
     "CapacityDetails": "Vanaz to Ramwadi elevated corridor.",
     "ParsedBudget": 0.36
   },
@@ -3297,7 +3297,7 @@ export const projectsData: ProjectData[] = [
     "Area": "235 km",
     "Budget": "~₹17,430 Crore",
     "Deadline": "2031",
-    "Location": "Maharashtra",
+    "Location": "Pune, Maharashtra & Nashik, Maharashtra",
     "CapacityDetails": "Rail corridor connecting Pune and Nashik industrial zones.",
     "ParsedBudget": 2.1
   },
@@ -3309,7 +3309,7 @@ export const projectsData: ProjectData[] = [
     "Area": "109 km (Phase 1: 29 km)",
     "Budget": "$2 Billion",
     "Deadline": "Ongoing Projects",
-    "Location": "India",
+    "Location": "Pan India",
     "CapacityDetails": "Fully automated driverless electric metro, 43,000 passengers/hour capacity.",
     "ParsedBudget": 2
   },
@@ -3321,7 +3321,7 @@ export const projectsData: ProjectData[] = [
     "Area": "50-60 km",
     "Budget": "₹3,000-4,000 Crore",
     "Deadline": "2033",
-    "Location": "Chhattisgarh",
+    "Location": "Raipur, Chhattisgarh & Durg, Chhattisgarh",
     "CapacityDetails": "Access-controlled expressway linking Raipur and Durg.",
     "ParsedBudget": 0.42
   },
@@ -3333,7 +3333,7 @@ export const projectsData: ProjectData[] = [
     "Area": "464 km",
     "Budget": "~₹49,800 Crore",
     "Deadline": "2030",
-    "Location": "Chhattisgarh & Andhra Pradesh",
+    "Location": "Raipur, Chhattisgarh & Visakhapatnam, Andhra Pradesh",
     "CapacityDetails": "Economic corridor improving trade from central to eastern India.",
     "ParsedBudget": 6
   },
@@ -3345,7 +3345,7 @@ export const projectsData: ProjectData[] = [
     "Area": "70-90 km²",
     "Budget": "₹1,200-1,600 Crore",
     "Deadline": "2033",
-    "Location": "Gujarat",
+    "Location": "Rajkot, Gujarat",
     "CapacityDetails": "Smart urban utilities and greenfield area development.",
     "ParsedBudget": 0.17
   },
@@ -3357,7 +3357,7 @@ export const projectsData: ProjectData[] = [
     "Area": "7,500 acres",
     "Budget": "~₹1.24 Lakh Crore",
     "Deadline": "1996- Present",
-    "Location": "Jamnagar, Gujarat, India",
+    "Location": "Jamnagar, Gujarat",
     "CapacityDetails": "World's largest refining complex (1.2 million barrels/day).",
     "ParsedBudget": 14.939759036144578
   },
@@ -3369,7 +3369,7 @@ export const projectsData: ProjectData[] = [
     "Area": "72,600 hectares",
     "Budget": "~₹1.66 Lakh Crore",
     "Deadline": "2030",
-    "Location": "Kutch, Gujarat",
+    "Location": "Khavda, Gujarat",
     "CapacityDetails": "World's largest hybrid (solar/wind) renewable energy park.",
     "ParsedBudget": 20
   },
@@ -3381,7 +3381,7 @@ export const projectsData: ProjectData[] = [
     "Area": "500 acres",
     "Budget": "₹1,500-2,000 Crore",
     "Deadline": "2030",
-    "Location": "Madhya Pradesh",
+    "Location": "Rewa, Madhya Pradesh",
     "CapacityDetails": "250 MW solar expansion addition.",
     "ParsedBudget": 0.21
   },
@@ -3393,7 +3393,7 @@ export const projectsData: ProjectData[] = [
     "Area": "125 km",
     "Budget": "₹3,000-4,000 Crore",
     "Deadline": "2032",
-    "Location": "Uttarakhand",
+    "Location": "Rishikesh, Uttarakhand & Karnaprayag, Uttarakhand",
     "CapacityDetails": "125 km strategic hill railway line.",
     "ParsedBudget": 0.42
   },
@@ -3417,7 +3417,7 @@ export const projectsData: ProjectData[] = [
     "Area": "9,000 acres (~36.4 km²)",
     "Budget": "₹18,000-22,000 Crore",
     "Deadline": "2030",
-    "Location": "Rajasthan",
+    "Location": "Sambhar, Rajasthan",
     "CapacityDetails": "2,000 MW mega solar power park.",
     "ParsedBudget": 2.41
   },
@@ -3429,7 +3429,7 @@ export const projectsData: ProjectData[] = [
     "Area": "500 acres",
     "Budget": "₹2,500-3,500 Crore",
     "Deadline": "2030",
-    "Location": "Maharashtra",
+    "Location": "Shendra-Bidkin, Maharashtra",
     "CapacityDetails": "Manufacturing industrial cluster development.",
     "ParsedBudget": 0.36
   },
@@ -3441,7 +3441,7 @@ export const projectsData: ProjectData[] = [
     "Area": "20-25 km",
     "Budget": "₹2,500-3,500 Crore",
     "Deadline": "2034",
-    "Location": "West Bengal",
+    "Location": "Siliguri, West Bengal",
     "CapacityDetails": "Elevated transit corridor in North Bengal.",
     "ParsedBudget": 0.36
   },
@@ -3453,7 +3453,7 @@ export const projectsData: ProjectData[] = [
     "Area": "4.5 km",
     "Budget": "~₹1,480 Crore",
     "Deadline": "2027",
-    "Location": "Uttarakhand",
+    "Location": "Silkyara, Uttarakhand & Barkot, Uttarakhand",
     "CapacityDetails": "Part of Char Dham highway, avoiding landslide stretches.",
     "ParsedBudget": 0.1783132530120482
   },
@@ -3465,7 +3465,7 @@ export const projectsData: ProjectData[] = [
     "Area": "2,500+ acres",
     "Budget": "₹5,000-7,000 Crore",
     "Deadline": "2034",
-    "Location": "Madhya Pradesh",
+    "Location": "Singrauli, Madhya Pradesh",
     "CapacityDetails": "Large-scale solar power generation facility.",
     "ParsedBudget": 0.72
   },
@@ -3477,7 +3477,7 @@ export const projectsData: ProjectData[] = [
     "Area": "100-150 km²",
     "Budget": "₹1,000-1,500 Crore",
     "Deadline": "2031",
-    "Location": "Madhya Pradesh",
+    "Location": "Indore, Madhya Pradesh",
     "CapacityDetails": "Smart governance, digital infrastructure, urban development.",
     "ParsedBudget": 0.15
   },
@@ -3513,7 +3513,7 @@ export const projectsData: ProjectData[] = [
     "Area": "1,271 km",
     "Budget": "~₹99,600 Crore",
     "Deadline": "2032",
-    "Location": "Gujarat, Maharashtra, Karnataka, Tamil Nadu",
+    "Location": "Surat, Gujarat & Chennai, Tamil Nadu",
     "CapacityDetails": "High-speed economic corridor linking western and southern India.",
     "ParsedBudget": 12
   },
@@ -3525,7 +3525,7 @@ export const projectsData: ProjectData[] = [
     "Area": "1,000 MW Capacity",
     "Budget": "~₹9,960 Crore",
     "Deadline": "2028",
-    "Location": "Uttarakhand",
+    "Location": "Tehri, Uttarakhand",
     "CapacityDetails": "Grid stability and renewable energy storage.",
     "ParsedBudget": 1.2
   },
@@ -3537,7 +3537,7 @@ export const projectsData: ProjectData[] = [
     "Area": "50 acres",
     "Budget": "₹1,500-2,000 Crore",
     "Deadline": "2031",
-    "Location": "Tamil Nadu",
+    "Location": "Chennai, Tamil Nadu",
     "CapacityDetails": "Expanding Tidel Park IT infrastructure.",
     "ParsedBudget": 0.21
   },
@@ -3573,7 +3573,7 @@ export const projectsData: ProjectData[] = [
     "Area": "80-120 km²",
     "Budget": "₹1,200-1,800 Crore",
     "Deadline": "2032",
-    "Location": "Uttar Pradesh",
+    "Location": "Varanasi, Uttar Pradesh",
     "CapacityDetails": "Smart heritage city modernization and utilities.",
     "ParsedBudget": 0.18
   },
@@ -3597,7 +3597,7 @@ export const projectsData: ProjectData[] = [
     "Area": "200 acres",
     "Budget": "₹4,000-5,000 Crore",
     "Deadline": "2035",
-    "Location": "Andhra Pradesh",
+    "Location": "Visakhapatnam, Andhra Pradesh",
     "CapacityDetails": "Port capacity expansion for cargo handling.",
     "ParsedBudget": 0.54
   },
@@ -3633,7 +3633,7 @@ export const projectsData: ProjectData[] = [
     "Area": "14.2 km",
     "Budget": "~₹7,055 Crore",
     "Deadline": "2028",
-    "Location": "Jammu & Kashmir / Ladakh",
+    "Location": "Jammu & Kashmir & Ladakh",
     "CapacityDetails": "All-weather bi-directional road tunnel linking J&K and Ladakh.",
     "ParsedBudget": 0.85
   }
