@@ -2068,7 +2068,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Agra Metro Rail Project",
-    "Summary": "Agra Metro is a modern public transportation project developed to improve urban mobility while \nsupporting tourism in the historic city of Agra. The project includes metro stations, elevated \ncorridors, maintenance facilities, and integrated transportation systems. It is expected to reduce\n traffic congestion around key tourist attractions including the Taj Mahal. The network promotes \nsustainable transportation, improves commuter convenience, and strengthens the city's \ninfrastructure while supporting economic development and tourism growth.",
+    "Summary": "A 29.65 km modern mass rapid transit system comprising 2 corridors and 27 stations connecting major historical landmarks, transport hubs, and residential zones in Agra.\n\nStates & Key Cities Covered:\nUttar Pradesh: Agra (Taj East Gate, Basai, Fatehabad Road, Taj Mahal, Agra Fort, Jama Masjid, Raja Ki Mandi, Sikandra, Agra Cantt, Kalindi Vihar)",
     "Category": "Transportation",
     "Area": "29.4 km",
     "Budget": "~₹9,130 Crore",
@@ -2080,7 +2080,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Ahmedabad Metro Phase II",
-    "Summary": "Expansion of Ahmedabad Metro connecting urban and suburban regions.\n The project includes new stations, elevated corridors, signaling systems, \nand passenger amenities. It supports sustainable urban growth and public\n transportation accessibility.",
+    "Summary": "A 28.25 km metro expansion extending the Ahmedabad Metro network from Motera Stadium to the twin city of Gandhinagar across 22 elevated stations.\n\nStates & Key Cities Covered:\nGujarat: Ahmedabad (Motera Stadium, Koteshwar Road), Gandhinagar (GNLU, Infocity, Sector 1, Sector 10A, Sector 16, Sector 24, Mahatma Mandir, Gujarat International Finance Tec-City / GIFT City)",
     "Category": "Infrastructure",
     "Area": "28.2 km",
     "Budget": "~₹9,130 Crore",
@@ -2092,7 +2092,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Ahmedabad–Dholera Expressway",
-    "Summary": "A high-speed expressway corridor connecting Ahmedabad to Dholera Special Investment Region.\n The project is developed and managed by the National Highways Authority of India (NHAI).\n It involves constructing a 109 km multi-lane concrete roadway and river crossing bridges. \nThe goal is to facilitate fast cargo movement and support the development of Dholera SIR. \nThe scope includes concrete roadway paving, bridge construction, and smart tolling. \nDPR Construction supports the project through technical engineering and project \ncoordination. Our engineers coordinate the design of the concrete roadway and bridge structures. \nThe roadway is paved using advanced concrete paving machinery to ensure a smooth, durable \nsurface. The river crossing bridges feature integrated deflection sensors to monitor structural health.",
+    "Summary": "A 109 km high-speed access-controlled 4-lane greenfield expressway connecting Ahmedabad to the Dholera Special Investment Region (SIR) and Dholera International Airport.\n\nStates & Key Cities Covered:\nGujarat: Ahmedabad (Sardar Patel Ring Road / Sarkhej), Sanand, Dholka, Bavla, Dholera SIR, Navagam",
     "Category": "Infrastructure",
     "Area": "720 km",
     "Budget": "$8 Billion",
@@ -2104,7 +2104,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Amaravati Capital City Infrastructure Project",
-    "Summary": "Development of roads, government buildings, drainage systems, utilities, and urban infrastructure\n for Andhra Pradesh's planned capital city.",
+    "Summary": "A greenfield master-planned capital city development encompassing government administrative complexes, trunk road networks, flood management canals, and sustainable smart urban infrastructure on the banks of the Krishna River.\n\nStates & Key Cities Covered:\nAndhra Pradesh: Amaravati, Vijayawada, Guntur, Mangalagiri, Tulluru, Thullur, Velagapudi, Undavalli",
     "Category": "Infrastructure",
     "Area": "180 km",
     "Budget": "$12 Billion",
@@ -2116,7 +2116,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Amritsar Smart City Project",
-    "Summary": "Modernization of Amritsar into a smart city with advanced infrastructure and mobility.",
+    "Summary": "Urban renewal and smart civic infrastructure program focused on heritage conservation around the Golden Temple, intelligent traffic management, smart street lighting, multi-level parking, and automated civic utilities.\n\nStates & Key Cities Covered:\nPunjab: Amritsar (Walled City, Heritage Street, Golden Temple Zone, Ranjit Avenue, Mall Road, Katra Ahluwalia)",
     "Category": "Urban Infrastructure",
     "Area": "80-100 km²",
     "Budget": "₹1,500-2,000 Crore",
@@ -2128,7 +2128,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Amritsar-Kolkata Economic Corridor",
-    "Summary": "Infrastructure development for enhanced trade and industrial connectivity across northern and eastern India.",
+    "Summary": "A 1,843 km national economic and trade corridor developed across northern and eastern India running parallel to the Eastern Dedicated Freight Corridor with multi-modal logistics parks and specialized industrial clusters.\n\nStates & Key Cities Covered:\nPunjab: Amritsar, Jalandhar, Ludhiana, Rajpura\nHaryana: Ambala, Yamunanagar\nUttarakhand: Saharanpur (border region), Roorkee, Haridwar, Dehradun\nUttar Pradesh: Saharanpur, Meerut, Muzaffarnagar, Bareilly, Aligarh, Kanpur, Lucknow, Prayagraj (Allahabad), Varanasi, Agra, Chandauli\nBihar: Sasaram, Gaya, Aurangabad\nJharkhand: Hazaribagh, Koderma, Bokaro Steel City, Dhanbad\nWest Bengal: Asansol, Durgapur, Burdwan (Bardhaman), Dankuni, Kolkata",
     "Category": "Industrial Infrastructure",
     "Area": "800+ km",
     "Budget": "₹15,000-20,000 Crore",
@@ -2140,7 +2140,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Amritsar-Kolkata Industrial Corridor (AKIC)",
-    "Summary": "Connecting manufacturing clusters across northern India with high-quality transport links. \nThe Amritsar-Kolkata Industrial Corridor (AKIC) is a major national infrastructure development.\n It spans a 1,843 km dedicated freight corridor, passing through seven states in northern India. \nThe project is managed by the National Industrial Corridor Development Corporation (NICDC). \nThe goal is to develop smart industrial zones and logistics parks along the freight corridor. \nThe scope of work includes freight terminal expansions, multi-lane highways, and power grids. \nDPR Construction supports the project through technical engineering and project coordination. \nOur engineers coordinate the design of industrial power distribution parks and storm water grids. \nThe freight terminals are engineered to handle high volumes of container traffic and cargo.",
+    "Summary": "Connecting manufacturing clusters across northern and eastern India with high-quality transport and logistics links along a 1,843 km dedicated freight spine traversing seven states.\n\nStates & Key Cities Covered:\nPunjab: Amritsar, Jalandhar, Ludhiana, Rajpura, Fatehgarh Sahib\nHaryana: Ambala, Yamunanagar\nUttarakhand: Saharanpur (border region), Roorkee, Haridwar, Dehradun\nUttar Pradesh: Saharanpur, Meerut, Muzaffarnagar, Bareilly, Aligarh, Kanpur, Lucknow, Prayagraj (Allahabad), Varanasi, Agra, Chandauli\nBihar: Sasaram, Gaya, Aurangabad\nJharkhand: Hazaribagh, Koderma, Bokaro Steel City, Dhanbad\nWest Bengal: Asansol, Durgapur, Burdwan (Bardhaman), Dankuni, Kolkata",
     "Category": "Infrastructure",
     "Area": "1,843 km",
     "Budget": "~₹1.82 Lakh Crore",
@@ -2152,7 +2152,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Bangalore Metro Phase 2",
-    "Summary": "Bangalore Metro Phase 2 is a major expansion of the Namma Metro network aimed at improving public \ntransportation across the city. The project includes elevated and underground metro corridors, modern \nstations, depots, signaling systems, and multimodal integration facilities. The expansion is expected to \nreduce traffic congestion, lower carbon emissions, and improve connectivity between residential, \ncommercial, and industrial areas. It plays a critical role in supporting Bengaluru's growing population \nand economic activity.",
+    "Summary": "A 72.09 km mass rapid transit expansion adding 61 stations across Purple and Green line extensions and introducing the new Yellow and Pink lines across high-density IT and residential corridors.\n\nStates & Key Cities Covered:\nKarnataka: Bengaluru (Whitefield, Electronic City, Bannerghatta Road, Nagawara, Silk Board, Kengeri, Anjanapura, Bommasandra, MG Road)",
     "Category": "Transportation",
     "Area": "73.9 km",
     "Budget": "~₹33,200 Crore",
@@ -2164,7 +2164,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Bengaluru Elevated Corridor",
-    "Summary": "Elevated corridors to ease heavy traffic congestion in Bengaluru.",
+    "Summary": "A comprehensive network of elevated road corridors designed to decongest high-traffic intersections and provide high-speed transit across north-south and east-west arteries in Bengaluru.\n\nStates & Key Cities Covered:\nKarnataka: Bengaluru (Hebbal, Silk Board, KR Puram, Goraguntepalya, Yeshwantpur, Richmond Road, Cantonment)",
     "Category": "Roads & Highways",
     "Area": "20-25 km",
     "Budget": "₹3,500-4,500 Crore",
@@ -2176,7 +2176,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Bengaluru Peripheral Ring Road",
-    "Summary": "The Bengaluru Peripheral Ring Road is a strategic road infrastructure project aimed at reducing\n congestion within Bengaluru city. The corridor includes multi-lane highways, flyovers, bridges, \nand logistics connectivity infrastructure. It will improve movement between industrial zones, \nresidential developments, and transportation hubs while supporting long-term urban growth \nand economic development.",
+    "Summary": "A 73.5 km 8-lane access-controlled semi-circular expressway connecting Tumakuru Road to Hosur Road, bypassing urban core congestion and connecting major state highways.\n\nStates & Key Cities Covered:\nKarnataka: Bengaluru (Tumakuru Road, Bellary Road / Hebbal, Hennur, Old Madras Road, Sarjapur Road, Hosur Road / Electronic City)",
     "Category": "Infrastructure",
     "Area": "73 km",
     "Budget": "~₹24,070 Crore",
@@ -2188,7 +2188,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Bengaluru Suburban Railway Project (BSRP)",
-    "Summary": "The Bengaluru Suburban Railway Project is a 148-km suburban rail network developed to \nimprove urban mobility and reduce traffic congestion across Bengaluru and surrounding suburbs.\n The project includes four rail corridors, elevated and at-grade stations, track laying, electrification \nsystems, signaling infrastructure, and integrated transit hubs. Advanced technologies such as \nCommunication-Based Train Control (CBTC), solar-powered station roofs, BIM coordination, and \nprefabricated bridge girders are being utilized to deliver a sustainable, high-capacity transit system.\n The project will provide seamless connectivity between residential areas, commercial hubs, metro \nnetworks, bus terminals, and the airport while supporting long-term economic growth and \nenvironmental sustainability.",
+    "Summary": "A 148.17 km commuter rail network with 4 dedicated corridors (Sampige, Parijaata, Kanaka, Mallige) connecting Bengaluru city center with peripheral industrial and airport clusters.\n\nStates & Key Cities Covered:\nKarnataka: Bengaluru (KSR Bengaluru, Yeshwantpur, Yelahanka, Devanahalli / Kempegowda International Airport, Baiyappanahalli, Heelalige, Kengeri, Chikkabanavara)",
     "Category": "Infrastructure",
     "Area": "180 km",
     "Budget": "$12 Billion",
@@ -2200,7 +2200,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Bengaluru–Chennai Expressway",
-    "Summary": "The Bengaluru–Chennai Expressway is a major greenfield access-controlled corridor connecting\n two of South India's largest economic centers. The project includes highways, tunnels, bridges, \ninterchanges, and smart transportation systems. It aims to improve logistics efficiency, reduce \ntravel time, and strengthen industrial connectivity.",
+    "Summary": "The Bengaluru–Chennai Expressway (NE-7) is a 258 km 4-lane access-controlled greenfield expressway connecting two of South India's largest economic powerhouses, reducing travel time to under 3 hours.\n\nStates & Key Cities Covered:\nKarnataka: Bengaluru (Hoskote), Malur, Bangarapet\nAndhra Pradesh: Palamaner, Chittoor, Bangarupalem, Kuppam\nTamil Nadu: Ranipet, Arakkonam, Kanchipuram, Sriperumbudur, Chennai",
     "Category": "Infrastructure",
     "Area": "262 km",
     "Budget": "~₹19,920 Crore",
@@ -2212,7 +2212,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Bhadla Solar Park",
-    "Summary": "The world's largest solar park by capacity, transforming\n desert lands into green energy. Located in the Thar Desert of Rajasthan, India, \nthis massive park has a capacity of 2,245 MW. The project is spread across approximately\n 5,700 hectares (14,000 acres) of dry land. The development was executed in four phases, \nmanaged by Rajasthan Renewable Energy Corporation. SECI (Solar Energy Corporation of India) \nconducted the auctions and coordinated implementation. Leading developers, including NTPC, \nAdani, and ReNew Power, constructed solar arrays. ",
+    "Summary": "One of the world's largest ultra-mega solar power parks spanning over 14,000 acres in Phalodi district with a total operational capacity exceeding 2,245 MW.\n\nStates & Key Cities Covered:\nRajasthan: Bhadla, Phalodi, Bap, Jodhpur District, Bikaner District",
     "Category": "Infrastructure(Solar park)",
     "Area": "800 acres",
     "Budget": "$400 Million",
@@ -2224,7 +2224,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Bharatmala Pariyojana",
-    "Summary": "A monumental road development project spanning expressways and economic corridors. \nThe project is developed by the Ministry of Road Transport and Highways (MoRTH), \nGovernment of India. It involves constructing thousands of kilometers of multi-lane concrete \nexpressways. The goal is to improve connectivity, reduce travel times, and boost cargo movement\n nationwide. The scope includes expressway paving, border road stabilization, and logistics park sites.\n DPR Construction supports the project through technical engineering and project coordination. \nOur engineers coordinate the design of multi-lane expressways and concrete bridge spans. \nThe expressways are constructed using advanced slipform concrete paving machinery. \nSpecialized waste plastic asphalt mix engineering is used to build durable, eco-friendly roads.",
+    "Summary": "India's flagship umbrella national highway development program optimizing freight and passenger movement by developing 34,800 km of economic corridors, inter-corridors, feeder routes, and border highways.\n\nStates & Key Cities Covered:\nPan India: Economic corridors, border connectivity highways, coastal roads, and expressways across Punjab, Haryana, Rajasthan, Gujarat, Maharashtra, Karnataka, Tamil Nadu, Andhra Pradesh, Telangana, Madhya Pradesh, Uttar Pradesh, Bihar, West Bengal, Odisha, and North East states",
     "Category": "Infrastructure",
     "Area": "Highways",
     "Budget": "₹10.79 Lakh Crore",
@@ -2236,7 +2236,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Bhilai Smart City Project",
-    "Summary": "Modernization of Bhilai into a smart city with advanced urban management technologies.",
+    "Summary": "Integrated urban infrastructure development modernizing the industrial steel hub with 24x7 smart water management, centralized command and control centers (ICCC), smart LED lighting, and underground utility ducting.\n\nStates & Key Cities Covered:\nChhattisgarh: Bhilai (Civic Center, Supela, Power House, Sector Areas, Nehru Nagar, Charoda)",
     "Category": "Urban Infrastructure",
     "Area": "60-90 km²",
     "Budget": "₹1,000-1,500 Crore",
@@ -2248,7 +2248,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Bhogapuram International Airport",
-    "Summary": "Bhogapuram International Airport is a greenfield airport project developed to serve the northern \ncoastal region of Andhra Pradesh. The project includes passenger terminals, runways, cargo \nfacilities, maintenance zones, and multimodal transportation infrastructure. It is expected to\n support tourism, trade, and economic development while improving regional connectivity.",
+    "Summary": "A greenfield international airport project being developed by GMR Group over 2,203 acres near Visakhapatnam to serve as a major aviation, cargo, and tourism gateway for North Coastal Andhra Pradesh.\n\nStates & Key Cities Covered:\nAndhra Pradesh: Bhogapuram, Vizianagaram, Visakhapatnam (Vizag), Srikakulam",
     "Category": "Infrastructure",
     "Area": "Airport",
     "Budget": "₹6,225 Crore",
@@ -2260,7 +2260,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Bhopal Metro Project",
-    "Summary": "Metro rail system to ease urban mobility and reduce traffic in Bhopal.",
+    "Summary": "A 27.87 km mass rapid transit network consisting of the Orange Line (Karond Circle to AIIMS) and Blue Line (Bhadbhada Square to Ratnagiri Tiraha) designed to ease public transport across Bhopal.\n\nStates & Key Cities Covered:\nMadhya Pradesh: Bhopal (AIIMS, Subhash Nagar, MP Nagar, Board Office, Habibganj / Rani Kamlapati, Karond Circle, Bhadbhada Square, Ratnagiri Tiraha)",
     "Category": "Transportation",
     "Area": "20-25 km",
     "Budget": "₹2,500-3,500 Crore",
@@ -2272,7 +2272,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Bikaner Solar Park",
-    "Summary": "A 500 MW utility-scale solar park under development to boost green energy in Rajasthan.",
+    "Summary": "Large-scale ultra-mega renewable solar power generation development situated in the Thar desert region of Rajasthan feeding clean electricity into the national green energy corridor.\n\nStates & Key Cities Covered:\nRajasthan: Bikaner (Kolayat, Nokha, Lunkaransar, Pugal, Chhattargarh)",
     "Category": "Renewable Energy",
     "Area": "2,000 acres (~8.1 km²)",
     "Budget": "₹2,500-3,000 Crore",
@@ -2284,7 +2284,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Bogibeel Bridge Connectivity Enhancement",
-    "Summary": "The Bogibeel Bridge is a strategic rail-cum-road infrastructure project built over the Brahmaputra River to enhance connectivity between Assam and Arunachal Pradesh. It significantly reduces travel time, improves trade and logistics, and strengthens defense mobility in the northeastern region. The bridge connects Dibrugarh (south bank) with Dhemaji (north bank), acting as a vital transportation corridor and boosting regional economic development.",
+    "Summary": "A 4.94 km strategic rail-cum-road bridge over the Brahmaputra River linking Upper Assam and Arunachal Pradesh, boosting trade, regional logistics, and strategic defense transit.\n\nStates & Key Cities Covered:\nAssam: Dibrugarh (South Bank), Dhemaji (North Bank), Tinsukia, North Lakhimpur\nArunachal Pradesh: Pasighat, Itanagar, Roing (via connecting feeder highways)",
     "Category": "Transportation Infrastructure",
     "Area": "120–150 km (Link)",
     "Budget": "~₹11,000 Crore",
@@ -2296,7 +2296,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Bundelkhand Expressway",
-    "Summary": "Bundelkhand Expressway is a strategic highway corridor connecting underdeveloped regions of \nUttar Pradesh with major economic centers. The project includes bridges, interchanges, service \nroads, and logistics connectivity infrastructure. It aims to promote industrial investment, improve \ntransportation efficiency, and accelerate regional development.",
+    "Summary": "A 296 km 4-lane access-controlled expressway in Uttar Pradesh linking the economically backward Bundelkhand region directly to the Agra-Lucknow Expressway and Yamuna Expressway.\n\nStates & Key Cities Covered:\nUttar Pradesh: Chitrakoot (Bharatkoop), Banda, Mahoba, Hamirpur, Jalaun, Auraiya, Etawah (Kudrail)",
     "Category": "Infrastructure",
     "Area": "296 km",
     "Budget": "~₹14,940 Crore",
@@ -2308,7 +2308,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Bundelkhand Solar Project",
-    "Summary": "Solar power park under development with a target capacity of 150 MW in Uttar Pradesh.",
+    "Summary": "Ultra-mega solar power park developments generating clean energy across drought-prone districts of the Bundelkhand region in southern Uttar Pradesh.\n\nStates & Key Cities Covered:\nUttar Pradesh: Jhansi, Jalaun, Lalitpur, Banda, Mahoba, Chitrakoot",
     "Category": "Renewable Energy",
     "Area": "600 acres (~2.4 km²)",
     "Budget": "₹650-850 Crore",
@@ -2320,7 +2320,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Chandigarh Elevated Corridor",
-    "Summary": "Elevated road to ease traffic congestion in Chandigarh metropolitan area.",
+    "Summary": "An elevated highway bypass corridor designed to relieve severe commuter bottlenecks connecting Chandigarh with Panchkula, Mohali, and the Himalayan Expressway towards Himachal Pradesh.\n\nStates & Key Cities Covered:\nChandigarh: Tribune Chowk, Madhya Marg, Transport Chowk, Zirakpur link\nPunjab & Haryana (Border Nodes): Mohali, Panchkula, Zirakpur",
     "Category": "Roads & Highways",
     "Area": "15-20 km",
     "Budget": "₹1,500-2,500 Crore",
@@ -2332,7 +2332,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Char Dham Highway Project",
-    "Summary": "Construction and widening of improved highways to facilitate pilgrimage access in Uttarakhand.",
+    "Summary": "An 889 km all-weather two-lane strategic highway development initiative upgrading highways connecting Uttarakhand's sacred pilgrimage shrines (Yamunotri, Gangotri, Kedarnath, and Badrinath).\n\nStates & Key Cities Covered:\nUttarakhand: Haridwar, Rishikesh, Dehradun, Dharasu, Uttarkashi (Yamunotri & Gangotri routes), Rudraprayag, Guptkashi, Sonprayag (Kedarnath route), Chamoli, Joshimath, Badrinath, Tanakpur-Pithoragarh link",
     "Category": "Roads & Highways",
     "Area": "800-900 km",
     "Budget": "₹12,000-14,000 Crore",
@@ -2344,7 +2344,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Chenab Rail Bridge / USBRL",
-    "Summary": "The world's highest railway bridge, establishing connectivity to the Kashmir Valley. Located \nin Jammu & Kashmir, India, the bridge is owned by Konkan Railway Corporation. It is a key\n component of the Udhampur-Srinagar-Baramulla Rail Link (USBRL) project. The bridge \nspans a deep river gorge, rising 359 meters above the Chenab River. The structure is a massive \nsteel arch, designed to withstand extreme wind and seismic forces. The scope of work includes\n steel arch assembly, cable crane lifting, and slope stabilization. DPR Construction provided \nproject management, structural monitoring, and technical support. Our engineers coordinated \nthe assembly of the steel arch, utilizing high-capacity cable cranes. The cranes transported \nmassive steel segments across the gorge to be aligned and welded.",
+    "Summary": "The world's highest railway arch bridge standing 359 meters above the Chenab River in Reasi, serving as the crown jewel of the Udhampur-Srinagar-Baramulla Rail Link (USBRL).\n\nStates & Key Cities Covered:\nJammu & Kashmir: Reasi (Bakkal & Kauri), Katra, Sangaldan, Banihal, Ramban, Srinagar",
     "Category": "Infrastructure",
     "Area": "359 meters high",
     "Budget": "~₹1,480 Crore",
@@ -2356,7 +2356,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Chennai Metro Phase II",
-    "Summary": "Chennai Metro Phase II is a large-scale urban transit project expanding the city's metro rail network. \nThe project includes underground tunnels, elevated corridors, modern stations, signaling systems, \nand integrated transport facilities. It aims to improve public transportation accessibility, reduce traffic \ncongestion, lower emissions, and support sustainable urban growth. The expanded network will \nconnect residential, commercial, and industrial areas across Chennai, enhancing mobility and economic \nproductivity.",
+    "Summary": "A massive 116.1 km mass transit expansion across 3 corridors (Corridor 3: Madhavaram to SIPCOT, Corridor 4: Lighthouse to Poonamallee Bypass, Corridor 5: Madhavaram to Sholinganallur) with 119 stations.\n\nStates & Key Cities Covered:\nTamil Nadu: Chennai (Madhavaram, Perambur, Sterling Road, Mylapore, Adyar, OMR / SIPCOT Siruseri, Lighthouse, T. Nagar, Vadapalani, Porur, Poonamallee Bypass, Alandur, Sholinganallur)",
     "Category": "Infrastructure",
     "Area": "118.9 km",
     "Budget": "~₹62,250 Crore",
@@ -2368,7 +2368,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Chennai Metro Phase III",
-    "Summary": "Chennai Metro Phase III is a planned extension of the city's metro network connecting emerging\n residential and industrial zones. The project includes additional stations, rail corridors, depots, \nand modern transit infrastructure. It supports sustainable transportation, economic development\n, and improved urban mobility.",
+    "Summary": "Strategic future extensions of Chennai Metro connecting peripheral industrial nodes, suburban residential hubs, and the proposed Parandur International Airport.\n\nStates & Key Cities Covered:\nTamil Nadu: Chennai, Poonamallee to Parandur Airport corridor, Koyambedu to Avadi, Kelambakkam, Kilambakkam Bus Terminus",
     "Category": "Transportation",
     "Area": "118.9 km",
     "Budget": "~₹62,250 Crore",
@@ -2380,7 +2380,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Chennai Peripheral Ring Road",
-    "Summary": "The Chennai Peripheral Ring Road project is a strategic highway corridor connecting major industrial, \nlogistics, and port zones around Chennai. The project includes multi-lane highways, bridges,\n interchanges, and freight connectivity infrastructure. It aims to improve freight movement, reduce\n urban congestion, and strengthen industrial supply chains. The corridor supports economic growth \nby improving access to ports, manufacturing clusters, and logistics hubs while facilitating regional\n development and investment.",
+    "Summary": "A 133.38 km 6-lane access-controlled orbital ring road connecting Ennore Port to Mahabalipuram, diverting heavy industrial container traffic outside Chennai city limits.\n\nStates & Key Cities Covered:\nTamil Nadu: Chennai Metropolitan Area, Ennore Port, Minjur, Thatchur, Tiruvallur, Sriperumbudur, Singaperumalkoil, Mahabalipuram",
     "Category": "Infrastructure",
     "Area": "133 km",
     "Budget": "~₹12,450 Crore",
@@ -2392,7 +2392,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Chennai Port Expansion Project",
-    "Summary": "The Chennai Port Expansion Project focuses on increasing cargo handling capacity\n and improving logistics infrastructure. The project includes container terminals, berths, \nstorage facilities, rail connectivity, and port modernization initiatives. It aims to strengthen \nmaritime trade and improve supply chain efficiency.",
+    "Summary": "Modernization of deep-water berths, mechanized container terminals, automated cargo handling facilities, and marine infrastructure at Chennai Port.\n\nStates & Key Cities Covered:\nTamil Nadu: Chennai Port, George Town, Royapuram, Ennore connectivity",
     "Category": "Infrastructure",
     "Area": "Terminal Expansion",
     "Budget": "~₹10,790 Crore",
@@ -2404,7 +2404,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Chennai Port–Maduravoyal Expressway",
-    "Summary": "The Chennai Port–Maduravoyal Expressway is a major elevated corridor designed to improve freight \nmovement between Chennai Port and the city highway network. The project includes elevated road\n infrastructure, traffic management systems, and dedicated logistics connectivity. It aims to reduce \ncongestion around the port and improve cargo transportation efficiency. The corridor will strengthen\n trade logistics and support industrial growth throughout the region.",
+    "Summary": "A 20.6 km double-decker elevated corridor along the Cooum River connecting Chennai Port directly with Maduravoyal on the Chennai-Bengaluru Highway for dedicated freight movement.\n\nStates & Key Cities Covered:\nTamil Nadu: Chennai (Chennai Port Gate 10, Chintadripet, Egmore, Chetpet, Aminjikarai, Koyambedu, Maduravoyal Junction)",
     "Category": "Infrastructure",
     "Area": "20.6 km",
     "Budget": "~₹1,660 Crore",
@@ -2416,7 +2416,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Colachel Port Project",
-    "Summary": "A deep-draft port project to handle larger container vessels and increase logistics connectivity.",
+    "Summary": "A proposed deep-water commercial transshipment port near Kanyakumari in southern Tamil Nadu strategically positioned along major international East-West maritime shipping lanes.\n\nStates & Key Cities Covered:\nTamil Nadu: Colachel, Enayam, Kanyakumari, Nagercoil, Tirunelveli",
     "Category": "Port Infrastructure",
     "Area": "500-700 hectares",
     "Budget": "₹4,000-6,000 Crore",
@@ -2428,7 +2428,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Dedicated Freight Corridor (Western DFC)",
-    "Summary": "Dedicated railway freight corridor connecting northern and western India. The project includes \nelectrified rail tracks, logistics hubs, bridges, and signaling systems. It increases freight \ncapacity and improves supply chain efficiency.",
+    "Summary": "A 1,504 km electrified heavy-haul freight rail corridor connecting Dadri in Uttar Pradesh to Jawaharlal Nehru Port (JNPT) in Navi Mumbai across five major industrial states.\n\nStates & Key Cities Covered:\nUttar Pradesh: Dadri, Greater Noida\nHaryana: Faridabad, Rewari, Manesar, Ateli\nRajasthan: Neemrana, Phulera, Ajmer, Marwar, Abu Road\nGujarat: Palanpur, Mahesana, Sanand, Vadodara, Bharuch, Surat\nMaharashtra: Palghar, Vasai Road, Navi Mumbai (JNPT)",
     "Category": "Infrastructure",
     "Area": "1,504 km",
     "Budget": "~₹99,600 Crore",
@@ -2440,7 +2440,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Delhi Metro Phase 5",
-    "Summary": "Expansion of the Delhi Metro network with new orbital lines and extension stations.",
+    "Summary": "Future expansion lines and feeder extensions connecting emerging residential, commercial, and NCR suburban hubs to the comprehensive Delhi Metro rapid transit grid.\n\nStates & Key Cities Covered:\nDelhi: Central Delhi, Narela, Kundli border, Burari, Dwarka extensions, Noida & Gurugram cross-border links",
     "Category": "Transportation",
     "Area": "50-60 km",
     "Budget": "₹5,000-7,000 Crore",
@@ -2452,7 +2452,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Delhi-Mumbai Industrial Corridor (DMIC)",
-    "Summary": "Massive industrial infrastructure development including smart cities and logistics expressways.\n The Delhi-Mumbai Industrial Corridor (DMIC) is one of India's most ambitious infrastructure programs. \nIt spans a 1,504 km dedicated freight corridor between Delhi and Mumbai, passing through six states. \nThe project is managed by the National Industrial Corridor Development Corporation (NICDC). \nThe goal is to develop smart, sustainable industrial cities with high-capacity logistics. The scope \nof work includes industrial park site grading, expressways, and utility routing. DPR Construction \nsupports the technical engineering and program management for key segments. Our engineers \ncoordinate utility routing, including high-capacity power lines and fiber grids. ",
+    "Summary": "India's flagship $90+ billion infrastructure program spanning 1,504 km across six states, developing smart industrial cities, modern logistics hubs, and utility grids.\n\nStates & Key Cities Covered:\nDelhi: National Capital Territory (NCT)\nHaryana: Gurugram, Manesar, Bawal, Faridabad, Rewari\nRajasthan: Neemrana, Behror, Alwar, Jaipur, Ajmer, Kishangarh, Bhilwara, Kota, Udaipur\nMadhya Pradesh: Neemuch, Mandsaur, Ratlam, Ujjain, Indore, Pithampur\nGujarat: Ahmedabad, Gandhinagar, Vadodara, Bharuch, Ankleshwar, Surat, Dholera SIR, Sanand\nMaharashtra: Palghar, Thane, Navi Mumbai, Mumbai (JNPT Port Hub)",
     "Category": "Infrastructure",
     "Area": "1,504 km",
     "Budget": "~₹7.47 Lakh Crore",
@@ -2464,7 +2464,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Delhi–Amritsar–Katra Expressway",
-    "Summary": "This greenfield expressway is designed to improve connectivity between Delhi, Punjab, and Jammu \n& Kashmir. The project includes high-speed highway infrastructure, tunnels, bridges, interchanges,\n and logistics facilities. It aims to reduce travel time, support tourism, strengthen freight movement, \nand improve access to important pilgrimage destinations.",
+    "Summary": "A 670 km access-controlled expressway connecting the National Capital Region with Punjab's industrial centers and J&K pilgrimage destinations (Mata Vaishno Devi).\n\nStates & Key Cities Covered:\nDelhi: Delhi-Haryana Border / KMP Expressway interchange (Bahadurgarh)\nHaryana: Jhajjar, Rohtak, Sonipat, Jind, Kaithal\nPunjab: Patiala, Sangrur, Ludhiana, Jalandhar, Kapurthala, Amritsar, Gurdaspur\nJammu & Kashmir: Kathua, Samba, Jammu, Udhampur, Katra (Mata Vaishno Devi)",
     "Category": "Infrastructure",
     "Area": "670 km",
     "Budget": "~₹37,350 Crore",
@@ -2476,7 +2476,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Delhi–Meerut Regional Rapid Transit System (RRTS)",
-    "Summary": "The Delhi–Meerut RRTS is India's first semi-high-speed regional rail corridor designed to connect \nDelhi, Ghaziabad, and Meerut. The project includes elevated viaducts, underground sections,\n modern stations, signaling systems, and multimodal transport integration. Trains are designed \nto operate at speeds up to 180 km/h, significantly reducing travel time between cities. The \ncorridor aims to improve regional mobility, reduce traffic congestion, lower vehicle emissions, \nand support economic growth throughout the National Capital Region. Advanced safety systems, \nplatform screen doors, and intelligent operational technologies are integrated into the network.",
+    "Summary": "India's first 82.15 km semi-high-speed regional rail transit network operating up to 180 km/h to connect Delhi, Ghaziabad, and Meerut in under 60 minutes.\n\nStates & Key Cities Covered:\nDelhi: Sarai Kale Khan, New Ashok Nagar, Anand Vihar\nUttar Pradesh: Sahibabad, Ghaziabad, Guldhar, Duhai, Muradnagar, Modi Nagar, Meerut South, Shatabdi Nagar, Begumpul, Modipuram (Meerut)",
     "Category": "Transportation",
     "Area": "82 km",
     "Budget": "~₹31,540 Crore",
@@ -2488,7 +2488,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Delhi–Mumbai Expressway",
-    "Summary": "The Delhi–Mumbai Expressway is one of India's largest highway infrastructure projects designed to \nimprove connectivity between the national capital and financial capital. The access-controlled\n expressway spans multiple states and significantly reduces travel time. The project includes intelligent\n traffic systems, wildlife crossings, service roads, interchanges, and logistics hubs. Advanced\n construction technologies and sustainable engineering practices have been implemented to improve\n safety and operational efficiency. The corridor is expected to boost industrial development, freight \nmovement, tourism, and regional economic growth while supporting the objectives of the PM Gati \nShakti program.",
+    "Summary": "India's longest 1,350 km 8-lane access-controlled greenfield expressway linking Delhi to Mumbai in 12 hours, featuring animal overpasses and intelligent traffic management.\n\nStates & Key Cities Covered:\nDelhi: DND Flyway, Sohna Road\nHaryana: Gurugram, Sohna, Nuh, Palwal, Faridabad\nRajasthan: Alwar, Bharatpur, Dausa, Jaipur, Sawai Madhopur, Bundi, Kota\nMadhya Pradesh: Sheopur, Morena, Ratlam, Mandsaur, Jhabua\nGujarat: Dahod, Godhra, Vadodara, Bharuch, Surat, Navsari, Valsad\nMaharashtra: Palghar, Thane, Navi Mumbai, Mumbai (JNPT)",
     "Category": "Infrastructure",
     "Area": "1,350 km",
     "Budget": "~₹1.07 Lakh Crore",
@@ -2500,7 +2500,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Dholera Smart City Project",
-    "Summary": "The Dholera Smart City Project is a flagship greenfield smart industrial city being developed under \nthe Dholera Special Investment Region (DSIR) in Gujarat. The project includes smart urban \ninfrastructure, underground utility tunnels, automated waste management systems, district \ncooling networks, water management facilities, ICT governance centers, and a large-scale\n solar park. Advanced technologies such as IoT-based command centers, SCADA systems,\n prefabricated utility corridors, and BIM-enabled infrastructure planning are being implemented \nto create a sustainable and future-ready urban ecosystem. The development aims to attract global \nmanufacturing investments, promote economic growth, and establish Dholera as a world-class \nindustrial and trading hub.",
+    "Summary": "India's pioneer platinum-rated greenfield smart city spanning 920 sq km in the Dholera Special Investment Region (SIR), featuring underground plug-and-play utilities, automated ICT systems, and an international cargo airport.\n\nStates & Key Cities Covered:\nGujarat: Dholera SIR, Ahmedabad District, Bavla, Dholka, Fedra, Gulf of Khambhat Region",
     "Category": "Infrastructure",
     "Area": "920 sq km",
     "Budget": "~₹1.24 Lakh Crore",
@@ -2512,7 +2512,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Dibang Multipurpose Hydroelectric Project",
-    "Summary": "The Dibang Multipurpose Hydroelectric Project is one of India's largest renewable energy and water \ninfrastructure developments located on the Dibang River in Arunachal Pradesh. The project involves \nconstruction of a 278-meter-high concrete gravity dam, making it India's tallest dam and the world's \ntallest RCC dam upon completion. The development includes a 2,880 MW hydropower station, \nunderground powerhouses, tunnels, spillways, transmission systems, flood moderation infrastructure, \nand reservoir facilities. The project is designed to generate over 11,000 million units of clean\n electricity annually while also providing flood control benefits to downstream regions. Advanced \nroller-compacted concrete technology, large-scale tunneling works, and modern hydroelectric \nengineering systems are being utilized throughout construction. The project will significantly \nstrengthen India's renewable energy capacity, improve grid stability, support economic development \nin Northeast India, and contribute toward national clean energy goals. \nIt is one of the most strategically important hydropower projects currently \nunder construction in the country.",
+    "Summary": "A 2,880 MW mega hydroelectric project featuring a 278-meter-high concrete gravity dam on the Dibang River in Lower Dibang Valley, providing clean power and vital flood moderation for the Brahmaputra valley.\n\nStates & Key Cities Covered:\nArunachal Pradesh: Lower Dibang Valley, Munli, Roing, Pasighat\nAssam (Beneficiary & Flood Control): Dhemaji, Tinsukia, Dibrugarh",
     "Category": "Infrastructure",
     "Area": "180 km",
     "Budget": "$12 Billion",
@@ -2524,7 +2524,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Dwarka Expressway",
-    "Summary": "Dwarka Expressway is a major urban transportation corridor connecting Delhi and Gurugram. \nThe project includes elevated roads, tunnels, interchanges, service roads, and intelligent traffic systems. \nIt is designed to reduce congestion on NH-48 and improve access between residential, commercial, \nand airport zones. The corridor supports urban expansion and economic development in the National \nCapital Region. Advanced construction technologies and smart mobility solutions are integrated to\n improve traffic efficiency and commuter experience.",
+    "Summary": "An ultra-modern 29 km 8-lane elevated urban expressway connecting Mahipalpur in Delhi with Kherki Daula in Gurugram, easing NH-48 bottlenecks and providing direct airport access.\n\nStates & Key Cities Covered:\nDelhi: Mahipalpur (Shiv Murti), IGI Airport Terminal 3 link, Dwarka Sectors 21-28, Bijwasan\nHaryana: Bajghera, New Gurugram (Sectors 84, 88, 99, 102, 106, 110), Basai, Kherki Daula, Manesar",
     "Category": "Infrastructure",
     "Area": "29 km",
     "Budget": "~₹9,960 Crore",
@@ -2536,7 +2536,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "East Coast Economic Corridor (ECIC)",
-    "Summary": "The Visakhapatnam-Chennai Industrial Corridor (VCIC) is a key industrial corridor in India, part of the \nEast Coast Economic Corridor (ECEC). It spans across multiple coastal districts in Andhra Pradesh, \ndesigned to stimulate industrial growth, manufacturing capacity, and high-velocity trade. The project is\n promoted by the National Industrial Corridor Development Corporation (NICDC) and the Government \nof Andhra Pradesh, with financial support from the Asian Development Bank (ADB). The goal is to \ndevelop smart industrial nodes, high-speed road networks, and advanced utility services to attract \nglobal manufacturing companies. The scope of work is divided into multiple phases, beginning with \nnode infrastructure development in regions like Yerpedu-Srikalahasti and Visakhapatnam. DPR \nConstruction's engineering team coordinates structural layouts, utility corridors, and environmental\n management systems. The corridor's primary utility systems include industrial water supply, power \ntransmission, and specialized waste treatment facilities.",
+    "Summary": "India's first coastal economic corridor spanning over 2,500 km along the eastern seaboard from West Bengal to Tamil Nadu, integrating ports, industrial nodes, and high-speed highway-rail links.\n\nStates & Key Cities Covered:\nWest Bengal: Kolkata, Haldia Port, Kharagpur\nOdisha: Paradip, Cuttack, Bhubaneswar, Gopalpur Port\nAndhra Pradesh: Srikakulam, Visakhapatnam, Kakinada, Machilipatnam, Guntur, Nellore, Krishnapatnam Port\nTamil Nadu: Chennai, Ennore, Tiruvallur, Cuddalore, Tuticorin",
     "Category": "Industrial Infrastructure",
     "Area": "1,000 km",
     "Budget": "₹20,000-25,000 Crore",
@@ -2548,7 +2548,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Eastern Dedicated Freight Corridor",
-    "Summary": "Freight railway corridor connecting Punjab to West Bengal. The project supports industrial \nlogistics, coal transportation, and economic development while reducing congestion on \npassenger rail routes.",
+    "Summary": "A 1,856 km electrified heavy-haul freight railway spine connecting Sahnewal near Ludhiana to Dankuni near Kolkata for coal, steel, container, and agricultural transit.\n\nStates & Key Cities Covered:\nPunjab: Ludhiana (Sahnewal), Sirhind, Rajpura, Shambhu\nHaryana: Ambala, Kalanaur, Yamunanagar\nUttar Pradesh: Saharanpur, Muzaffarnagar, Meerut, Hapur, Bulandshahr (Khurja), Aligarh, Hathras, Tundla, Firozabad, Etawah, Kanpur, Fatehpur, Prayagraj, Mirzapur, Pt. Deen Dayal Upadhyaya (Mughalsarai)\nBihar: Karwandia, Sasaram, Dehri-on-Sone, Gaya, Guraru\nJharkhand: Koderma, Hazaribagh, Gomoh, Dhanbad\nWest Bengal: Asansol, Andal, Durgapur, Bardhaman, Dankuni (Kolkata)",
     "Category": "Infrastructure",
     "Area": "1,839 km",
     "Budget": "~₹91,300 Crore",
@@ -2560,7 +2560,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Enayam Port Project",
-    "Summary": "A greenfield deep-water transshipment port project in Kanyakumari district aimed at boosting maritime trade.",
+    "Summary": "A proposed mega container transshipment port at Enayam near Colachel in Tamil Nadu, designed to capture Indian container cargo currently transshipped through Colombo and Singapore.\n\nStates & Key Cities Covered:\nTamil Nadu: Enayam, Colachel, Kanyakumari, Nagercoil, Tirunelveli",
     "Category": "Port Infrastructure",
     "Area": "1,000-1,500 hectares",
     "Budget": "₹7,500-10,000 Crore",
@@ -2572,7 +2572,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Ganga Expressway",
-    "Summary": "High-speed expressway connecting western and eastern Uttar Pradesh. The corridor supports regional\n development, logistics efficiency, and improved transportation infrastructure.",
+    "Summary": "A 594 km 6-lane (expandable to 8-lane) greenfield expressway connecting Meerut in western UP to Prayagraj in eastern UP, featuring a 3.5 km emergency airstrip in Shahjahanpur.\n\nStates & Key Cities Covered:\nUttar Pradesh: Meerut (Bijli Bamba bypass), Hapur, Bulandshahr, Amroha, Sambhal, Budaun, Shahjahanpur, Hardoi, Unnao, Rae Bareli, Pratapgarh, Prayagraj (Judapur Dandu)",
     "Category": "Infrastructure",
     "Area": "594 km",
     "Budget": "~₹36,520 Crore",
@@ -2584,7 +2584,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Ganga Vikas Project (Riverfront)",
-    "Summary": "The Ganga Vikas Project is a major riverfront redevelopment initiative under the Namami \nGange program focused on restoring, conserving, and beautifying the Ganges riverfront. The project \nincludes riverbank stabilization, ghat reconstruction, promenade development, sewage outfall \nmanagement, public sanitation facilities, and tourism infrastructure. Advanced engineering solutions\n such as bio-engineered erosion control systems, real-time water quality monitoring, BIM-based \nplanning, and prefabricated promenade modules are being implemented to enhance environmental\n sustainability and urban aesthetics. The project aims to improve river health, support tourism, \nprotect cultural heritage, and create modern public spaces along the Ganges corridor.",
+    "Summary": "Comprehensive riverfront redevelopment, ghat modernizations, sewage treatment plants (STPs), and ecological conservation along the Holy Ganga under the Namami Gange National Mission.\n\nStates & Key Cities Covered:\nUttarakhand: Rishikesh, Haridwar\nUttar Pradesh: Bijnor, Narora, Farrukhabad, Kanpur, Prayagraj, Varanasi, Mirzapur, Ghazipur\nBihar: Buxar, Patna, Munger, Bhagalpur\nWest Bengal: Murshidabad, Nabadwip, Howrah, Kolkata",
     "Category": "Infrastructure",
     "Area": "2,525 km basin scope",
     "Budget": "~₹12,450 Crore",
@@ -2596,7 +2596,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "GIFT City (Gujarat International Finance Tec-City)",
-    "Summary": "Building the high-efficiency utility systems for India's first operational financial smart city. \nLocated in Gandhinagar, Gujarat, India, GIFT City is a landmark urban project. It is designed \nto compete with international financial centers like Singapore and Dubai. The city is developed by\n GIFT Company Limited, promoted by the Government of Gujarat. The smart city integrates \ncommercial towers, stock exchanges, and residential zones. The scope includes design, installation,\n integration, and commissioning of systems. We deliver turnkey EPC (Engineering, Procurement, \nConstruction) solutions for complexes. Our engineers install mechanical systems, process piping, \nand electrical distribution grids. Advanced cleanroom technologies are integrated to support biotech\n and semiconductor clients. High-purity piping networks deliver sterile gases and high-purity \nchemicals safely. Industrial IoT (Internet of Things) sensors enable real-time monitoring and \npredictive maintenance.",
+    "Summary": "India's premier operational International Financial Services Centre (IFSC) and smart city situated between Ahmedabad and Gandhinagar with district cooling, automated waste collection, and underground utility tunnels.\n\nStates & Key Cities Covered:\nGujarat: Gandhinagar, Ahmedabad, Sabarmati Riverfront Zone, Infocity",
     "Category": "Infrastructure",
     "Area": "886 acres",
     "Budget": "~₹1.66 Lakh Crore",
@@ -2608,7 +2608,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Gorakhpur Link Expressway",
-    "Summary": "The Gorakhpur Link Expressway connects Gorakhpur with the Purvanchal Expressway, improving\n transportation infrastructure across eastern Uttar Pradesh. The project includes access-controlled\n roads, bridges, interchanges, and intelligent traffic systems. It supports industrial growth, freight \nmovement, and regional economic development.",
+    "Summary": "A 91.35 km 4-lane access-controlled greenfield expressway connecting Gorakhpur directly with the Purvanchal Expressway at Salarpur in Azamgarh district.\n\nStates & Key Cities Covered:\nUttar Pradesh: Gorakhpur (Jaitpur), Sant Kabir Nagar, Ambedkar Nagar, Azamgarh (Salarpur)",
     "Category": "Infrastructure",
     "Area": "91.3 km",
     "Budget": "~₹7,470 Crore",
@@ -2620,7 +2620,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Gorakhpur Metro Project",
-    "Summary": "Gorakhpur Metro is an urban mass transit initiative designed to improve public \ntransportation and reduce traffic congestion. The project includes metro stations,\n elevated corridors, depots, and signaling systems. It aims to support sustainable \nurban growth, improve mobility, and enhance commuter convenience.",
+    "Summary": "A proposed 27.41 km light rail transit (Metrolite) system comprising 2 corridors and 27 stations to ease urban commuting across Gorakhpur city.\n\nStates & Key Cities Covered:\nUttar Pradesh: Gorakhpur (Shyam Nagar, BRD Medical College, Gorakhpur Railway Station, Nausad, Gulriha)",
     "Category": "Transportation",
     "Area": "109 km (Phase 1: 29 km)",
     "Budget": "$2 Billion",
@@ -2632,7 +2632,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Great Nicobar International Container Transshipment Port Project",
-    "Summary": "The Great Nicobar International Container Transshipment Port Project is a strategically significant \nmaritime infrastructure development being undertaken at Galathea Bay in the Andaman and Nicobar \nIslands. The project aims to establish India as a major transshipment hub on international shipping \nroutes connecting Asia, Europe, and Africa. The development includes deep-water container terminals,\n breakwaters, cargo handling facilities, logistics infrastructure, road connectivity, utility networks, and \nport support facilities. Designed to handle some of the world's largest container vessels, the port will \nreduce dependence on foreign transshipment hubs and strengthen India's maritime trade \ncompetitiveness. The project incorporates advanced port automation systems, sustainable coastal\n engineering solutions, and modern logistics management technologies. Once completed, it is \nexpected to boost international trade, generate employment, improve regional connectivity, and \nenhance India's strategic presence in the Indo-Pacific region.",
+    "Summary": "A strategic mega-infrastructure project at Galathea Bay, Great Nicobar Island, comprising a deep-water transshipment port, international airport, power plant, and smart defense township near the Malacca Strait.\n\nStates & Key Cities Covered:\nAndaman & Nicobar Islands: Great Nicobar Island (Galathea Bay, Campbell Bay), Port Blair connectivity",
     "Category": "Infrastructure",
     "Area": "180 km",
     "Budget": "$12 Billion",
@@ -2644,7 +2644,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "High Productivity Freight Networks",
-    "Summary": "Transforming bulk freight transport with heavy-haul rail tracks and logistics terminals. \nThe project is developed by the Dedicated Freight Corridor Corporation of India (DFCCIL).\n It involves constructing high-capacity freight rail tracks, container yards, and substations. \nThe goal is to shift cargo transport from roads to energy-efficient rail networks. The scope \nincludes heavy double-stack container trackbeds, logistics yards, and signaling. DPR \nConstruction supports the project through technical engineering and logistics coordination.\n Our engineers coordinate the design of double-stack container trackbeds and bridge\n reinforcements. The trackbeds are engineered to support heavy axle loads (up to 25 tonnes)\n and high speeds. The logistics yards feature integrated container transfer systems and storage zones. ",
+    "Summary": "National initiative modernizing high-density freight rail networks with heavy-haul tracks, automated train control (Kavach), and multi-modal logistics terminals across India's mineral and industrial corridors.\n\nStates & Key Cities Covered:\nPan India: High-density freight railway corridors across Northern, Western, Central, Eastern, and Southern railway zones connecting mining hubs, ports, and industrial centers",
     "Category": "Infrastructure",
     "Area": "Multiple Corridors",
     "Budget": "~₹99,600 Crore",
@@ -2656,7 +2656,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Hyderabad Metro Rail Expansion",
-    "Summary": "Expansion of Hyderabad Metro network through additional corridors and stations. Designed to improve \nurban mobility and reduce congestion in one of India's fastest-growing cities.",
+    "Summary": "Phase 2 expansion of the Hyderabad Metro adding 70+ km across key corridors, including the Airport Express Metro connecting Gachibowli and Shamshabad.\n\nStates & Key Cities Covered:\nTelangana: Hyderabad (Raidurg, Gachibowli, Shamshabad / Rajiv Gandhi International Airport, Nagole, LB Nagar, Chandrayangutta, Miyapur, BHEL, Jubilee Hills)",
     "Category": "Transportation",
     "Area": "31 km (Phase 2)",
     "Budget": "~₹12,450 Crore",
@@ -2668,7 +2668,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Hyderabad Pharma City",
-    "Summary": "Industrial park focusing on the pharmaceutical sector.",
+    "Summary": "The world's largest integrated pharmaceutical and life-sciences cluster developed across 19,000+ acres in Mucherla near Hyderabad with zero liquid discharge (ZLD) treatment facilities.\n\nStates & Key Cities Covered:\nTelangana: Mucherla, Kandukur, Ranga Reddy District, Hyderabad, Shamshabad",
     "Category": "Industrial Infrastructure",
     "Area": "1,000 acres",
     "Budget": "₹8,000-9,000 Crore",
@@ -2680,7 +2680,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Hyderabad Regional Ring Road",
-    "Summary": "Hyderabad Regional Ring Road is a large-scale transportation project designed to improve \nregional connectivity around Hyderabad. The project includes highways, interchanges, bridges, \nand logistics infrastructure. It supports urban expansion, industrial growth, freight movement, \nand economic development across Telangana while reducing congestion within the city.",
+    "Summary": "A 340 km 4-lane access-controlled orbital expressway encircling the Outer Ring Road (ORR) at a radius of 30-50 km, connecting major national and state highways.\n\nStates & Key Cities Covered:\nTelangana: Sangareddy, Narsapur, Toopran, Gajwel, Yadagirigutta, Pragnapur, Bhongir, Choutuppal, Ibrahimpatnam, Shadnagar, Chevella",
     "Category": "Infrastructure",
     "Area": "340 km",
     "Budget": "~₹39,010 Crore",
@@ -2692,7 +2692,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Indore-Ahmedabad Expressway",
-    "Summary": "An expressway connecting Indore and Ahmedabad for better regional road connectivity.",
+    "Summary": "A 350-400 km high-speed economic highway corridor connecting Madhya Pradesh's commercial hub Indore with Gujarat's industrial centers.\n\nStates & Key Cities Covered:\nMadhya Pradesh: Indore, Dhar, Sardarpur, Jhabua\nGujarat: Dahod, Godhra, Halol, Vadodara, Ahmedabad",
     "Category": "Roads & Highways",
     "Area": "350-400 km",
     "Budget": "₹5,500-6,500 Crore",
@@ -2704,7 +2704,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Jaipur Elevated Road Project",
-    "Summary": "Elevated road project to ease traffic congestion in Jaipur city.",
+    "Summary": "High-capacity elevated road corridors traversing central congested traffic arteries in Jaipur, ensuring seamless connectivity between civil lines, railway terminals, and outer ring roads.\n\nStates & Key Cities Covered:\nRajasthan: Jaipur (Ajmer Road, Sodala, Civil Lines, Ambedkar Circle, Railway Station Road, Tonk Road, Sanganer)",
     "Category": "Roads & Highways",
     "Area": "10-15 km",
     "Budget": "₹2,000-3,000 Crore",
@@ -2716,7 +2716,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Jawaharlal Nehru Port (JNPT) Expansion",
-    "Summary": "JNPT Expansion involves increasing cargo handling capacity through new terminals, container \nyards, rail infrastructure, and logistics facilities. The project is designed to support growing \ninternational trade volumes and improve operational efficiency. Advanced digital systems and \nautomated cargo handling technologies are being implemented to strengthen India's maritime\ninfrastructure and supply chain capabilities.",
+    "Summary": "Expansion of India's premier container port with the 4th container terminal (Bharat Mumbai Container Terminals), deep-draft channel deepening, and direct integration with the Western DFC.\n\nStates & Key Cities Covered:\nMaharashtra: Navi Mumbai (Nhava Sheva, Uran, Chirle, Dronagiri), Mumbai Metropolitan Region",
     "Category": "Infrastructure",
     "Area": "Terminal Expansion",
     "Budget": "~₹12,450 Crore",
@@ -2728,7 +2728,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "JSW Group's Green Energy Projects",
-    "Summary": "JSW Group's Green Energy Projects comprise a large-scale renewable energy expansion across \nKarnataka, Maharashtra, and Tamil Nadu. The program includes 2.5 GW wind farms, utility-scale\n solar PV installations, substations, transmission infrastructure, and battery energy storage systems. \nAdvanced technologies such as smart SCADA analytics, robotic solar panel cleaning, BIM-based \nengineering coordination, and grid integration systems are utilized to support India's clean energy \ntransition. The project aims to provide reliable renewable power for industrial operations, reduce \ncarbon emissions, strengthen grid stability, and contribute to India's long-term sustainability and \nnet-zero objectives.",
+    "Summary": "Large-scale utility solar, wind, and pumped hydro renewable storage projects implemented by JSW Energy across multiple high-yield renewable resource zones in South and West India.\n\nStates & Key Cities Covered:\nKarnataka: Ballari (Vijayanagar), Koppal, Chitradurga\nMaharashtra: Raigad, Pune\nTamil Nadu: Tuticorin, Tirunelveli",
     "Category": "Infrastructure",
     "Area": "Multiple Facilities",
     "Budget": "~₹31,540 Crore",
@@ -2740,7 +2740,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Kandla Port Expansion",
-    "Summary": "Expansion of Kandla Port to handle increased cargo and shipping traffic.",
+    "Summary": "Capacity and infrastructure upgrade of Deendayal Port (Kandla Port) in the Gulf of Kutch, developing mechanized cargo berths, oil jetties, and smart container handling facilities.\n\nStates & Key Cities Covered:\nGujarat: Kandla, Gandhidham, Mundra, Kutch District",
     "Category": "Port Infrastructure",
     "Area": "150 acres",
     "Budget": "₹2,000-3,000 Crore",
@@ -2752,7 +2752,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Kandla Smart Industrial Port City",
-    "Summary": "This development focuses on creating integrated logistics, industrial, and port infrastructure \naround Deendayal Port. The project includes industrial zones, transportation corridors, \nwarehousing facilities, and smart urban infrastructure. It aims to strengthen trade \ncompetitiveness and support industrial growth.",
+    "Summary": "A smart industrial port city development spanning 1,400+ acres near Kandla and Gandhidham, combining port-based industries, multi-modal logistics, and green urban infrastructure.\n\nStates & Key Cities Covered:\nGujarat: Gandhidham, Kandla, Adipur, Kutch District",
     "Category": "Infrastructure",
     "Area": "1,425 acres",
     "Budget": "~₹16,600 Crore",
@@ -2764,7 +2764,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Kandla–Gorakhpur LPG Pipeline Project",
-    "Summary": "The Kandla–Gorakhpur LPG Pipeline Project is one of the world's longest liquefied petroleum gas \npipeline networks, developed to strengthen India's energy transportation infrastructure. The pipeline \noriginates from Kandla Port in Gujarat and traverses multiple states, supplying LPG to bottling plants \nand distribution centers across northern India. The project includes pipeline construction, pumping \nstations, storage facilities, control systems, and monitoring infrastructure. Advanced SCADA systems,\n leak detection technologies, and automated control mechanisms are integrated to ensure safe and \nefficient operations. The pipeline significantly reduces dependence on road transport for LPG\n distribution, lowers logistics costs, improves energy security, and reduces carbon emissions \nassociated with tanker transportation. The project plays a crucial role in supporting India's growing \ndomestic energy demand and improving fuel accessibility across urban and rural regions.",
+    "Summary": "A 2,805 km cross-country pipeline network connecting Kandla Port import terminals in Gujarat to bottling plants and distribution centers across northern India.\n\nStates & Key Cities Covered:\nGujarat: Kandla, Mundra, Jamnagar, Rajkot, Ahmedabad, Gandhinagar\nRajasthan: Jaipur, Ajmer, Pali, Bhilwara, Kota\nHaryana: Rewari, Gurugram, Faridabad\nUttar Pradesh: Mathura, Agra, Aligarh, Bareilly, Kanpur, Lucknow, Raebareli, Prayagraj, Varanasi, Gorakhpur\nBihar: Feeder links towards Muzaffarpur and Patna",
     "Category": "Infrastructure",
     "Area": "2,805 km",
     "Budget": "~₹10,790 Crore",
@@ -2776,7 +2776,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Kanpur Metro Rail Project",
-    "Summary": "The Kanpur Metro Rail Project is a modern urban transit system developed to improve mobility in\n one of Uttar Pradesh's largest industrial cities. The project includes elevated corridors, metro\n stations, depots, signaling systems, and passenger facilities. It is designed to reduce traffic \ncongestion, provide reliable public transportation, and support sustainable urban growth. \nThe metro network will improve connectivity between residential, commercial, educational, \nand industrial areas while encouraging the use of environmentally friendly transport solutions.",
+    "Summary": "A 32.38 km mass transit rail network comprising Corridor 1 (IIT Kanpur to Naubasta) and Corridor 2 (CSA University to Barra-8) with modern underground and elevated stations.\n\nStates & Key Cities Covered:\nUttar Pradesh: Kanpur (IIT Kanpur, Kalyanpur, Rawatpur, Moti Jheel, Chunniganj, Bada Chauraha, Kanpur Central Railway Station, Naubasta, CSA University, Barra)",
     "Category": "Transportation",
     "Area": "32.4 km",
     "Budget": "~₹11,620 Crore",
@@ -2788,7 +2788,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Ken–Betwa River Linking Project",
-    "Summary": "The Ken–Betwa Link Project is India's first major river interlinking initiative designed to\n transfer water from the Ken River to the Betwa River basin. The project includes dams, \ncanals, tunnels, and irrigation systems. It aims to improve water availability, agricultural \nproductivity, and drought resilience across central India.",
+    "Summary": "India's pioneer river interlinking infrastructure development transferring surplus water from the Ken River in MP to the Betwa River basin in UP via the Daudhan Dam and 221 km link canal.\n\nStates & Key Cities Covered:\nMadhya Pradesh: Panna, Chhatarpur, Damoh, Tikamgarh, Sagar, Raisen, Vidisha\nUttar Pradesh: Banda, Mahoba, Jhansi, Lalitpur, Hamirpur",
     "Category": "Infrastructure",
     "Area": "221 km link canal",
     "Budget": "~₹44,820 Crore",
@@ -2800,7 +2800,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Kochi Metro Phase II",
-    "Summary": "Expansion of Kochi Metro network connecting key urban and suburban destinations. \nThe project includes elevated corridors, stations, and multimodal transport integration.\n It aims to improve public transportation efficiency and sustainability.",
+    "Summary": "An 11.2 km elevated Pink Line extension with 11 stations connecting the Jawaharlal Nehru Stadium at Kaloor to the Infopark / SmartCity tech hub in Kakkanad.\n\nStates & Key Cities Covered:\nKerala: Kochi (JLN Stadium / Kaloor, Palarivattom, Chembumukku, Vazhakkala, Padamughal, Kakkanad Junction, Cochin Special Economic Zone / CSEZ, Infopark, SmartCity)",
     "Category": "Infrastructure",
     "Area": "11.2 km",
     "Budget": "~₹8,300 Crore",
@@ -2812,7 +2812,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Kochi Water Metro Project",
-    "Summary": "Kochi Water Metro is India's first integrated water-based public transport system. The project\n includes electric ferries, terminals, charging infrastructure, and passenger facilities connecting\n islands around Kochi. It aims to reduce traffic congestion, provide environmentally friendly \ntransportation, and improve connectivity across the metropolitan region.",
+    "Summary": "India's first integrated water transport system with 78 battery-powered electric hybrid ferries connecting 38 terminals across 10 island communities around the Kochi backwaters.\n\nStates & Key Cities Covered:\nKerala: Kochi (High Court, Vypeen, Bolgatty, Fort Kochi, Mattancherry, Willingdon Island, Kakkanad, Eloor, Cheranalloor, Vyttila)",
     "Category": "Transportation",
     "Area": "109 km (Phase 1: 29 km)",
     "Budget": "$2 Billion",
@@ -2824,7 +2824,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Kolkata East-West Metro Corridor",
-    "Summary": "Expansion of the metro corridor to improve urban mobility across Kolkata.",
+    "Summary": "A 16.6 km metro line (Green Line) connecting Sector V in Salt Lake to Howrah Maidan, including India's first underwater river tunnel beneath the Hooghly River.\n\nStates & Key Cities Covered:\nWest Bengal: Kolkata (Salt Lake Sector V, Karunamoyee, Central Park, City Center, Bengal Chemical, Salt Lake Stadium, Phoolbagan, Sealdah, Esplanade, Mahakaran) To Howrah (Howrah Railway Station, Howrah Maidan)",
     "Category": "Transportation",
     "Area": "20-25 km",
     "Budget": "₹4,500-6,000 Crore",
@@ -2836,7 +2836,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Kolkata Metro Line 6",
-    "Summary": "A new metro line connecting Kavi Subhash to Netaji Subhash Chandra Bose International Airport in Kolkata.",
+    "Summary": "A 29.87 km elevated and underground metro corridor (Orange Line) connecting Kavi Subhash (New Garia) to Netaji Subhash Chandra Bose International Airport via Rajarhat / New Town.\n\nStates & Key Cities Covered:\nWest Bengal: Kolkata (New Garia / Kavi Subhash, Mukundapur, Ruby Hospital / Hemanta Mukherjee, VIP Bazar, Science City, Chingrighata, Salt Lake Sector V, Rajarhat / New Town, Chinar Park, NSCBI Airport)",
     "Category": "Transportation",
     "Area": "20-25 km",
     "Budget": "₹3,000-4,000 Crore",
@@ -2848,7 +2848,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Kolkata-Howrah Metro Tunnel",
-    "Summary": "Underground underwater metro tunnel under the Hooghly river easing transport between Kolkata and Howrah.",
+    "Summary": "India's first underwater transportation tunnel engineered 13 meters below the riverbed of the Hooghly River, connecting the twin cities of Kolkata and Howrah in 45 seconds of travel time.\n\nStates & Key Cities Covered:\nWest Bengal: Kolkata (Salt Lake Sector V, Karunamoyee, Sealdah, Esplanade, Mahakaran) To Howrah (Howrah Railway Station, Howrah Maidan)",
     "Category": "Transportation",
     "Area": "10-12 km",
     "Budget": "₹3,000-4,500 Crore",
@@ -2860,7 +2860,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Kovvada Nuclear Power Plant – India",
-    "Summary": "A strategic nuclear energy generation project designed to \nmeet clean energy goals in Andhra Pradesh.\n The project is owned and executed by the Nuclear Power Corporation \nof India Limited (NPCIL).\n It aims to establish a high-capacity nuclear power \nplant to supply base-load power to South India. \nThe scope includes heavy foundation engineering \nfor reactor buildings and structural containment.",
+    "Summary": "A proposed 6-unit 7,200 MW nuclear power generation complex in Srikakulam district in coastal Andhra Pradesh utilizing advanced light water reactor technology.\n\nStates & Key Cities Covered:\nAndhra Pradesh: Kovvada, Ranasthalam, Srikakulam District, Visakhapatnam region",
     "Category": "Infrastructure",
     "Area": "7 km",
     "Budget": "$10 Billion",
@@ -2872,7 +2872,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Krishnapatnam Port Expansion Project",
-    "Summary": "The Krishnapatnam Port Expansion Project is a major maritime infrastructure development aimed at \nincreasing cargo handling capacity and accommodating larger vessels at one of India's key logistics \ngateways. The project includes the construction of deep-draft container berths, quay walls, container\n yards, dredging works, railway connectivity, and cargo highway infrastructure. Advanced technologies \nsuch as automated quay crane dispatch systems, smart logistics tracking, biometric access controls, \nBIM-enabled design coordination, and corrosion-resistant marine structures are being implemented\n to improve operational efficiency and trade competitiveness. The expansion will strengthen regional \nsupply chains, reduce logistics costs, and support industrial growth across Andhra Pradesh, Karnataka,\n and Tamil Nadu.",
+    "Summary": "Deep-water privately operated port development in Nellore district featuring deep-draft berths, mechanized coal handling, container terminals, and direct rail-highway connectivity.\n\nStates & Key Cities Covered:\nAndhra Pradesh: Krishnapatnam, Nellore, Muthukur, Gudur, Tirupati region",
     "Category": "Infrastructure",
     "Area": "Deep-water Berths",
     "Budget": "~₹7,055 Crore",
@@ -2884,7 +2884,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Lucknow Metro Phase 2",
-    "Summary": "The second phase expansion of the Lucknow Metro project to improve urban transit in UP.",
+    "Summary": "An 11.16 km East-West corridor (Blue Line) comprising 12 stations connecting Charbagh Railway Station with Vasant Kunj via the densely populated old Lucknow heritage area.\n\nStates & Key Cities Covered:\nUttar Pradesh: Lucknow (Charbagh Railway Station, Gautam Buddha Marg, Aminabad, PandeyGanj, City Railway Station, Medical Chauraha / KGMU, Chowk, Thakurganj, Balaganj, Vasant Kunj)",
     "Category": "Transportation",
     "Area": "25-30 km",
     "Budget": "₹2,500-3,500 Crore",
@@ -2896,7 +2896,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Ludhiana Elevated Road Project",
-    "Summary": "Elevated road project to reduce traffic congestion in Ludhiana.",
+    "Summary": "A 13 km 4-lane elevated highway corridor on NH-5 spanning from Ferozepur Road to Samrala Chowk to decongest major commercial and industrial traffic in Ludhiana.\n\nStates & Key Cities Covered:\nPunjab: Ludhiana (Ferozepur Road, Octroi Post, Verka Plant, Bhai Bala Chowk, Bharat Nagar Chowk, Bus Stand, Samrala Chowk)",
     "Category": "Roads & Highways",
     "Area": "10-12 km",
     "Budget": "₹1,500-2,000 Crore",
@@ -2908,7 +2908,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Mopa Airport Expansion Project",
-    "Summary": "Expansion of Manohar International Airport (Mopa) includes terminal upgrades, additional \npassenger handling capacity, cargo facilities, and aviation support infrastructure. The project\n is intended to accommodate growing tourism demand and strengthen Goa's connectivity to\n domestic and international destinations.",
+    "Summary": "Expansion of Manohar International Airport (Mopa Airport) in North Goa, developing terminal capacity to 13+ million passengers, cargo logistics terminals, and aviation maintenance hubs.\n\nStates & Key Cities Covered:\nGoa: Mopa, Pernem, Panaji, Mapusa, North Goa, South Maharashtra border region (Sindhudurg)",
     "Category": "Infrastructure",
     "Area": "2,132 acres",
     "Budget": "~₹4,150 Crore",
@@ -2920,7 +2920,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Mumbai Coastal Road Project Phase II",
-    "Summary": "Phase II of the Mumbai Coastal Road extends coastal connectivity infrastructure through \ntunnels, bridges, interchanges, and intelligent traffic systems. The project aims to reduce \ncongestion and improve travel efficiency across Mumbai.",
+    "Summary": "The northern extension of the Chhatrapati Sambhaji Maharaj Coastal Road from Versova to Dahisar, featuring sea bridges, undersea tunnels, and arterial interchanges along Mumbai's western coast.\n\nStates & Key Cities Covered:\nMaharashtra: Mumbai (Versova, Lokhandwala, Andheri West, Goregaon, Malad, Kandivali, Borivali, Dahisar, connecting to Mira-Bhayandar)",
     "Category": "Infrastructure",
     "Area": "29.2 km",
     "Budget": "~₹14,110 Crore",
@@ -2932,7 +2932,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Mumbai Metro Line 3 (Colaba–Bandra–SEEPZ)",
-    "Summary": "Mumbai Metro Line 3 is India's longest fully underground metro corridor designed to improve \nurban transportation across Mumbai. The project includes underground stations, tunnels, \nadvanced signaling systems, and integrated passenger facilities. It connects major business \ndistricts, residential areas, and transportation hubs. The metro line is expected to reduce road\n congestion, lower pollution levels, and significantly improve commuting efficiency for millions of \npassengers.",
+    "Summary": "A 33.5 km fully underground rapid transit corridor (Aqua Line) traversing South Mumbai, BKC, Mumbai International Airport (CSMIA), and the SEEPZ/Aarey industrial hub across 27 stations.\n\nStates & Key Cities Covered:\nMaharashtra: Mumbai (Cuffe Parade, Churchgate, CST, Girgaon, Worli, Siddhivinayak, Dadar, Dharavi, BKC, Santacruz, CSMIA Domestic & International Terminals, Marol Naka, SEEPZ, Aarey JVLR)",
     "Category": "Transportation",
     "Area": "33.5 km",
     "Budget": "~₹33,200 Crore",
@@ -2944,7 +2944,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Mumbai Metro Line 4",
-    "Summary": "Metro corridor expansion to improve public transport between Wadala and Kasarvadavali in Mumbai.",
+    "Summary": "A 32.32 km elevated metro corridor (Green Line) with 32 stations connecting Wadala in central Mumbai to Kasarvadavali on Ghodbunder Road in Thane.\n\nStates & Key Cities Covered:\nMaharashtra: Mumbai & Thane (Wadala, GTB Nagar, Chembur, Ghatkopar, Vikhroli, Bhandup, Mulund, Teen Hath Naka, Cadbury Junction, Majiwada, Kapurbawdi, Manpada, Kasarvadavali / Ghodbunder Road)",
     "Category": "Transportation",
     "Area": "20-25 km",
     "Budget": "₹4,500-6,000 Crore",
@@ -2956,7 +2956,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Mumbai Metro Line 5",
-    "Summary": "Metro rail expansion connecting Thane, Bhiwandi, and Kalyan in the Mumbai Metro region.",
+    "Summary": "A 24.9 km elevated transit line connecting industrial, warehousing, and residential clusters of Thane, Bhiwandi, and Kalyan across the Mumbai Metropolitan Region.\n\nStates & Key Cities Covered:\nMaharashtra: Thane (Kapurbawdi, Balkum, Kasheli), Kalher, Purna, Bhiwandi (Dhamankar Naka, Temghar), Kongaon, Kalyan (Durgadi Fort, Sahajanand Chowk, Kalyan APMC)",
     "Category": "Transportation",
     "Area": "20-25 km",
     "Budget": "₹8,000-10,000 Crore",
@@ -2968,7 +2968,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Mumbai Metro Line 6",
-    "Summary": "Mumbai Metro Line 6 is an elevated rapid transit corridor connecting Lokhandwala and Vikhroli. \nThe project includes metro stations, viaducts, depots, and advanced operational systems. \nIt aims to improve east-west connectivity, reduce travel time, and integrate with existing metro\n corridors. The line will enhance mobility across Mumbai while supporting sustainable\n transportation and urban development objectives.",
+    "Summary": "A 15.31 km elevated metro line (Pink Line) with 13 stations connecting Swami Samarth Nagar in Lokhandwala (Andheri West) to Vikhroli along the Jogeshwari-Vikhroli Link Road (JVLR).\n\nStates & Key Cities Covered:\nMaharashtra: Mumbai (Swami Samarth Nagar / Lokhandwala, Jogeshwari West, JVLR, Shyam Nagar, Mahakali Caves, SEEPZ Village, Powai Lake, IIT Bombay, Kanjurmarg, Vikhroli EEH)",
     "Category": "Transportation",
     "Area": "14.5 km",
     "Budget": "~₹9,130 Crore",
@@ -2980,7 +2980,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Mumbai Metro Line 7A",
-    "Summary": "Extension of the metro network in Mumbai connecting Andheri East to CSIA Airport.",
+    "Summary": "A 3.4 km extension connecting the Red Line at Gundavali (Andheri East) directly to the Chhatrapati Shivaji Maharaj International Airport (CSMIA Terminal 2), featuring underground tunnel works.\n\nStates & Key Cities Covered:\nMaharashtra: Mumbai (Andheri East, Gundavali, Western Express Highway, Sahar Airport Road, CSMIA Terminal 2)",
     "Category": "Transportation",
     "Area": "15-20 km",
     "Budget": "₹3,000-4,500 Crore",
@@ -2992,7 +2992,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Mumbai Trans Harbour Link (Atal Setu)",
-    "Summary": "The Mumbai Trans Harbour Link is India's longest sea bridge connecting Mumbai and Navi Mumbai. \nThe project significantly reduces travel time between the two cities and improves connectivity to ports,\n industrial zones, and the upcoming Navi Mumbai International Airport. The bridge incorporates \nadvanced engineering technologies, intelligent traffic systems, and earthquake-resistant structures.\n It supports regional economic growth, logistics efficiency, and urban expansion while enhancing\n transportation infrastructure across the Mumbai Metropolitan Region.",
+    "Summary": "India's longest 21.8 km 6-lane sea bridge connecting Sewri in South Mumbai to Chirle near Nhava Sheva in Navi Mumbai in 20 minutes, directly linking to JNPT and NMIA.\n\nStates & Key Cities Covered:\nMaharashtra: Mumbai (Sewri, Wadala, Parel) To Navi Mumbai (Nhava Sheva, Chirle, Ulwe, JNPT Port, Panvel)",
     "Category": "Infrastructure",
     "Area": "21.8 km",
     "Budget": "~₹18,260 Crore",
@@ -3004,7 +3004,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Mumbai Urban Transport Project (MUTP) Phase III",
-    "Summary": "MUTP Phase III includes suburban railway upgrades, station modernization, signaling \nsystems, and capacity enhancement measures. The project is designed to improve commuter \nsafety, reduce congestion, and strengthen Mumbai's transportation network.",
+    "Summary": "Suburban railway expansion program adding quadrupling tracks on Virar-Dahanu Road, new suburban corridor on Panvel-Karjat, elevated link on Airoli-Kalwa, and modern air-conditioned EMU rolling stock.\n\nStates & Key Cities Covered:\nMaharashtra: Mumbai Metropolitan Region (Virar, Palghar, Dahanu Road, Panvel, Karjat, Airoli, Kalwa, Thane, Navi Mumbai, Kalyan)",
     "Category": "Transportation",
     "Area": "180 km",
     "Budget": "$12 Billion",
@@ -3016,7 +3016,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Mysore Wind Power Project",
-    "Summary": "The Mysore Wind Power Project is a utility-scale renewable energy development designed to \ngenerate clean electricity through 120 high-efficiency wind turbines in Karnataka. The project \nincludes turbine\\ foundation construction, tower erection, underground collection cabling, access roads,\nsubstationsand high-voltage grid connectivity infrastructure. Advanced technologies such as LiDAR-\nbased wind resource mapping, smart grid synchronization systems, BIM-enabled engineering coordination, \nand prefabricated steel-concrete tower components are being utilized to optimize energy generation and \noperational efficiency. The project aims to strengthen renewable energy capacity, reduce carbon \nemissions, enhance grid reliability, and support sustainable economic growth in the region.",
+    "Summary": "Renewable clean wind energy generation facilities utilizing high-efficiency wind turbine generators across the elevated plateaus and hill ranges of Mysore and surrounding districts.\n\nStates & Key Cities Covered:\nKarnataka: Mysuru (Mysore), Hunsur, Nanjangud, Mandya, Chamarajanagar",
     "Category": "Infrastructure",
     "Area": "Wind Farm Area",
     "Budget": "~₹2,075 Crore",
@@ -3028,7 +3028,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Nagpur Metallurgical Expansion Project",
-    "Summary": "The Nagpur Metallurgical Expansion Project is a major industrial infrastructure development focused \non increasing alloy and structural steel manufacturing capacity in Hingna MIDC, Nagpur. The project \nincludes the construction of a new electric arc furnace (EAF), steel rolling mill foundations, cooling \nsystems, utility infrastructure, air filtration networks, and high-voltage power integration. Advanced \ntechnologies such as AI-driven melt composition analytics, energy-efficient furnace recovery systems,\n BIM-enabled plant design, and closed-loop water cooling systems are being implemented to improve\n operational efficiency and environmental sustainability. The expansion aims to support growing \ndemand from the construction, infrastructure, and automotive sectors while creating employment \nand promoting industrial growth.",
+    "Summary": "Major industrial metallurgical manufacturing expansion at Hingna MIDC in Nagpur, incorporating advanced electric arc furnaces (EAF), steel rolling mills, and automated emissions control systems.\n\nStates & Key Cities Covered:\nMaharashtra: Nagpur (Hingna MIDC, Butibori, Kalmeshwar, Wardha Road Industrial Belt)",
     "Category": "Infrastructure",
     "Area": "Industrial Zones",
     "Budget": "~₹3,735 Crore",
@@ -3040,7 +3040,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Nagpur Metro Phase II",
-    "Summary": "xtension of Nagpur Metro to improve citywide connectivity and support urban expansion.\n The project includes new rail corridors, stations, and transit-oriented infrastructure.\n It is expected to enhance mobility and reduce traffic congestion.",
+    "Summary": "A 43.8 km expansion of Nagpur Metro with 32 stations extending transit to peripheral industrial and residential hubs including Kanhan, Butibori, Transport Nagar, and Hingna.\n\nStates & Key Cities Covered:\nMaharashtra: Nagpur (Automotive Square to Kanhan River, Prajapati Nagar to Transport Nagar, Lokmanya Nagar to Hingna, Khapri to Butibori MIDC)",
     "Category": "Infrastructure",
     "Area": "43.8 km",
     "Budget": "~₹6,640 Crore",
@@ -3052,7 +3052,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Nagpur–Mumbai Samruddhi Mahamarg",
-    "Summary": "The Hindu Hrudaysamrat Balasaheb Thackeray Maharashtra Samruddhi Mahamarg is a high-speed\n access-controlled expressway connecting Nagpur and Mumbai. The project spans over 700 km \nand includes interchanges, tunnels, bridges, logistics hubs, and smart traffic systems. It is designed \nto reduce travel time, improve freight movement, promote industrial development, and support \neconomic growth across Maharashtra. The corridor connects major agricultural, industrial, and \nurban centers while enhancing regional connectivity and investment opportunities.",
+    "Summary": "A 701 km 6-lane access-controlled super communication expressway connecting Nagpur and Mumbai across 10 districts, slashing travel time from 16 hours to 8 hours.\n\nStates & Key Cities Covered:\nMaharashtra: Nagpur, Wardha, Amravati, Washim, Buldhana, Jalna, Chhatrapati Sambhaji Nagar (Aurangabad), Ahmednagar (Shirdi / Kopargaon), Nashik (Sinnar, Igatpuri), Thane, Mumbai",
     "Category": "Infrastructure",
     "Area": "701 km",
     "Budget": "~₹62,250 Crore",
@@ -3064,7 +3064,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "National Industrial Corridor Development Programme",
-    "Summary": "This national initiative develops industrial corridors, logistics infrastructure,\n smart cities, and manufacturing hubs across India. The program supports economic \ngrowth, investment attraction, and industrial competitiveness through integrated \ninfrastructure development.",
+    "Summary": "A national initiative developing 11 mega industrial corridors, 32 smart industrial nodes, multi-modal logistics hubs, and manufacturing cities across India.\n\nStates & Key Cities Covered:\nPan India: DMIC, AKIC, CBIC, BMIC, ECIC corridors covering Delhi, Haryana, Rajasthan, Gujarat, Maharashtra, Uttar Pradesh, Bihar, Jharkhand, West Bengal, Karnataka, Tamil Nadu, Andhra Pradesh, Telangana, Kerala, and Madhya Pradesh",
     "Category": "Infrastructure",
     "Area": "Industrial Corridor",
     "Budget": "₹8.30 Lakh Crore",
@@ -3076,7 +3076,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "National Maritime Heritage Complex",
-    "Summary": "Developing an international tourist destination to showcase India's rich maritime history. \nLocated in the historical site of Lothal, Gujarat, India, the project is owned by the government. \nIt is managed by the Ministry of Ports, Shipping and Waterways to preserve maritime heritage. \nThe complex features museum galleries, a reconstructed Lothal dockyard, and a theme park. \nThe goal is to create a world-class destination for education, tourism, and historical research.\n The scope includes museum building structures, dockyard reconstruction, and water channels. \nDPR Construction provides project management and technical engineering support. Our engineers \ncoordinate the design of the museum galleries and dockyard structures. The museum structures \nfeature sustainable clay brick facades and natural cooling ducts. ",
+    "Summary": "A world-class maritime heritage tourism and educational destination developed by the Ministry of Ports at the ancient Harappan port town of Lothal, featuring museum galleries, a reconstructed dockyard, and theme parks.\n\nStates & Key Cities Covered:\nGujarat: Lothal, Saragwala, Dholka, Ahmedabad District, Gulf of Khambhat region",
     "Category": "Infrastructure",
     "Area": "400 acres",
     "Budget": "~₹3,320 Crore",
@@ -3088,7 +3088,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Navi Mumbai International Airport",
-    "Summary": "A world-class greenfield airport terminal and runway project to relieve Mumbai's congestion.\n Located in Navi Mumbai, Maharashtra, India, this airport is developed by Adani Airport Holdings.\n The project is executed under Navi Mumbai International Airport Limited (NMIAL), a special SPV. \nThe airport is designed by the renowned Zaha Hadid Architects, featuring a modern terminal layout.\n Phase 1 will handle approximately 20 million passengers per annum (MPPA). The ultimate capacity \nis designed to scale to over 90 million passengers annually. The scope includes construction of 2 \nparallel runways, passenger terminals, and an ATC tower. Land development spans over 1,160 \nhectares, requiring extensive hill cutting and river diversion. ",
+    "Summary": "A greenfield international airport developed over 1,160 hectares by Adani Airports and CIDCO in Navi Mumbai, designed with 2 parallel runways to handle up to 90 million passengers per annum.\n\nStates & Key Cities Covered:\nMaharashtra: Navi Mumbai (Ulwe, Kopar-Panvel, Dronagiri, Belapur, Kharghar, Taloja), Mumbai, Thane, Raigad, Pune connectivity corridor",
     "Category": "Infrastructure",
     "Area": "Airport",
     "Budget": "₹23,240 Crore",
@@ -3100,7 +3100,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Navi Mumbai Metro Line 1 & 2",
-    "Summary": "The Navi Mumbai Metro Project is a rapid transit system developed to improve urban mobility across \nNavi Mumbai. The project includes elevated metro corridors, stations, signaling systems, depots, and \nmultimodal connectivity infrastructure. The network is designed to reduce traffic congestion, support\n sustainable transportation, and enhance connectivity to key residential and commercial areas. Future\n expansions will further strengthen regional transit integration.",
+    "Summary": "A rapid transit network developed by CIDCO connecting Belapur to Pendhar (Line 1, 11.1 km) with future phase extensions connecting MIDC Taloja, Khandeshwar, and the Navi Mumbai International Airport.\n\nStates & Key Cities Covered:\nMaharashtra: Navi Mumbai (CBD Belapur, Sector 7, CIDCO Science Park, Utsav Chowk / Kharghar, Central Park, Pethpada, Amandoot, Pethali, MIDC Taloja, Pendhar, Khandeshwar, NMIA)",
     "Category": "Transportation",
     "Area": "25-30 km",
     "Budget": "₹4,000-6,000 Crore",
@@ -3112,7 +3112,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "New Power Transformer Mfg. Project in Solan",
-    "Summary": "Establishing a state-of-the-art power transformer manufacturing facility in Himachal Pradesh. \nThe project is developed for the State Electricity Board to supply high-voltage transmission units. \nIt involves constructing dust-free cleanroom bays, heavy crane columns, and test labs. The goal\n is to manufacture power transformers to support the expansion of the electrical grid. The scope i\nncludes building cleanroom manufacturing bays, heavy crane columns, and testing labs. DPR \nConstruction supports the project through technical engineering and construction management. \nOur engineers coordinate the design of the cleanroom manufacturing bays and heavy foundations. \nThe manufacturing bays require dust-free environments with strict temperature and humidity controls.\n Specialized epoxy flooring systems provide clean, wear-resistant, and static-free surfaces. ",
+    "Summary": "High-voltage power transformer manufacturing and testing facility at Solan in Himachal Pradesh, featuring dust-free cleanroom assembly bays and high-voltage impulse test labs.\n\nStates & Key Cities Covered:\nHimachal Pradesh: Solan, Baddi-Barotiwala-Nalagarh (BBN) Industrial Belt, Parwanoo, Shimla region",
     "Category": "Infrastructure",
     "Area": "180 km",
     "Budget": "$12 Billion",
@@ -3124,7 +3124,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Noida International Airport (Jewar Airport)",
-    "Summary": "Noida International Airport is a major greenfield airport project being developed to serve the National \nCapital Region. The project includes passenger terminals, runways, cargo facilities, maintenance \nzones, and multimodal connectivity infrastructure. Designed to support future aviation demand, \nthe airport will improve regional accessibility and economic development. It is expected to\n become one of India's largest aviation hubs and strengthen international connectivity.",
+    "Summary": "India's largest greenfield international airport developed by Zurich Airport International at Jewar in Yamuna Expressway Industrial Development Authority (YEIDA) area with planned multi-runway capacity.\n\nStates & Key Cities Covered:\nUttar Pradesh: Jewar, Noida, Greater Noida, Yamuna Expressway Region, Aligarh, Mathura, Agra\nDelhi NCR: New Delhi, Faridabad, Ghaziabad, Gurugram",
     "Category": "Infrastructure",
     "Area": "Airport",
     "Budget": "₹33,200 Crore",
@@ -3136,7 +3136,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "PAIMANA - India",
-    "Summary": "Specialized infrastructure and highway link engineering to improve logistics in India. The project \nis owned and developed by the National Highways Authority of India (NHAI). It involves constructing \nmulti-level flyovers, high-load bridges, and smart toll plazas. The goal is to improve traffic flow and \nlogistics connectivity across major economic corridors. The scope includes high-load bridge \nfoundations, flyover structural frames, and utility redirection. DPR Construction provides project \nmanagement and technical engineering support. Our engineers coordinate structural design,\n concrete quality control, and schedule management. The bridge foundations are engineered \nto handle high seismic loads and soil conditions. The flyovers are constructed using off-site \nprecast concrete segments to reduce traffic disruption.",
+    "Summary": "Strategic highway link engineering, multi-level flyovers, high-load bridges, and intelligent toll plazas along key freight and economic corridors in Western India.\n\nStates & Key Cities Covered:\nWestern India: Gujarat (Surat, Vadodara, Ahmedabad), Maharashtra (Mumbai, Thane, Pune), Rajasthan (Udaipur, Jaipur)",
     "Category": "Infrastructure",
     "Area": "Industrial ",
     "Budget": "₹8.30 Lakh Crore",
@@ -3148,7 +3148,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Paradip Port Capacity Expansion",
-    "Summary": "Expansion of Paradip Port to handle increased bulk cargo and container vessel traffic.",
+    "Summary": "Major capacity enhancement of Paradip Port in Odisha, developing the Western Dock deep-draft berths, automated bulk cargo handling systems, and dedicated iron ore and coal loading facilities.\n\nStates & Key Cities Covered:\nOdisha: Paradip, Jagatsinghpur, Cuttack, Bhubaneswar, Kalinganagar Industrial Belt",
     "Category": "Port Infrastructure",
     "Area": "150-200 hectares",
     "Budget": "₹3,000-4,500 Crore",
@@ -3160,7 +3160,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Parandur Greenfield Airport Project",
-    "Summary": "Parandur Airport is Chennai's proposed second international airport designed to meet future \naviation demand. The project includes terminals, runways, cargo facilities, airport city \ndevelopment, and transportation links. It aims to support economic growth, improve air \nconnectivity, and enhance aviation capacity in southern India.",
+    "Summary": "Chennai's proposed second international airport developed over 4,700 acres in Parandur near Kanchipuram, designed to handle 100 million passengers annually with multi-runway infrastructure.\n\nStates & Key Cities Covered:\nTamil Nadu: Parandur, Kanchipuram, Sriperumbudur, Arakkonam, Chennai Metropolitan Area, Chengalpattu, Vellore",
     "Category": "Infrastructure",
     "Area": "4,791 acres",
     "Budget": "~₹19,920 Crore",
@@ -3172,7 +3172,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Parvatmala Ropeway Programme",
-    "Summary": "National ropeway infrastructure initiative designed to improve connectivity in hilly and remote regions. \nThe project promotes tourism, accessibility, and sustainable transportation solutions.",
+    "Summary": "National ropeway development programme modernizing passenger and tourism transit across inaccessible mountainous terrains, pilgrimage shrines, and congested urban areas in India.\n\nStates & Key Cities Covered:\nUttarakhand: Kedarnath, Hemkund Sahib, Mussoorie, Nainital\nHimachal Pradesh: Shimla, Manali, Dharamshala, Rohtang\nJammu & Kashmir & Ladakh: Vaishno Devi, Gulmarg, Leh\nOther States: Sikkim, Arunachal Pradesh, Assam, Tamil Nadu, Andhra Pradesh, Maharashtra (Matheran, Mahabaleshwar)",
     "Category": "Infrastructure",
     "Area": "1,200+ km planned",
     "Budget": "~₹24,900 Crore",
@@ -3184,7 +3184,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Patna Ganga Riverfront Project",
-    "Summary": "Riverfront development project along the Ganga River to enhance tourism and urban amenities in Patna.",
+    "Summary": "Urban riverfront rejuvenation along the Ganga River in Patna, developing a 20+ km promenade, 28 ghat redevelopments, landscaped parks, community spaces, and eco-friendly tourism infrastructure.\n\nStates & Key Cities Covered:\nBihar: Patna (Digha, Collectorate Ghat, Mahendru Ghat, Gandhi Ghat, Kangan Ghat, Patna City / Didarganj)",
     "Category": "Urban Infrastructure",
     "Area": "20-30 km",
     "Budget": "₹3,000-4,500 Crore",
@@ -3196,7 +3196,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Patna Metro Rail Project",
-    "Summary": "Patna Metro is the first metro rail system being developed in Bihar to address increasing \ntransportation demand and urban congestion. The project includes elevated and underground \nmetro corridors, stations, depots, signaling systems, and passenger facilities. It aims to improve \nconnectivity across Patna, reduce travel time, and provide a safe and efficient public transport\n alternative. The project is expected to support economic growth, improve urban planning, and\n enhance the overall quality of life for residents.",
+    "Summary": "A 31.39 km mass transit rail network comprising Corridor 1 (Danapur to Khemnichak) and Corridor 2 (Patna Junction to New ISBT) with 24 underground and elevated stations.\n\nStates & Key Cities Covered:\nBihar: Patna (Danapur Cantt, Saguna More, Bailey Road, Patna Junction, Dak Bungalow, Gandhi Maidan, PMCH, Patna University, Rajendra Nagar, Khemnichak, Mithapur, New ISBT)",
     "Category": "Transportation",
     "Area": "31 km",
     "Budget": "~₹14,110 Crore",
@@ -3208,7 +3208,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Patna–Kolkata Expressway",
-    "Summary": "The Patna–Kolkata Expressway is a proposed high-speed highway corridor designed\n to improve connectivity between Bihar and West Bengal. The project includes bridges,\n interchanges, logistics infrastructure, and smart traffic management systems. It supports\n freight movement, economic integration, and regional development.",
+    "Summary": "A 450 km 6-lane access-controlled greenfield expressway connecting Patna with Kolkata via Jharkhand, cutting travel time from 15 hours to under 7 hours.\n\nStates & Key Cities Covered:\nBihar: Patna (Kachchi Dargah), Nalanda (Bihar Sharif), Sheikhpura, Jamui, Banka\nJharkhand: Deoghar, Dumka, Jamtara\nWest Bengal: Asansol, Durgapur, Burdwan (Bardhaman), Dankuni, Kolkata",
     "Category": "Infrastructure",
     "Area": "450 km",
     "Budget": "~₹29,050 Crore",
@@ -3220,7 +3220,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "PM Gati Shakti National Master Plan",
-    "Summary": "Integrated infrastructure development program coordinating roads, railways, ports, airports, logistics\n parks, and industrial corridors. It aims to improve connectivity and reduce logistics costs nationwide.",
+    "Summary": "A digital GIS-based platform coordinating integrated multi-modal infrastructure planning across 16 ministries to eliminate logistics bottlenecks and synchronize national project execution.\n\nStates & Key Cities Covered:\nPan India: Multi-modal connectivity spanning all 28 States and 8 Union Territories across railways, highways, ports, inland waterways, airports, mass transport, and logistics infrastructure",
     "Category": "Infrastructure",
     "Area": "Pan-India Corridors",
     "Budget": "~₹12.45 Lakh Crore",
@@ -3232,7 +3232,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Polavaram Irrigation Project",
-    "Summary": "The Polavaram Project is one of India's largest multipurpose river valley projects. It includes \na dam, spillways, canals, hydroelectric facilities, and irrigation infrastructure. The project aims\n to provide irrigation, drinking water, flood control, and power generation benefits across \nAndhra Pradesh while supporting agricultural development and water security.",
+    "Summary": "A national multipurpose river valley irrigation project featuring an earth-cum-rockfill dam on the Godavari River in Andhra Pradesh, providing irrigation to 7.2 lakh acres, 960 MW hydro power, and water transfer to Krishna basin.\n\nStates & Key Cities Covered:\nAndhra Pradesh: Eluru, East Godavari (Rajahmundry), West Godavari, Krishna (Vijayawada), Visakhapatnam\nTelangana, Odisha & Chhattisgarh (Catchment & Inter-state basin nodes)",
     "Category": "Infrastructure",
     "Area": "3,156 sq km",
     "Budget": "~₹58,100 Crore",
@@ -3244,7 +3244,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Puga Geothermal Energy Project",
-    "Summary": "The Puga Geothermal Energy Project is India's first geothermal power initiative located in the Puga \nValley of Ladakh. The project involves geothermal well drilling, reservoir exploration, construction of \na 1 MW binary cycle power plant, district heating infrastructure, and grid connectivity systems. \nAdvanced technologies including high-altitude geothermal drilling, binary fluid heat exchange systems,\n BIM-based engineering coordination, and insulated thermal infrastructure are being utilized to operate \nefficiently in extreme climatic conditions. The project aims to provide continuous zero-carbon electricity\n and heating solutions for remote communities while reducing dependence on diesel-based power \ngeneration and promoting sustainable development in the Himalayan region.",
+    "Summary": "India's first commercial geothermal energy exploration and power generation development located at an altitude of over 14,000 feet in the Puga Valley in Changthang, Ladakh.\n\nStates & Key Cities Covered:\nLadakh: Puga Valley, Chumathang, Nyoma, Leh District, Changthang Plateau",
     "Category": "Infrastructure",
     "Area": "High-Altitude Sites",
     "Budget": "~₹415 Crore",
@@ -3256,7 +3256,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Pune International Airport Expansion",
-    "Summary": "Expansion to accommodate growing passenger traffic in Pune, Maharashtra.",
+    "Summary": "Modernization of Pune International Airport at Lohegaon featuring a new integrated passenger terminal building, multi-level car parking, and extended apron bays to handle 16+ million passengers annually.\n\nStates & Key Cities Covered:\nMaharashtra: Pune (Lohegaon, Viman Nagar, Kharadi, Hinjawadi IT Park, Hadapsar, Pimpri-Chinchwad), Chakan, Talegaon",
     "Category": "Aviation",
     "Area": "200 acres",
     "Budget": "₹3,000-4,000 Crore",
@@ -3268,7 +3268,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Pune Metro Line 2",
-    "Summary": "Urban metro rail project connecting major residential and commercial areas of Pune. \nThe network includes elevated and underground sections with modern stations and \nsmart ticketing systems. The project aims to improve mobility and reduce traffic congestion.",
+    "Summary": "A 14.66 km elevated east-west metro line (Purple Line extension / Aqua Line) connecting Vanaz in Kothrud to Ramwadi in Kalyani Nagar across 16 stations.\n\nStates & Key Cities Covered:\nMaharashtra: Pune (Vanaz, Anand Nagar, Ideal Colony, Nal Stop, Garware College, Deccan Gymkhana, Sambhaji Park, PMC, Civil Court Interchange, Mangalwar Peth, Pune Railway Station, Ruby Hall Clinic, Bund Garden, Yerawada, Kalyani Nagar, Ramwadi)",
     "Category": "Transportation",
     "Area": "15-20 km",
     "Budget": "₹2,500-3,500 Crore",
@@ -3280,7 +3280,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Pune Ring Road Project",
-    "Summary": "Pune Ring Road is a major highway infrastructure project designed to divert traffic away from the \ncity center and improve regional connectivity. The project includes access-controlled roads, \nbridges, flyovers, and interchanges. It aims to reduce congestion, support industrial growth, \nimprove logistics efficiency, and facilitate urban expansion across the Pune Metropolitan Region.",
+    "Summary": "A 173.7 km 8-lane circular access-controlled orbital expressway encircling Pune and Pimpri-Chinchwad, diverting heavy inter-state industrial traffic away from city roads.\n\nStates & Key Cities Covered:\nMaharashtra: Pune District (Urse, Khed, Alandi, Wagholi, Saswad, Shirwal, Khadakwasla, Hinjawadi, Talegaon, Pimpri-Chinchwad)",
     "Category": "Infrastructure",
     "Area": "170 km",
     "Budget": "~₹18,260 Crore",
@@ -3292,7 +3292,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Pune–Nashik Semi High-Speed Rail Corridor",
-    "Summary": "A proposed rail corridor designed to improve passenger and freight movement between Pune\n and Nashik. The project includes stations, tracks, signaling systems, and logistics integration \nfacilities. It aims to support industrial growth and regional connectivity.",
+    "Summary": "A 235 km semi-high-speed double broad-gauge railway line engineered for operating speeds up to 200 km/h, cutting transit time between Pune and Nashik to 105 minutes.\n\nStates & Key Cities Covered:\nMaharashtra: Pune (Hadapsar, Chakan, Rajgurunagar, Manchar, Narayangaon, Junnar), Sangamner, Sinnar, Nashik Road",
     "Category": "Infrastructure",
     "Area": "235 km",
     "Budget": "~₹17,430 Crore",
@@ -3304,7 +3304,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Railway and Metro Projects – Global",
-    "Summary": "Transit infrastructure delivery covering underground metro lines and elevated viaducts globally. \nDPR Construction's Infrastructure division executes rail and metro projects in multiple countries.\n This includes projects in India, the United States, Australia, the United Kingdom, and Europe. \nThe scope of work includes heavy civil construction, tunneling, and transit design. We build \nunderground tunnels using Tunnel Boring Machines (TBMs) in dense urban centers. Elevated \nmetro structures are constructed using precast concrete box girders and piers. Track installations,\n power substations, and signaling systems are integrated. The signaling systems utilize advanced \nCommunication-Based Train Control (CBTC) for automation. ",
+    "Summary": "High-capacity automated driverless mass rapid transit systems, advanced signaling (CBTC), and urban rail engineering projects deployed across major Indian metropolitan centers.\n\nStates & Key Cities Covered:\nPan India: Mass transit and urban metro networks across Delhi NCR, Mumbai, Bengaluru, Chennai, Hyderabad, Kolkata, Ahmedabad, Pune, Kochi, and Lucknow",
     "Category": "Infrastructure",
     "Area": "109 km (Phase 1: 29 km)",
     "Budget": "$2 Billion",
@@ -3316,7 +3316,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Raipur-Durg Expressway",
-    "Summary": "A new expressway project to ease traffic between Raipur and Durg.",
+    "Summary": "An upgraded 55 km access-controlled expressway and elevated flyover corridor in Chhattisgarh bypassing urban gridlocks between the state capital and Bhilai-Durg industrial hub.\n\nStates & Key Cities Covered:\nChhattisgarh: Raipur (Tatibandh, Telibandha, Sarona), Kumhari, Bhilai (Power House, Supela), Durg",
     "Category": "Roads & Highways",
     "Area": "50-60 km",
     "Budget": "₹3,000-4,000 Crore",
@@ -3328,7 +3328,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Raipur–Visakhapatnam Economic Corridor",
-    "Summary": "This economic corridor forms part of India's industrial and logistics development strategy. \nThe project includes highways, industrial infrastructure, logistics parks, and freight connectivity \nfacilities. It is designed to improve trade efficiency, support manufacturing growth, and strengthen \nconnectivity between central and eastern India.",
+    "Summary": "A 464 km 6-lane access-controlled greenfield highway corridor under Bharatmala Pariyojana connecting central India's mineral heartlands with the eastern seaport of Visakhapatnam.\n\nStates & Key Cities Covered:\nChhattisgarh: Raipur, Abhanpur, Dhamtari, Kanker, Kondagaon, Jagdalpur\nOdisha: Nabarangpur, Jeypore, Koraput, Sunabeda\nAndhra Pradesh: Salur, Vizianagaram, Anandapuram, Visakhapatnam (Vizag Port)",
     "Category": "Infrastructure",
     "Area": "464 km",
     "Budget": "~₹49,800 Crore",
@@ -3340,7 +3340,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Rajkot Smart City Project",
-    "Summary": "Development of Rajkot into a smart city with modern civic and technological infrastructure.",
+    "Summary": "Greenfield smart city master development spanning 930+ acres in the Raiya area of Rajkot, featuring an Artificial Intelligence-enabled Command and Control Center, smart utility grids, and sustainable social housing.\n\nStates & Key Cities Covered:\nGujarat: Rajkot (Raiya Smart City Area, Race Course, Kalavad Road, 150 Feet Ring Road, Kothariya)",
     "Category": "Urban Infrastructure",
     "Area": "70-90 km²",
     "Budget": "₹1,200-1,600 Crore",
@@ -3352,7 +3352,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Reliance Jamnagar Refinery",
-    "Summary": "Strategic refinery packages and technology licensing for the world's largest \noil refining complex. Located in Jamnagar, Gujarat, India, this complex is \nowned by Reliance Industries Limited (RIL). The refinery is a landmark i\nndustrial development, processing over 1.2 million barrels of crude daily.\n It consists of two major refining areas: Domestic Tariff Area (DTA) and \nexport-oriented SEZ. RIL collaborated with Bechtel, UOP LLC, \nand Foster Wheeler to engineer the complex. DPR Construction \nserves as a subconstructor and technology partner for specialized packages.",
+    "Summary": "The world's largest integrated petroleum refining and petrochemical complex processing over 1.24 million barrels of crude daily across Domestic Tariff Area (DTA) and Export-Oriented SEZ units in Jamnagar.\n\nStates & Key Cities Covered:\nGujarat: Jamnagar (Motikhavdi, Sikka, Digvijaygram), Gulf of Kutch maritime terminal, Vadinar",
     "Category": "Infrastructure(Refinery)",
     "Area": "7,500 acres",
     "Budget": "~₹1.24 Lakh Crore",
@@ -3364,7 +3364,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Renewable Energy Park – Khavda",
-    "Summary": "Khavda Renewable Energy Park is one of the world's largest renewable energy projects \ncomprising solar and wind generation facilities. The project includes transmission infrastructure,\n substations, and grid connectivity systems. It supports India's clean energy transition and \nsustainability goals.",
+    "Summary": "The world's largest hybrid renewable energy park spanning 72,600 hectares in the Rann of Kutch near Khavda, planned to generate 30,000 MW (30 GW) of clean solar and wind energy.\n\nStates & Key Cities Covered:\nGujarat: Khavda, Bhuj, Rann of Kutch, Nakhatrana, Lakhpat, Gujarat Green Energy Transmission Corridor",
     "Category": "Infrastructure",
     "Area": "72,600 hectares",
     "Budget": "~₹1.66 Lakh Crore",
@@ -3376,7 +3376,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Rewa Solar Park Expansion",
-    "Summary": "Expansion of the Rewa Ultra Mega Solar Park to increase capacity by an additional 250 MW.",
+    "Summary": "Expansion of the 750 MW Rewa Ultra Mega Solar Power Project in Gurh tehsil, supplying clean zero-emission electricity to Indian state power grids and the Delhi Metro network.\n\nStates & Key Cities Covered:\nMadhya Pradesh: Rewa (Gurh Tehsil, Barseta, Badwar), Satna, Sidhi, Delhi Metro Supply Link",
     "Category": "Renewable Energy",
     "Area": "500 acres",
     "Budget": "₹1,500-2,000 Crore",
@@ -3388,7 +3388,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Rishikesh-Karanprayag Rail Line",
-    "Summary": "A strategic railway line project to improve hill connectivity in Uttarakhand.",
+    "Summary": "A 125 km strategic Himalayan broad-gauge hill railway project featuring 17 mountain tunnels and 12 stations, enhancing Char Dham pilgrimage and defense mobility.\n\nStates & Key Cities Covered:\nUttarakhand: Yog Nagari Rishikesh, Muni Ki Reti, Shivpuri, Byasi, Devprayag, Janasu, Maletha, Srinagar (Garhwal), Dhari Devi, Rudraprayag (Gholtir), Gauchar, Karnaprayag",
     "Category": "Railways",
     "Area": "125 km",
     "Budget": "₹3,000-4,000 Crore",
@@ -3400,7 +3400,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Sabarmati Riverfront Development Phase II",
-    "Summary": "This urban redevelopment project extends riverfront infrastructure along the Sabarmati\n River. It includes promenades, landscaping, public spaces, flood management systems, and\n recreational facilities. The project supports tourism, environmental improvement, and urban\n regeneration.",
+    "Summary": "The 5.8 km extension of the iconic Sabarmati Riverfront promenade up to Indira Bridge, incorporating stepped flower gardens, eco-parks, water sports complexes, and flood protection embankments.\n\nStates & Key Cities Covered:\nGujarat: Ahmedabad (Subhash Bridge to Indira Bridge stretch, Hansol, Shahpur, Usmanpura, Gandhinagar border link)",
     "Category": "Infrastructure",
     "Area": "5.8 km",
     "Budget": "~₹3,320 Crore",
@@ -3412,7 +3412,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Sambhar Lake Solar Park",
-    "Summary": "Ultra-mega solar power park under development with a capacity of 2,000 MW near Sambhar Lake.",
+    "Summary": "An ultra-mega 2,000 MW solar power generation park being developed near Sambhar Salt Lake across Jaipur and Nagaur districts in Rajasthan.\n\nStates & Key Cities Covered:\nRajasthan: Sambhar Lake, Phulera, Dudu, Jaipur District, Nagaur District",
     "Category": "Renewable Energy",
     "Area": "9,000 acres (~36.4 km²)",
     "Budget": "₹18,000-22,000 Crore",
@@ -3424,7 +3424,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Shendra-Bidkin Industrial Area",
-    "Summary": "Industrial cluster development with a focus on manufacturing.",
+    "Summary": "A premier 10,000+ acre smart industrial city node under the Delhi-Mumbai Industrial Corridor (DMIC) in Chhatrapati Sambhaji Nagar (Aurangabad) with plug-and-play manufacturing infrastructure.\n\nStates & Key Cities Covered:\nMaharashtra: Chhatrapati Sambhaji Nagar / Aurangabad (Shendra MIDC, Bidkin, Karmad, Waluj)",
     "Category": "Industrial Infrastructure",
     "Area": "500 acres",
     "Budget": "₹2,500-3,500 Crore",
@@ -3436,7 +3436,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Siliguri Elevated Corridor",
-    "Summary": "Elevated road corridor to reduce severe traffic congestion in Siliguri.",
+    "Summary": "A high-capacity 4-lane elevated highway corridor designed to decongest Siliguri city and provide bottleneck-free transit through the vital 'Chicken's Neck' corridor to North East India and neighboring international borders.\n\nStates & Key Cities Covered:\nWest Bengal: Siliguri (Sevoke Road, Darjeeling More, Venus More, Matigara, Bagdogra Airport link, Jalpaiguri border)",
     "Category": "Roads & Highways",
     "Area": "20-25 km",
     "Budget": "₹2,500-3,500 Crore",
@@ -3448,7 +3448,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Silkyara Bend–Barkot Tunnel",
-    "Summary": "The Silkyara Bend–Barkot Tunnel is an important component of the Char Dham Highway Development\n Programme in Uttarakhand. The project is designed to improve connectivity to pilgrimage destinations\n while reducing travel distance and avoiding landslide-prone stretches. It includes modern tunnel safety \nsystems, ventilation infrastructure, emergency exits, and advanced monitoring technology. The tunnel\n will support tourism, disaster resilience, and regional development. It is expected to provide safer and \nfaster travel access throughout the year and strengthen transportation infrastructure in the Himalayan \nregion.",
+    "Summary": "A 4.5 km bi-directional all-weather road tunnel on NH-134 in Uttarkashi district bypassing landslide stretches at Radi Top on the Yamunotri pilgrimage route.\n\nStates & Key Cities Covered:\nUttarakhand: Uttarkashi District (Dharasu, Silkyara Bend, Radi Top Bypass, Barkot, Yamunotri Access Route)",
     "Category": "Infrastructure",
     "Area": "4.5 km",
     "Budget": "~₹1,480 Crore",
@@ -3460,7 +3460,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Singrauli Solar Park",
-    "Summary": "A major solar park for sustainable renewable energy generation in Madhya Pradesh.",
+    "Summary": "A large-scale ultra-mega solar power development situated in the energy hub of Singrauli in eastern Madhya Pradesh, supporting clean grid decarbonization.\n\nStates & Key Cities Covered:\nMadhya Pradesh: Singrauli (Waidhan, Chitrangi, Deosar), Sonbhadra border region",
     "Category": "Renewable Energy",
     "Area": "2,500+ acres",
     "Budget": "₹5,000-7,000 Crore",
@@ -3472,7 +3472,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Smart City Project, Indore",
-    "Summary": "Infrastructure development for a smart city with advanced urban management technologies.",
+    "Summary": "A model smart city modernization program transforming Indore with automated solid waste management, intelligent traffic command systems, heritage preservation (Rajwada), and riverfront rejuvenation (Kanh-Saraswati).\n\nStates & Key Cities Covered:\nMadhya Pradesh: Indore (Rajwada, Chhappan Dukan, Sarafa, Super Corridor, Vijay Nagar, Palasia, Mhow)",
     "Category": "Urban Infrastructure",
     "Area": "100-150 km²",
     "Budget": "₹1,000-1,500 Crore",
@@ -3484,7 +3484,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Surat Metro Rail Project",
-    "Summary": "Surat Metro Rail is a major urban transit project developed to improve mobility in one of India's \nfastest-growing cities. The network includes elevated metro corridors, stations, depots, signaling\n systems, and multimodal integration facilities. The project is designed to reduce road congestion, \nimprove connectivity between residential and commercial areas, and support sustainable urban \ndevelopment. The metro system will strengthen public transportation infrastructure while \nsupporting economic growth and improving commuter convenience.",
+    "Summary": "A 41.93 km mass rapid transit network comprising Corridor 1 (Sarthana to Dream City) and Corridor 2 (Bhesan to Saroli) with 38 stations serving Surat's diamond and textile industrial belts.\n\nStates & Key Cities Covered:\nGujarat: Surat (Sarthana, Varachha, Surat Railway Station, Majura Gate, Althan, Dream City / Diamond Bourse, Bhesan, Pal, Adajan, Saroli)",
     "Category": "Transportation",
     "Area": "40.3 km",
     "Budget": "~₹12,450 Crore",
@@ -3496,7 +3496,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Surat Wind Energy Project",
-    "Summary": "The Surat Wind Energy Project is a coastal renewable energy development in Gujarat designed to \ngenerate clean electricity through high-capacity wind turbines. The project includes turbine installation,\n coastal foundation construction, corrosion-resistant infrastructure, SCADA monitoring systems, \nsubstations, and grid transmission connectivity. Advanced technologies such as marine-grade \nanti-corrosion coatings, low-wind-speed turbine blade designs, BIM-based engineering coordination,\n and real-time grid monitoring systems are utilized to maximize operational efficiency and asset\n durability. The project supports Gujarat's renewable energy goals by providing reliable clean power \nto industrial and residential consumers while reducing carbon emissions and promoting sustainable \ncoastal development.",
+    "Summary": "High-capacity coastal and onshore wind turbine generation farm along the Gulf of Khambhat coastline in Surat district, feeding clean energy into Gujarat's industrial power grid.\n\nStates & Key Cities Covered:\nGujarat: Surat District (Hazira, Olpad, Dumas, Magdalla), Gulf of Khambhat coastal belt",
     "Category": "Infrastructure",
     "Area": "Coastal Sites",
     "Budget": "~₹2,490 Crore",
@@ -3508,7 +3508,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Surat–Chennai Expressway",
-    "Summary": "A proposed high-speed economic corridor connecting western and southern India. \nThe project includes access-controlled highways, logistics hubs, bridges, and industrial \nconnectivity infrastructure. It aims to improve freight movement, reduce transportation \ncosts, and support industrial development.",
+    "Summary": "A 1,271 km 6-lane access-controlled greenfield economic corridor spanning Gujarat, Maharashtra, Karnataka, and Tamil Nadu, cutting travel time from 36 hours to 18 hours.\n\nStates & Key Cities Covered:\nGujarat: Surat, Navsari, Vyara\nMaharashtra: Nashik, Ahmednagar, Solapur, Akkalkot\nKarnataka: Kalaburagi (Gulbarga), Yadgir, Raichur\nAndhra Pradesh: Kurnool, Nandyal, Kadapa, Tirupati\nTamil Nadu: Kanchipuram, Sriperumbudur, Chennai",
     "Category": "Infrastructure",
     "Area": "1,271 km",
     "Budget": "~₹99,600 Crore",
@@ -3520,7 +3520,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Tehri Pumped Storage Project",
-    "Summary": "The Tehri Pumped Storage Project is designed to provide grid stability and energy storage for \nIndia's growing renewable energy sector. The project includes hydroelectric infrastructure, \nwater storage facilities, tunnels, and power generation equipment. It supports clean energy \nintegration and energy security objectives.",
+    "Summary": "A 1,000 MW variable-speed pumped storage hydroelectric plant in Tehri Garhwal using Tehri Dam as upper reservoir and Koteshwar Dam as lower reservoir for national grid peaking power and grid stabilization.\n\nStates & Key Cities Covered:\nUttarakhand: Tehri Garhwal (New Tehri, Koteshwar, Bhagirathi River Basin, Rishikesh grid link)",
     "Category": "Infrastructure",
     "Area": "1,000 MW Capacity",
     "Budget": "~₹9,960 Crore",
@@ -3532,7 +3532,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Tidel Park Chennai Expansion",
-    "Summary": "Expansion of Chennai's Tidel Park to accommodate more IT companies.",
+    "Summary": "Expansion of iconic TIDEL Park IT infrastructure and software technology parks across the Taramani-OMR tech corridor and Tier-2 satellite IT hubs across Tamil Nadu.\n\nStates & Key Cities Covered:\nTamil Nadu: Chennai (Taramani, OMR / Rajiv Gandhi Salai, Thiruvanmiyur, Velachery), Coimbatore, Pattabiram",
     "Category": "Commercial Infrastructure",
     "Area": "50 acres",
     "Budget": "₹1,500-2,000 Crore",
@@ -3544,7 +3544,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Udhampur–Srinagar–Baramulla Rail Link (USBRL)",
-    "Summary": "The USBRL Project is one of India's most challenging railway infrastructure developments \nconnecting Kashmir Valley with the national railway network. The project includes tunnels, bridges, \nstations, electrification systems, and advanced railway engineering works. The corridor passes through\n mountainous terrain and includes the iconic Chenab Rail Bridge. It is designed to improve regional \nconnectivity, facilitate economic development, strengthen tourism, and enhance strategic transportation \ncapabilities in Jammu & Kashmir.",
+    "Summary": "A 272 km strategic national rail project connecting the Kashmir Valley to the Indian railway grid across the Pir Panjal mountain ranges via 38 tunnels and 927 bridges (including Chenab Bridge and Anji Khad Bridge).\n\nStates & Key Cities Covered:\nJammu & Kashmir: Udhampur, Katra, Reasi, Sangaldan, Banihal, Qazigund, Anantnag, Srinagar, Budgam, Sopore, Baramulla",
     "Category": "Infrastructure",
     "Area": "272 km",
     "Budget": "~₹33,200 Crore",
@@ -3556,7 +3556,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Vadhavan Port Development Project",
-    "Summary": "Vadhavan Port is a proposed mega deep-water port designed to become one of India's largest \ncontainer handling facilities. The project includes breakwaters, container terminals, rail \nconnectivity, logistics parks, and port support infrastructure. It aims to increase maritime trade \ncapacity, reduce logistics costs, and strengthen India's position in global shipping networks. \nAdvanced port automation and sustainable marine engineering solutions are planned.",
+    "Summary": "A mega greenfield deep-draft all-weather port developed near Dahanu in Palghar district with an investment of ₹76,000+ Crore, designed to handle 23+ million TEUs of container traffic.\n\nStates & Key Cities Covered:\nMaharashtra: Palghar (Vadhavan, Dahanu, Tarapur, Boisar), Mumbai Metropolitan Region, Western DFC rail-highway corridor",
     "Category": "Infrastructure",
     "Area": "17,471 hectares",
     "Budget": "~₹76,360 Crore",
@@ -3568,7 +3568,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Varanasi Smart City Project",
-    "Summary": "Development of a smart city in Varanasi, incorporating modern amenities and riverfront enhancements.",
+    "Summary": "Comprehensive smart heritage rejuvenation of Varanasi, developing integrated command and control centers (ICCC), Dashashwamedh Ghat redevelopment, smart heritage lighting, Kashi Vishwanath corridor transit, and automated civic utilities.\n\nStates & Key Cities Covered:\nUttar Pradesh: Varanasi (Kashi Vishwanath Zone, Dashashwamedh, Assi Ghat, Godowlia, Cantonment, Sarnath, Babatpur)",
     "Category": "Urban Infrastructure",
     "Area": "80-120 km²",
     "Budget": "₹1,200-1,800 Crore",
@@ -3580,7 +3580,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Visakhapatnam Metro Rail Project",
-    "Summary": "Visakhapatnam Metro is a proposed urban mass transit system designed to improve \ntransportation efficiency and support urban growth. The project includes elevated metro \ncorridors, stations, depots, signaling systems, and multimodal integration facilities. It aims to\n reduce congestion and improve accessibility throughout the city.",
+    "Summary": "A 76.9 km light mass rapid transit system comprising 4 corridors connecting Visakhapatnam Steel Plant (Kurmannapalem) to the upcoming Bhogapuram International Airport.\n\nStates & Key Cities Covered:\nAndhra Pradesh: Visakhapatnam (Gajuwaka, Kurmannapalem / Steel Plant, NAD Junction, Dwaraka Bus Station / RTC Complex, Maddilapalem, Madhurawada, Anandapuram, Bhogapuram Airport link)",
     "Category": "Transportation",
     "Area": "76.9 km planned",
     "Budget": "~₹15,770 Crore",
@@ -3592,7 +3592,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Visakhapatnam Port Expansion",
-    "Summary": "Expansion of Visakhapatnam Port to accommodate growing cargo demands.",
+    "Summary": "Major capacity upgrade of Visakhapatnam Port (Vizag Port), developing mechanized outer harbor container terminals, deep-water draft dredging for Capesize vessels, and automated cargo handling bays.\n\nStates & Key Cities Covered:\nAndhra Pradesh: Visakhapatnam Port, Gajuwaka, Outer Harbour, Gangavaram port connectivity, South Eastern industrial belt",
     "Category": "Port Infrastructure",
     "Area": "200 acres",
     "Budget": "₹4,000-5,000 Crore",
@@ -3604,7 +3604,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Vizhinjam International Seaport",
-    "Summary": "Vizhinjam International Seaport is India's first deep-water transshipment port capable of handling large\n container vessels. The project includes breakwaters, container terminals, logistics facilities, and\n advanced port infrastructure. It aims to reduce reliance on foreign transshipment hubs and improve \nIndia's maritime competitiveness. The port is expected to boost international trade, create employment \nopportunities, and strengthen logistics networks across southern India.",
+    "Summary": "India's first deep-water automated transshipment hub developed by Adani Ports near Thiruvananthapuram, featuring a 20-meter natural draft capable of docking the world's largest ultra-large container vessels (ULCV).\n\nStates & Key Cities Covered:\nKerala: Thiruvananthapuram (Vizhinjam, Kovalam, Balaramapuram, Kazhakkoottam / Technopark, Kollam connectivity corridor)",
     "Category": "Infrastructure",
     "Area": "360 acres",
     "Budget": "~₹9,960 Crore",
@@ -3616,7 +3616,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Western Peripheral Expressway Expansion",
-    "Summary": "The Western Peripheral Expressway Expansion project focuses on improving highway connectivity\n around Delhi and reducing congestion in the National Capital Region. The project includes road \nwidening, interchanges, intelligent transportation systems, and logistics infrastructure. \nIt strengthens freight movement and regional transportation efficiency.",
+    "Summary": "A 135.6 km 6-lane access-controlled orbital expressway (Kundli-Manesar-Palwal / KMP Expressway) encircling Delhi to divert heavy transit commercial traffic across Haryana.\n\nStates & Key Cities Covered:\nHaryana: Sonipat (Kundli), Jhajjar (Bahadurgarh), Gurugram (Manesar, Badli, Farrukhnagar), Mewat (Nuh), Palwal\nDelhi NCR Border Connectivity Nodes",
     "Category": "Infrastructure",
     "Area": "135.6 km",
     "Budget": "~₹8,300 Crore",
@@ -3628,7 +3628,7 @@ export const projectsData: ProjectData[] = [
   {
     "Country": "India",
     "Project": "Zojila Tunnel Project",
-    "Summary": "The Zojila Tunnel Project is a strategic all-weather road tunnel being developed on the Srinagar–Leh  \nHighway. The project aims to provide uninterrupted connectivity between Jammu & Kashmir and\n Ladakh throughout the year, even during heavy snowfall. The tunnel will significantly reduce travel\n time and improve military logistics, tourism, trade, and regional development. The project involves \nadvanced tunnel boring technologies, ventilation systems, emergency evacuation infrastructure, \nintelligent traffic management systems, and high-altitude engineering solutions. Once completed, \nit will be one of Asia's longest bi-directional road tunnels and a critical component of India's border \ninfrastructure network. The project is expected to boost economic activities, improve accessibility to \nremote regions, and enhance national security preparedness.",
+    "Summary": "A 14.2 km strategic all-weather horseshoe-shaped road tunnel constructed at an altitude of 11,578 feet under the Zojila Pass on the NH-1 Srinagar–Leh Highway, providing year-round transit between Kashmir Valley and Ladakh.\n\nStates & Key Cities Covered:\nJammu & Kashmir: Srinagar, Ganderbal, Kangan, Sonamarg, Baltal\nLadakh: Minamarg, Gumri, Drass, Kargil, Leh",
     "Category": "Infrastructure",
     "Area": "14.2 km",
     "Budget": "~₹7,055 Crore",

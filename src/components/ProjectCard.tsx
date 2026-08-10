@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useMemo } from 'react';
 import type { ProjectData } from '../types';
 import { MapPin, Calendar, DollarSign, Activity, Info } from 'lucide-react';
 
@@ -8,6 +8,12 @@ interface ProjectCardProps {
 }
 
 export const ProjectCard: React.FC<ProjectCardProps> = ({ project, onReadMore }) => {
+  const cleanSummary = useMemo(() => {
+    if (!project.Summary) return 'No summary available.';
+    const match = project.Summary.match(/^(.*?)(?:\n+|\s+)?(?:States\s+(?:&|and)\s+Key\s+Cities\s+Covered:?)/is);
+    return match ? match[1].trim() : project.Summary;
+  }, [project.Summary]);
+
   return (
     <div className="project-card">
       <div className="card-header">
@@ -21,8 +27,8 @@ export const ProjectCard: React.FC<ProjectCardProps> = ({ project, onReadMore })
         <span className="card-badge">{project.Category || 'Other'}</span>
       </div>
       
-      <p className="card-summary" title={project.Summary}>
-        {project.Summary || 'No summary available.'}
+      <p className="card-summary" title={cleanSummary}>
+        {cleanSummary}
       </p>
       
       <div className="card-details">

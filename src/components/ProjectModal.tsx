@@ -1,6 +1,6 @@
-import React from 'react';
+import React, { useMemo } from 'react';
 import type { ProjectData } from '../types';
-import { X, MapPin, Calendar, DollarSign, Activity, Tag, Info } from 'lucide-react';
+import { X, MapPin, Calendar, DollarSign, Activity, Tag, Info, Navigation, Building2 } from 'lucide-react';
 
 interface ProjectModalProps {
   project: ProjectData | null;
@@ -9,6 +9,35 @@ interface ProjectModalProps {
 
 export const ProjectModal: React.FC<ProjectModalProps> = ({ project, onClose }) => {
   if (!project) return null;
+
+  const { overview, coverageList } = useMemo(() => {
+    if (!project.Summary) return { overview: 'No summary available.', coverageList: [] };
+
+    const match = project.Summary.match(/^(.*?)(?:\n+|\s+)?(?:States\s+(?:&|and)\s+Key\s+Cities\s+Covered:?)\s*(.*)$/is);
+    if (!match) {
+      return { overview: project.Summary.trim(), coverageList: [] };
+    }
+
+    const overviewText = match[1].trim() || project.Summary.trim();
+    const rawCoverage = match[2].trim();
+
+    const lines = rawCoverage.split(/\n+/).map(l => l.trim()).filter(Boolean);
+    const coverageListParsed: { state: string; citiesStr: string; cities: string[] }[] = [];
+
+    lines.forEach(line => {
+      const colonIdx = line.indexOf(':');
+      if (colonIdx !== -1) {
+        const state = line.substring(0, colonIdx).trim();
+        const citiesStr = line.substring(colonIdx + 1).trim();
+        const cities = citiesStr.split(',').map(c => c.trim()).filter(Boolean);
+        coverageListParsed.push({ state, citiesStr, cities });
+      } else {
+        coverageListParsed.push({ state: '', citiesStr: line, cities: [line] });
+      }
+    });
+
+    return { overview: overviewText, coverageList: coverageListParsed };
+  }, [project.Summary]);
 
   return (
     <div className="modal-overlay" onClick={onClose}>
@@ -30,21 +59,54 @@ export const ProjectModal: React.FC<ProjectModalProps> = ({ project, onClose }) 
         
         <div className="modal-body">
           <div className="modal-section">
-            <h4 className="section-title">Project Summary</h4>
-            <p className="modal-description">{project.Summary || 'No summary available.'}</p>
+            <h4 className="section-title">
+              <Building2 size={18} className="section-icon" />
+              <span>Project Overview</span>
+            </h4>
+            <p className="modal-description">{overview}</p>
           </div>
 
+          {coverageList.length > 0 && (
+            <div className="modal-section coverage-section">
+              <h4 className="section-title">
+                <Navigation size={18} className="section-icon" />
+                <span>States & Key Cities Covered</span>
+              </h4>
+              <div className="coverage-container">
+                {coverageList.map((item, idx) => (
+                  <div key={idx} className="coverage-card">
+                    {item.state && (
+                      <div className="coverage-state-badge">
+                        <MapPin size={13} />
+                        <span>{item.state}</span>
+                      </div>
+                    )}
+                    <div className="coverage-cities-list">
+                      {item.cities.map((city, cIdx) => (
+                        <span key={cIdx} className="city-chip">
+                          {city}
+                        </span>
+                      ))}
+                    </div>
+                  </div>
+                ))}
+              </div>
+            </div>
+          )}
+
           {project.CapacityDetails && (
-            <div className="modal-section" style={{ marginTop: '1.25rem' }}>
-              <h4 className="section-title">Capacity & Key Details</h4>
-              <p className="modal-description" style={{ color: '#e2e8f0', display: 'flex', alignItems: 'flex-start', gap: '0.5rem' }}>
-                <Info size={18} style={{ minWidth: '18px', marginTop: '2px', color: 'var(--primary-color, #3b82f6)' }} />
+            <div className="modal-section" style={{ marginTop: '1.5rem' }}>
+              <h4 className="section-title">
+                <Info size={18} className="section-icon" />
+                <span>Capacity & Key Details</span>
+              </h4>
+              <div className="capacity-card">
                 <span>{project.CapacityDetails}</span>
-              </p>
+              </div>
             </div>
           )}
           
-          <div className="modal-grid" style={{ marginTop: '1.25rem' }}>
+          <div className="modal-grid" style={{ marginTop: '1.5rem' }}>
             <div className="detail-item glass-item">
               <span className="detail-label">Budget</span>
               <span className="detail-value highlight">
