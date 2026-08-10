@@ -2145,7 +2145,7 @@ export const projectsData: ProjectData[] = [
     "Area": "1,843 km",
     "Budget": "~₹1.82 Lakh Crore",
     "Deadline": "2020-2028",
-    "Location": "Northern & Eastern India",
+    "Location": "Punjab, West Bengal",
     "CapacityDetails": "Dedicated freight corridor, multi-lane highways, terminal expansions.",
     "ParsedBudget": 21.927710843373493
   },
@@ -2457,7 +2457,7 @@ export const projectsData: ProjectData[] = [
     "Area": "1,504 km",
     "Budget": "~₹7.47 Lakh Crore",
     "Deadline": "2018-2027",
-    "Location": "Western India Corridor",
+    "Location": "Delhi, Maharashtra",
     "CapacityDetails": "Smart industrial cities, logistics expressways, power grids.",
     "ParsedBudget": 90
   },
