@@ -2,6 +2,7 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import MainLayout from './layouts/MainLayout';
 import Projects from './pages/Projects';
 import InterviewQuestions from './pages/InterviewQuestions';
+import JobDescriptions from './pages/JobDescriptions';
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
         <Route path="/" element={<MainLayout />}>
           <Route index element={<Projects />} />
           <Route path="interviews" element={<InterviewQuestions />} />
+          <Route path="job-descriptions" element={<JobDescriptions />} />
         </Route>
       </Routes>
     </BrowserRouter>

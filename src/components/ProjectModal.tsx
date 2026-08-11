@@ -1,6 +1,7 @@
 import React, { useMemo } from 'react';
 import type { ProjectData } from '../types';
-import { X, MapPin, Calendar, DollarSign, Activity, Tag, Info, Navigation, Building2 } from 'lucide-react';
+import { X, MapPin, Calendar, DollarSign, IndianRupee, Activity, Tag, Info, Navigation, Building2 } from 'lucide-react';
+import { getProjectBudgetDisplay } from '../utils/budgetFormatter';
 
 interface ProjectModalProps {
   project: ProjectData | null;
@@ -9,6 +10,10 @@ interface ProjectModalProps {
 
 export const ProjectModal: React.FC<ProjectModalProps> = ({ project, onClose }) => {
   if (!project) return null;
+
+  const { isIndia, displayValue } = useMemo(() => {
+    return getProjectBudgetDisplay(project);
+  }, [project]);
 
   const { overview, coverageList } = useMemo(() => {
     if (!project.Summary) return { overview: 'No summary available.', coverageList: [] };
@@ -110,8 +115,8 @@ export const ProjectModal: React.FC<ProjectModalProps> = ({ project, onClose }) 
             <div className="detail-item glass-item">
               <span className="detail-label">Budget</span>
               <span className="detail-value highlight">
-                <DollarSign size={18} />
-                {project.Budget || 'N/A'}
+                {displayValue !== 'N/A' && (isIndia ? <IndianRupee size={18} /> : <DollarSign size={18} />)}
+                {displayValue}
               </span>
             </div>
             

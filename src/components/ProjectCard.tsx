@@ -1,6 +1,7 @@
 import React, { useMemo } from 'react';
 import type { ProjectData } from '../types';
-import { MapPin, Calendar, DollarSign, Activity, Info } from 'lucide-react';
+import { MapPin, Calendar, DollarSign, IndianRupee, Activity, Info } from 'lucide-react';
+import { getProjectBudgetDisplay } from '../utils/budgetFormatter';
 
 interface ProjectCardProps {
   project: ProjectData;
@@ -13,6 +14,10 @@ export const ProjectCard: React.FC<ProjectCardProps> = ({ project, onReadMore })
     const match = project.Summary.match(/^(.*?)(?:\n+|\s+)?(?:States\s+(?:&|and)\s+Key\s+Cities\s+Covered:?)/is);
     return match ? match[1].trim() : project.Summary;
   }, [project.Summary]);
+
+  const { isIndia, displayValue } = useMemo(() => {
+    return getProjectBudgetDisplay(project);
+  }, [project]);
 
   return (
     <div className="project-card">
@@ -35,8 +40,8 @@ export const ProjectCard: React.FC<ProjectCardProps> = ({ project, onReadMore })
         <div className="detail-item">
           <span className="detail-label">Budget</span>
           <span className="detail-value highlight">
-            <DollarSign size={14} />
-            {project.Budget || 'N/A'}
+            {displayValue !== 'N/A' && (isIndia ? <IndianRupee size={14} /> : <DollarSign size={14} />)}
+            {displayValue}
           </span>
         </div>
         

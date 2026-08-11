@@ -1,5 +1,5 @@
 import { Outlet, NavLink } from 'react-router-dom';
-import { Building2, FolderKanban, FileQuestion } from 'lucide-react';
+import { Building2, FolderKanban, FileQuestion, FileText } from 'lucide-react';
 
 export default function MainLayout() {
   return (
@@ -27,6 +27,13 @@ export default function MainLayout() {
             >
               <FileQuestion size={18} />
               <span>Interview Questions</span>
+            </NavLink>
+            <NavLink 
+              to="/job-descriptions" 
+              className={({ isActive }) => `nav-link ${isActive ? 'active' : ''}`}
+            >
+              <FileText size={18} />
+              <span>Job Descriptions</span>
             </NavLink>
           </div>
         </div>
