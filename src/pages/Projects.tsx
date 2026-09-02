@@ -45,7 +45,8 @@ export default function Projects() {
           project.Project.toLowerCase().includes(term) ||
           project.Country.toLowerCase().includes(term) ||
           project.Summary.toLowerCase().includes(term) ||
-          project.Location.toLowerCase().includes(term)
+          project.Location.toLowerCase().includes(term) ||
+          (project.ClientOwner && project.ClientOwner.toLowerCase().includes(term))
         );
       }
       

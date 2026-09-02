@@ -9,5 +9,6 @@ export interface ProjectData {
   Location: string;
   ParsedBudget: number;
   CapacityDetails?: string;
+  ClientOwner?: string;
 }
 

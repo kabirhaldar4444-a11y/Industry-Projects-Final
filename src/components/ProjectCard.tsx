@@ -1,6 +1,6 @@
 import React, { useMemo } from 'react';
 import type { ProjectData } from '../types';
-import { MapPin, Calendar, DollarSign, IndianRupee, Activity, Info } from 'lucide-react';
+import { MapPin, Calendar, DollarSign, IndianRupee, Activity, Info, Briefcase } from 'lucide-react';
 import { getProjectBudgetDisplay } from '../utils/budgetFormatter';
 
 interface ProjectCardProps {
@@ -37,6 +37,14 @@ export const ProjectCard: React.FC<ProjectCardProps> = ({ project, onReadMore })
       </p>
       
       <div className="card-details">
+        <div className="detail-item" style={{ gridColumn: 'span 2' }}>
+          <span className="detail-label">Client / Project Owner</span>
+          <span className="detail-value" title={project.ClientOwner || 'N/A'}>
+            <Briefcase size={14} style={{ minWidth: '14px' }} />
+            <span className="truncate">{project.ClientOwner || 'N/A'}</span>
+          </span>
+        </div>
+
         <div className="detail-item">
           <span className="detail-label">Budget</span>
           <span className="detail-value highlight">

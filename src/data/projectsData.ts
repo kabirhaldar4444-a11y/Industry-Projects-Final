@@ -11,7 +11,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2021-2035",
     "Location": "Tabuk Province. Saudi Arabia",
     "CapacityDetails": "Mega-city cornerstone of Vision 2030, transforming economy away from oil.",
-    "ParsedBudget": 500
+    "ParsedBudget": 500,
+    "ClientOwner": "NEOM Company"
   },
   {
     "Country": "Saudi Arabia",
@@ -23,7 +24,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2018-2030",
     "Location": "RIyadh, Saudi Arabia",
     "CapacityDetails": "6 metro lines, 85 stations, integrated with bus and smart mobility.",
-    "ParsedBudget": 22.5
+    "ParsedBudget": 22.5,
+    "ClientOwner": "Royal Commission for Riyadh City (RCRC)"
   },
   {
     "Country": "Saudi Arabia",
@@ -35,7 +37,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2022-2027",
     "Location": "Tabuk Province. Saudi Arabia",
     "CapacityDetails": "650 MW capacity, 84 turbines (~6 MW each), powering 1 million homes.",
-    "ParsedBudget": 0.68
+    "ParsedBudget": 0.68,
+    "ClientOwner": "Red Sea Wind Energy S.A.E. (ENGIE–Toyota Tsusho/Eurus–Orascom consortium)"
   },
   {
     "Country": "Saudi Arabia",
@@ -47,7 +50,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2020-2030",
     "Location": "Tabuk Province. Saudi Arabia",
     "CapacityDetails": "Archipelago of 90+ islands, 50 resorts (~8,000 rooms), 100% renewable energy.",
-    "ParsedBudget": 20
+    "ParsedBudget": 20,
+    "ClientOwner": "Red Sea Global"
   },
   {
     "Country": "Saudi Arabia",
@@ -59,7 +63,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2019-2030",
     "Location": "RIyadh, Saudi Arabia",
     "CapacityDetails": "Mega entertainment hub, theme parks, motorsports, Six Flags Qiddiya.",
-    "ParsedBudget": 40
+    "ParsedBudget": 40,
+    "ClientOwner": "Qiddiya Investment Company"
   },
   {
     "Country": "UAE",
@@ -71,7 +76,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2021-2030",
     "Location": "Dubai City, UAE",
     "CapacityDetails": "Route 2020 extension, adding 7 new stations linking to Expo 2020 site.",
-    "ParsedBudget": 2.9
+    "ParsedBudget": 2.9,
+    "ClientOwner": "Dubai Roads and Transport Authority (RTA)"
   },
   {
     "Country": "UAE",
@@ -83,7 +89,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2022-2028",
     "Location": "Al Sufouh, Dubai, UAE",
     "CapacityDetails": "550-meter mixed-use skyscraper, luxury residences, observation decks.",
-    "ParsedBudget": 1.8
+    "ParsedBudget": 1.8,
+    "ClientOwner": "Dubai Holding"
   },
   {
     "Country": "UAE",
@@ -95,7 +102,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2015-2030",
     "Location": "Seih Al-Dahal. Dubai, UAE",
     "CapacityDetails": "5,000 MW by 2030, mix of PV and concentrated solar power (CSP).",
-    "ParsedBudget": 13.6
+    "ParsedBudget": 13.6,
+    "ClientOwner": "Dubai Electricity and Water Authority (DEWA)"
   },
   {
     "Country": "UAE",
@@ -107,7 +115,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2021-2027",
     "Location": "Dubai South, UAE",
     "CapacityDetails": "Smart, sustainable urban district built on Expo 2020 legacy, Al Wasl Plaza.",
-    "ParsedBudget": 3
+    "ParsedBudget": 3,
+    "ClientOwner": "Expo City Dubai"
   },
   {
     "Country": "UAE",
@@ -119,7 +128,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2022-2029",
     "Location": "Al Falah, UAE",
     "CapacityDetails": "Large-scale affordable residential villas across Yas Island, Al Falah.",
-    "ParsedBudget": 20
+    "ParsedBudget": 20,
+    "ClientOwner": "Abu Dhabi Housing Authority"
   },
   {
     "Country": "Qatar",
@@ -131,7 +141,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2015-2030",
     "Location": "Doha, Qatar",
     "CapacityDetails": "Urban rail expansion supporting population growth and public transport.",
-    "ParsedBudget": 36
+    "ParsedBudget": 36,
+    "ClientOwner": "Qatar Railways Company (Qatar Rail)"
   },
   {
     "Country": "Qatar",
@@ -143,7 +154,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2018-2026",
     "Location": "Doha, Qatar",
     "CapacityDetails": "Smart and sustainable urban regeneration project in central Doha.",
-    "ParsedBudget": 0.467
+    "ParsedBudget": 0.467,
+    "ClientOwner": "Msheireb Properties"
   },
   {
     "Country": "Qatar",
@@ -155,7 +167,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2022-2027",
     "Location": "Al Kharsaah, Qatar",
     "CapacityDetails": "Large-scale PV project to generate clean electricity and reduce emissions.",
-    "ParsedBudget": 0.408
+    "ParsedBudget": 0.408,
+    "ClientOwner": "Siraj 1 SPV (QatarEnergy Renewable Solutions and Marubeni)"
   },
   {
     "Country": "Oman",
@@ -167,7 +180,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2020-2026",
     "Location": "Muscat,Oman",
     "CapacityDetails": "Widening of roads, interchanges, and bridges to reduce congestion.",
-    "ParsedBudget": 5
+    "ParsedBudget": 5,
+    "ClientOwner": "Muscat Municipality"
   },
   {
     "Country": "Oman",
@@ -179,7 +193,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2018-2030",
     "Location": "Duqm, Oman",
     "CapacityDetails": "Port capacity boost, new terminals, storage, and industrial zones.",
-    "ParsedBudget": 5
+    "ParsedBudget": 5,
+    "ClientOwner": "Port of Duqm Company"
   },
   {
     "Country": "Kuwaut",
@@ -191,7 +206,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2017-2028",
     "Location": "Al Ahmadi,Kuwait",
     "CapacityDetails": "Increased oil refining capacity and improved fuel quality.",
-    "ParsedBudget": 15
+    "ParsedBudget": 15,
+    "ClientOwner": "Kuwait National Petroleum Company (KNPC)"
   },
   {
     "Country": "Kuwaut",
@@ -203,7 +219,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2019-2035",
     "Location": "Mina Abdullah,Kuwait",
     "CapacityDetails": "Madinat Al Hareer global economic hub, skyscrapers, financial districts.",
-    "ParsedBudget": 86
+    "ParsedBudget": 86,
+    "ClientOwner": "Government of Kuwait"
   },
   {
     "Country": "Bahrain",
@@ -215,7 +232,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2022-2030",
     "Location": "Northeast Bahrain",
     "CapacityDetails": "Fully automated driverless electric metro, 43,000 passengers/hour capacity.",
-    "ParsedBudget": 2
+    "ParsedBudget": 2,
+    "ClientOwner": "Ministry of Transportation and Telecommunications, Bahrain"
   },
   {
     "Country": "Bahrain",
@@ -227,7 +245,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2021-2026",
     "Location": "central/north Manama",
     "CapacityDetails": "Commercial hub expansion, office towers, mixed-use retail spaces.",
-    "ParsedBudget": 2
+    "ParsedBudget": 2,
+    "ClientOwner": "Not uniquely specified — generic or multi-project portfolio entry"
   },
   {
     "Country": "Germany",
@@ -239,7 +258,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2020-2035",
     "Location": "Berlin ↔ Munich, Frankfurt ↔ Cologne, Hamburg ↔ Berlin",
     "CapacityDetails": "ICE trains running up to 300 km/h connecting Berlin, Munich, Frankfurt.",
-    "ParsedBudget": 120
+    "ParsedBudget": 120,
+    "ClientOwner": "Deutsche Bahn AG"
   },
   {
     "Country": "Germany",
@@ -251,7 +271,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2021-2030",
     "Location": "north Germany",
     "CapacityDetails": "Large-scale onshore and offshore wind projects in North and Baltic Seas.",
-    "ParsedBudget": 220
+    "ParsedBudget": 220,
+    "ClientOwner": "Not uniquely specified — generic or multi-project portfolio entry"
   },
   {
     "Country": "Germany",
@@ -263,7 +284,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2022-2028",
     "Location": "Whole Berlin",
     "CapacityDetails": "Digital infrastructure, sustainable mobility, green buildings, intelligent traffic.",
-    "ParsedBudget": 100
+    "ParsedBudget": 100,
+    "ClientOwner": "State of Berlin / Berlin Senate"
   },
   {
     "Country": "Germany",
@@ -275,7 +297,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2021-2027",
     "Location": "Nationwide highway improvements",
     "CapacityDetails": "Road widening, bridge rehabilitation, and smart traffic management.",
-    "ParsedBudget": 20
+    "ParsedBudget": 20,
+    "ClientOwner": "Autobahn GmbH des Bundes"
   },
   {
     "Country": "Poland",
@@ -287,7 +310,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2019-2027",
     "Location": "North–south highway",
     "CapacityDetails": "Major north–south highway connecting Gdansk, Warsaw, and Kraków.",
-    "ParsedBudget": 8
+    "ParsedBudget": 8,
+    "ClientOwner": "General Directorate for National Roads and Motorways (GDDKiA)"
   },
   {
     "Country": "Poland",
@@ -299,7 +323,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2022-2026",
     "Location": "Spread across central & western rural regions",
     "CapacityDetails": "Large-scale PV plants to transition from coal-based energy.",
-    "ParsedBudget": 6
+    "ParsedBudget": 6,
+    "ClientOwner": "Not uniquely specified — generic or multi-project portfolio entry"
   },
   {
     "Country": "Poland",
@@ -311,7 +336,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2021-2028",
     "Location": "Nationwide",
     "CapacityDetails": "Upgrading rail networks with improved signaling and rolling stock.",
-    "ParsedBudget": 8
+    "ParsedBudget": 8,
+    "ClientOwner": "PKP Polskie Linie Kolejowe S.A."
   },
   {
     "Country": "Romania",
@@ -323,7 +349,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2020-2026",
     "Location": "Giurgiu",
     "CapacityDetails": "Major bridge over the Danube River for cross-border connectivity.",
-    "ParsedBudget": 0.6
+    "ParsedBudget": 0.6,
+    "ClientOwner": "National Road Infrastructure Administration of Romania (CNAIR)"
   },
   {
     "Country": "Romania",
@@ -335,7 +362,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2019-2027",
     "Location": "Nationwide",
     "CapacityDetails": "Upgrading road infrastructure to improve connectivity between major cities.",
-    "ParsedBudget": 32
+    "ParsedBudget": 32,
+    "ClientOwner": "National Road Infrastructure Administration of Romania (CNAIR)"
   },
   {
     "Country": "Croatia",
@@ -347,7 +375,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2021-2026",
     "Location": "Rijeka",
     "CapacityDetails": "Increased cargo handling capacity, new terminals, logistics infrastructure.",
-    "ParsedBudget": 1
+    "ParsedBudget": 1,
+    "ClientOwner": "Port of Rijeka Authority"
   },
   {
     "Country": "Croatia",
@@ -359,7 +388,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2022-2028",
     "Location": "entire Croatian coastline",
     "CapacityDetails": "Tourism infrastructure along Adriatic coast, resorts, recreational facilities.",
-    "ParsedBudget": 10
+    "ParsedBudget": 10,
+    "ClientOwner": "Not uniquely specified — generic or multi-project portfolio entry"
   },
   {
     "Country": "Hungary",
@@ -371,7 +401,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2021-2027",
     "Location": "Entire Budapest",
     "CapacityDetails": "Integrating digital technologies, smart mobility, and sustainable solutions.",
-    "ParsedBudget": 1
+    "ParsedBudget": 1,
+    "ClientOwner": "Municipality of Budapest"
   },
   {
     "Country": "Hungary",
@@ -383,7 +414,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2020-2028",
     "Location": "Inside Budapest",
     "CapacityDetails": "6 metro lines, 85 stations, integrated with bus and smart mobility.",
-    "ParsedBudget": 22.5
+    "ParsedBudget": 22.5,
+    "ClientOwner": "BKK Centre for Budapest Transport"
   },
   {
     "Country": "Portugal",
@@ -395,7 +427,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2022-2026",
     "Location": "Alentejo region",
     "CapacityDetails": "5,000 MW by 2030, mix of PV and concentrated solar power (CSP).",
-    "ParsedBudget": 13.6
+    "ParsedBudget": 13.6,
+    "ClientOwner": "Not uniquely specified — generic or multi-project portfolio entry"
   },
   {
     "Country": "Portugal",
@@ -407,7 +440,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2021-2027",
     "Location": "Nationwide",
     "CapacityDetails": "Road networks widening, resurfacing, and safety enhancements.",
-    "ParsedBudget": 25
+    "ParsedBudget": 25,
+    "ClientOwner": "Infraestruturas de Portugal"
   },
   {
     "Country": "Czech Republic",
@@ -419,7 +453,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2021-2026",
     "Location": "Mladá Boleslav",
     "CapacityDetails": "Increasing industrial production capacity and manufacturing growth.",
-    "ParsedBudget": 1.5
+    "ParsedBudget": 1.5,
+    "ClientOwner": "Not uniquely specified — generic or multi-project portfolio entry"
   },
   {
     "Country": "Czech Republic",
@@ -431,7 +466,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2022-2027",
     "Location": "Northern & eastern highland regions",
     "CapacityDetails": "650 MW capacity, 84 turbines (~6 MW each), powering 1 million homes.",
-    "ParsedBudget": 0.68
+    "ParsedBudget": 0.68,
+    "ClientOwner": "Not uniquely specified — generic or multi-project portfolio entry"
   },
   {
     "Country": "Lithuania",
@@ -443,7 +479,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2021-2028",
     "Location": "Klaipėda region",
     "CapacityDetails": "Onshore and offshore wind energy projects for energy independence.",
-    "ParsedBudget": 3
+    "ParsedBudget": 3,
+    "ClientOwner": "Not uniquely specified — generic or multi-project portfolio entry"
   },
   {
     "Country": "Lithuania",
@@ -455,7 +492,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2020-2027",
     "Location": "Kaunas–Panevėžys–Vilnius",
     "CapacityDetails": "Electrification, track upgrades, and modern rolling stock.",
-    "ParsedBudget": 6
+    "ParsedBudget": 6,
+    "ClientOwner": "LTG Infra"
   },
   {
     "Country": "Russia",
@@ -467,7 +505,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2020-2035",
     "Location": "Moscow",
     "CapacityDetails": "Electrification, track upgrades, and modern rolling stock.",
-    "ParsedBudget": 6
+    "ParsedBudget": 6,
+    "ClientOwner": "Russian Railways (RZD)"
   },
   {
     "Country": "Russia",
@@ -479,7 +518,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2019-2032",
     "Location": "Yakutia",
     "CapacityDetails": "Major pipeline networks for transporting natural gas domestically and globally.",
-    "ParsedBudget": 30
+    "ParsedBudget": 30,
+    "ClientOwner": "Gazprom and other Russian pipeline operators"
   },
   {
     "Country": "Japan",
@@ -491,7 +531,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2021-2029",
     "Location": "Tokyo",
     "CapacityDetails": "Advanced signaling, station modernization, capacity expansion.",
-    "ParsedBudget": 10
+    "ParsedBudget": 10,
+    "ClientOwner": "Tokyo Metro Co., Ltd."
   },
   {
     "Country": "Japan",
@@ -503,7 +544,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2022-2030",
     "Location": "Yumeshima",
     "CapacityDetails": "IoT-based services, energy-efficient buildings, intelligent transport.",
-    "ParsedBudget": 2
+    "ParsedBudget": 2,
+    "ClientOwner": "Osaka Prefecture and Osaka City"
   },
   {
     "Country": "Greece",
@@ -515,7 +557,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2021-2026",
     "Location": "Athens Port Expansion",
     "CapacityDetails": "New terminals, cruise facilities, logistics zones.",
-    "ParsedBudget": 0.3
+    "ParsedBudget": 0.3,
+    "ClientOwner": "Piraeus Port Authority S.A."
   },
   {
     "Country": "Greece",
@@ -527,7 +570,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2022-2027",
     "Location": "Solar Grid",
     "CapacityDetails": "Large-scale solar plants and smart grid systems.",
-    "ParsedBudget": 3
+    "ParsedBudget": 3,
+    "ClientOwner": "Independent Power Transmission Operator (IPTO/ADMIE)"
   },
   {
     "Country": "Israel",
@@ -539,7 +583,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2021-2028",
     "Location": "Smart Infrastructure",
     "CapacityDetails": "IoT, AI, data analytics in urban systems, traffic management.",
-    "ParsedBudget": 4
+    "ParsedBudget": 4,
+    "ClientOwner": "Not uniquely specified — generic or multi-project portfolio entry"
   },
   {
     "Country": "Israel",
@@ -551,7 +596,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2020-2030",
     "Location": "Metro Tel Aviv",
     "CapacityDetails": "Underground rail system, 3 lines, tunnels, stations to reduce congestion.",
-    "ParsedBudget": 40
+    "ParsedBudget": 40,
+    "ClientOwner": "NTA Metropolitan Mass Transit System Ltd."
   },
   {
     "Country": "Canada",
@@ -563,7 +609,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2021-2030",
     "Location": "Toronto",
     "CapacityDetails": "Cost-effective residential units to address housing shortages.",
-    "ParsedBudget": 40
+    "ParsedBudget": 40,
+    "ClientOwner": "Canada Mortgage and Housing Corporation (CMHC)"
   },
   {
     "Country": "Canada",
@@ -575,7 +622,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2022-2032",
     "Location": "Vancouver",
     "CapacityDetails": "Metro, light rail, and bus rapid transit systems across major cities.",
-    "ParsedBudget": 120
+    "ParsedBudget": 120,
+    "ClientOwner": "Not uniquely specified — generic or multi-project portfolio entry"
   },
   {
     "Country": "United States",
@@ -587,7 +635,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2021-2027",
     "Location": "Hudson Yards",
     "CapacityDetails": "High-rise commercial and residential towers in Hudson Yards.",
-    "ParsedBudget": 8
+    "ParsedBudget": 8,
+    "ClientOwner": "Not uniquely specified — generic or multi-project portfolio entry"
   },
   {
     "Country": "United States",
@@ -599,7 +648,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2015-2033",
     "Location": "San Francisco",
     "CapacityDetails": "Connecting Los Angeles and San Francisco with high-speed trains.",
-    "ParsedBudget": 135
+    "ParsedBudget": 135,
+    "ClientOwner": "California High-Speed Rail Authority"
   },
   {
     "Country": "Australia",
@@ -611,7 +661,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2021-2028",
     "Location": "Pilbara",
     "CapacityDetails": "Lithium, rare earths, coal basin extraction capacity increase.",
-    "ParsedBudget": 100
+    "ParsedBudget": 100,
+    "ClientOwner": "Not uniquely specified — generic or multi-project portfolio entry"
   },
   {
     "Country": "Australia",
@@ -623,7 +674,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2018-2030",
     "Location": "Sydney",
     "CapacityDetails": "Fully automated rapid transit system, driverless trains.",
-    "ParsedBudget": 38
+    "ParsedBudget": 38,
+    "ClientOwner": "Sydney Metro (NSW Government)"
   },
   {
     "Country": "New Zealand",
@@ -635,7 +687,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2021-2027",
     "Location": "Auckland",
     "CapacityDetails": "Electrification, track upgrades, and modern rolling stock.",
-    "ParsedBudget": 6
+    "ParsedBudget": 6,
+    "ClientOwner": "KiwiRail"
   },
   {
     "Country": "New Zealand",
@@ -647,7 +700,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2022-2028",
     "Location": "Auckland Waterfront",
     "CapacityDetails": "Smart, sustainable urban district built on Expo 2020 legacy, Al Wasl Plaza.",
-    "ParsedBudget": 3
+    "ParsedBudget": 3,
+    "ClientOwner": "Not uniquely specified — generic or multi-project portfolio entry"
   },
   {
     "Country": "Malaysia",
@@ -659,7 +713,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2021-2026",
     "Location": "Kuala Lumpur",
     "CapacityDetails": "Commercial, tourism, and recreational infrastructure in Kuala Lumpur.",
-    "ParsedBudget": 0.8
+    "ParsedBudget": 0.8,
+    "ClientOwner": "Menara Kuala Lumpur Sdn. Bhd."
   },
   {
     "Country": "Malaysia",
@@ -671,7 +726,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2018-2030",
     "Location": "Selangor",
     "CapacityDetails": "Mass rapid transit lines to improve public transport.",
-    "ParsedBudget": 12
+    "ParsedBudget": 12,
+    "ClientOwner": "Mass Rapid Transit Corporation Sdn Bhd (MRT Corp)"
   },
   {
     "Country": "South Africa",
@@ -683,7 +739,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2021-2027",
     "Location": "Lephalale",
     "CapacityDetails": "Large-scale PV project to generate clean electricity and reduce emissions.",
-    "ParsedBudget": 0.408
+    "ParsedBudget": 0.408,
+    "ClientOwner": "Eskom Holdings SOC Ltd"
   },
   {
     "Country": "South Africa",
@@ -695,7 +752,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2020-2028",
     "Location": "Durban",
     "CapacityDetails": "Upgrading rail networks with improved signaling and rolling stock.",
-    "ParsedBudget": 8
+    "ParsedBudget": 8,
+    "ClientOwner": "Not uniquely specified — generic or multi-project portfolio entry"
   },
   {
     "Country": "Turkey",
@@ -707,7 +765,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2021-2030",
     "Location": "Istanbul",
     "CapacityDetails": "6 metro lines, 85 stations, integrated with bus and smart mobility.",
-    "ParsedBudget": 22.5
+    "ParsedBudget": 22.5,
+    "ClientOwner": "Not uniquely specified — generic or multi-project portfolio entry"
   },
   {
     "Country": "Turkey",
@@ -719,7 +778,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2022-2029",
     "Location": "Başakşehir",
     "CapacityDetails": "Large-scale residential, commercial, and infrastructure developments.",
-    "ParsedBudget": 10
+    "ParsedBudget": 10,
+    "ClientOwner": "Not uniquely specified — generic or multi-project portfolio entry"
   },
   {
     "Country": "Guyana",
@@ -731,7 +791,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2020-2030",
     "Location": "Stabroek Block",
     "CapacityDetails": "Increasing offshore and onshore oil production capacity.",
-    "ParsedBudget": 55
+    "ParsedBudget": 55,
+    "ClientOwner": "ExxonMobil Guyana-led Stabroek Block consortium"
   },
   {
     "Country": "Guyana",
@@ -743,7 +804,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2021-2029",
     "Location": "Lethem",
     "CapacityDetails": "Building and upgrading highways, bridges, and rural roads.",
-    "ParsedBudget": 1.8
+    "ParsedBudget": 1.8,
+    "ClientOwner": "Ministry of Public Works, Guyana"
   },
   {
     "Country": "Malaysia",
@@ -755,7 +817,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2030",
     "Location": "Kuala Lumpur",
     "CapacityDetails": "Forming a loop around the city to complete Klang Valley's MRT network.",
-    "ParsedBudget": 9
+    "ParsedBudget": 9,
+    "ClientOwner": "Mass Rapid Transit Corporation Sdn Bhd (MRT Corp)"
   },
   {
     "Country": "Qatar",
@@ -767,7 +830,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2026",
     "Location": "Al Wakrah, Doha",
     "CapacityDetails": "Advanced cargo terminals, automated handling, warehousing.",
-    "ParsedBudget": 2.5
+    "ParsedBudget": 2.5,
+    "ClientOwner": "MATAR / Qatar Airways Group"
   },
   {
     "Country": "Singapore",
@@ -779,7 +843,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2027",
     "Location": "Tuas, Singapore",
     "CapacityDetails": "World’s largest fully automated container terminal.",
-    "ParsedBudget": 15
+    "ParsedBudget": 15,
+    "ClientOwner": "PSA Corporation and Maritime and Port Authority of Singapore"
   },
   {
     "Country": "United States",
@@ -791,7 +856,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2030",
     "Location": "Los Angeles, California",
     "CapacityDetails": "New gates, modern facilities, improved international travel experience.",
-    "ParsedBudget": 1.7
+    "ParsedBudget": 1.7,
+    "ClientOwner": "Los Angeles World Airports (LAWA)"
   },
   {
     "Country": "United States",
@@ -803,7 +869,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2028",
     "Location": "Virginia,United States",
     "CapacityDetails": "Two-lane bored tunnel by tunnel boring machine (TBM).",
-    "ParsedBudget": 0.756
+    "ParsedBudget": 0.756,
+    "ClientOwner": "Chesapeake Bay Bridge and Tunnel Commission"
   },
   {
     "Country": "United Kingdom",
@@ -815,7 +882,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2032",
     "Location": "East Midlands region, United Kingdom",
     "CapacityDetails": "High-capacity intermodal terminal handling up to 16 freight trains daily.",
-    "ParsedBudget": 0.6
+    "ParsedBudget": 0.6,
+    "ClientOwner": "SEGRO plc"
   },
   {
     "Country": "Saudi Arabia",
@@ -827,7 +895,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2030",
     "Location": "Riyadh, Saudi Arabia",
     "CapacityDetails": "6 parallel runways, cargo/logistics facilities, making Riyadh an aviation hub.",
-    "ParsedBudget": 30
+    "ParsedBudget": 30,
+    "ClientOwner": "King Salman International Airport Development Company"
   },
   {
     "Country": "Saudi Arabia",
@@ -839,7 +908,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2030",
     "Location": "Jeddah – Riyadh – Dammam",
     "CapacityDetails": "Freight corridors linking Red Sea to Riyadh and Dammam.",
-    "ParsedBudget": 26.6
+    "ParsedBudget": 26.6,
+    "ClientOwner": "Saudi Arabia Railways (SAR)"
   },
   {
     "Country": "Saudi Arabia",
@@ -851,7 +921,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2030",
     "Location": "Riyadh",
     "CapacityDetails": "Expansion adding 5 stations, improving connectivity to Diriyah.",
-    "ParsedBudget": 0.8
+    "ParsedBudget": 0.8,
+    "ClientOwner": "Royal Commission for Riyadh City (RCRC)"
   },
   {
     "Country": "Saudi Arabia",
@@ -863,7 +934,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "Before 2030",
     "Location": "Riyadh",
     "CapacityDetails": "Linking western Riyadh with Qiddiya, 19 stations (14 underground).",
-    "ParsedBudget": 3
+    "ParsedBudget": 3,
+    "ClientOwner": "Royal Commission for Riyadh City (RCRC)"
   },
   {
     "Country": "Saudi Arabia",
@@ -875,7 +947,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2030",
     "Location": "Riyadh",
     "CapacityDetails": "Double-track railway connecting North–South and Eastern Railways.",
-    "ParsedBudget": 0.16
+    "ParsedBudget": 0.16,
+    "ClientOwner": "Saudi Arabia Railways (SAR)"
   },
   {
     "Country": "Saudi Arabia",
@@ -887,7 +960,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "ongoing",
     "Location": "Across Saudi Arabia",
     "CapacityDetails": "Upgrading road infrastructure to improve connectivity between major cities.",
-    "ParsedBudget": 32
+    "ParsedBudget": 32,
+    "ClientOwner": "Roads General Authority, Saudi Arabia"
   },
   {
     "Country": "Saudi Arabia",
@@ -899,7 +973,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "Late 2020s–2030 (phased)",
     "Location": "Jeddah",
     "CapacityDetails": "Fully automated driverless electric metro, 43,000 passengers/hour capacity.",
-    "ParsedBudget": 2
+    "ParsedBudget": 2,
+    "ClientOwner": "Jeddah Transport Company"
   },
   {
     "Country": "Saudi Arabia",
@@ -911,7 +986,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2034",
     "Location": "Riyadh – Dammam",
     "CapacityDetails": "Signaling, track upgrades, and capacity increase.",
-    "ParsedBudget": 16.8
+    "ParsedBudget": 16.8,
+    "ClientOwner": "Saudi Arabia Railways (SAR)"
   },
   {
     "Country": "Saudi Arabia",
@@ -923,7 +999,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2034",
     "Location": "King Abdullah Port – Western Saudi Arabia",
     "CapacityDetails": "Freight railway connecting port to national railway network.",
-    "ParsedBudget": 7
+    "ParsedBudget": 7,
+    "ClientOwner": "Ports Development Company (King Abdullah Port)"
   },
   {
     "Country": "Saudi Arabia",
@@ -935,7 +1012,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2029-2030",
     "Location": "Riyadh",
     "CapacityDetails": "Riyadh Main & Ring Road Development Program (Package 3) key infrastructure development in Saudi Arabia.",
-    "ParsedBudget": 2.1
+    "ParsedBudget": 2.1,
+    "ClientOwner": "Royal Commission for Riyadh City (RCRC)"
   },
   {
     "Country": "Russia",
@@ -947,7 +1025,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2028",
     "Location": "Yakutsk, Sakha Republic",
     "CapacityDetails": "Major cable-stayed bridge connecting Yakutsk to highway network.",
-    "ParsedBudget": 1.6
+    "ParsedBudget": 1.6,
+    "ClientOwner": "Road Agency of the Republic of Sakha (Yakutia)"
   },
   {
     "Country": "Russia",
@@ -959,7 +1038,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2026",
     "Location": "Khasan – Tumangang",
     "CapacityDetails": "International bridge connecting Russia and North Korea.",
-    "ParsedBudget": 0.1
+    "ParsedBudget": 0.1,
+    "ClientOwner": "Ministry of Transport of the Russian Federation"
   },
   {
     "Country": "Russia",
@@ -971,7 +1051,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2030",
     "Location": "Novorossiysk",
     "CapacityDetails": "Expansion of railway yards and port connectivity.",
-    "ParsedBudget": 0.65
+    "ParsedBudget": 0.65,
+    "ClientOwner": "Russian Railways and Novorossiysk Commercial Sea Port"
   },
   {
     "Country": "Russia",
@@ -983,7 +1064,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2032",
     "Location": "Moscow",
     "CapacityDetails": "New metro lines and stations in major cities.",
-    "ParsedBudget": 18
+    "ParsedBudget": 18,
+    "ClientOwner": "Moscow Government / Moscow Metro"
   },
   {
     "Country": "Russia",
@@ -995,7 +1077,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2028",
     "Location": "Moscow",
     "CapacityDetails": "New line serving western Moscow residential/business districts.",
-    "ParsedBudget": 2.3
+    "ParsedBudget": 2.3,
+    "ClientOwner": "Moscow Government / Moscow Metro"
   },
   {
     "Country": "Russia",
@@ -1007,7 +1090,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2028",
     "Location": "Moscow Region",
     "CapacityDetails": "Interchanges, bridges, and overpasses around Moscow.",
-    "ParsedBudget": 1.5
+    "ParsedBudget": 1.5,
+    "ClientOwner": "Moscow Region road authorities"
   },
   {
     "Country": "Russia",
@@ -1019,7 +1103,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2030",
     "Location": "Nationwide",
     "CapacityDetails": "Mass rapid transit lines to improve public transport.",
-    "ParsedBudget": 12
+    "ParsedBudget": 12,
+    "ClientOwner": "Government of the Russian Federation"
   },
   {
     "Country": "Russia",
@@ -1031,7 +1116,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2028",
     "Location": "Moscow – St. Petersburg",
     "CapacityDetails": "Reduces travel time to ~2–2.5 hours.",
-    "ParsedBudget": 24
+    "ParsedBudget": 24,
+    "ClientOwner": "Russian Railways (RZD)"
   },
   {
     "Country": "Russia",
@@ -1043,7 +1129,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2027",
     "Location": "Novy Urengoy, Yamalo-Nenets Autonomous Okrug, Russia",
     "CapacityDetails": "Mass rapid transit lines to improve public transport.",
-    "ParsedBudget": 12
+    "ParsedBudget": 12,
+    "ClientOwner": "Airports of Regions Management Company"
   },
   {
     "Country": "Russia",
@@ -1055,7 +1142,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2030",
     "Location": "Southern Russia",
     "CapacityDetails": "Rail and logistics linking Russia with Iran and India.",
-    "ParsedBudget": 10
+    "ParsedBudget": 10,
+    "ClientOwner": "Ministry of Transport of the Russian Federation and Russian Railways"
   },
   {
     "Country": "Israel",
@@ -1067,7 +1155,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2035",
     "Location": "Tel Aviv Metropolitan Area",
     "CapacityDetails": "Fully automated driverless electric metro, 43,000 passengers/hour capacity.",
-    "ParsedBudget": 2
+    "ParsedBudget": 2,
+    "ClientOwner": "NTA Metropolitan Mass Transit System Ltd."
   },
   {
     "Country": "Israel",
@@ -1079,7 +1168,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2027",
     "Location": "Jerusalem",
     "CapacityDetails": "Green Line tracks, stations, and urban infrastructure.",
-    "ParsedBudget": 2.2
+    "ParsedBudget": 2.2,
+    "ClientOwner": "Jerusalem Transportation Master Plan Team"
   },
   {
     "Country": "Israel",
@@ -1091,7 +1181,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2027",
     "Location": "Tel Aviv",
     "CapacityDetails": "Upgrading road infrastructure to improve connectivity between major cities.",
-    "ParsedBudget": 32
+    "ParsedBudget": 32,
+    "ClientOwner": "Ayalon Highways Co. Ltd."
   },
   {
     "Country": "Israel",
@@ -1103,7 +1194,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2022",
     "Location": "Jerusalem",
     "CapacityDetails": "Mass rapid transit lines to improve public transport.",
-    "ParsedBudget": 12
+    "ParsedBudget": 12,
+    "ClientOwner": "Netivei Israel – National Transport Infrastructure Company"
   },
   {
     "Country": "Israel",
@@ -1115,7 +1207,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2027",
     "Location": "Nationwide",
     "CapacityDetails": "Track electrification, signaling, and stations.",
-    "ParsedBudget": 3
+    "ParsedBudget": 3,
+    "ClientOwner": "Israel Railways"
   },
   {
     "Country": "Israel",
@@ -1127,7 +1220,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2028",
     "Location": "Haifa",
     "CapacityDetails": "Mass rapid transit lines to improve public transport.",
-    "ParsedBudget": 12
+    "ParsedBudget": 12,
+    "ClientOwner": "Israel Ports Company"
   },
   {
     "Country": "Israel",
@@ -1139,7 +1233,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2031",
     "Location": "Ashdod",
     "CapacityDetails": "New wards, emergency units, and medical infrastructure.",
-    "ParsedBudget": 0.15
+    "ParsedBudget": 0.15,
+    "ClientOwner": "Assuta Ashdod University Hospital"
   },
   {
     "Country": "Israel",
@@ -1151,7 +1246,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2030",
     "Location": "Tel Aviv",
     "CapacityDetails": "Terminals, runways, and passenger facilities to boost capacity.",
-    "ParsedBudget": 2.5
+    "ParsedBudget": 2.5,
+    "ClientOwner": "Israel Airports Authority"
   },
   {
     "Country": "Israel",
@@ -1163,7 +1259,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2035",
     "Location": "Tel Aviv Metropolitan Area",
     "CapacityDetails": "Underground rail system, 3 lines, tunnels, stations to reduce congestion.",
-    "ParsedBudget": 40
+    "ParsedBudget": 40,
+    "ClientOwner": "NTA Metropolitan Mass Transit System Ltd."
   },
   {
     "Country": "Israel",
@@ -1175,7 +1272,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2028",
     "Location": "Tel Aviv Metropolitan Area",
     "CapacityDetails": "Light rail corridor connecting suburbs through Tel Aviv.",
-    "ParsedBudget": 2.5
+    "ParsedBudget": 2.5,
+    "ClientOwner": "NTA Metropolitan Mass Transit System Ltd."
   },
   {
     "Country": "Turkey",
@@ -1187,7 +1285,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2030",
     "Location": "Istanbul",
     "CapacityDetails": "Artificial canal connecting Black Sea to Sea of Marmara.",
-    "ParsedBudget": 15
+    "ParsedBudget": 15,
+    "ClientOwner": "Ministry of Transport and Infrastructure, Republic of Türkiye"
   },
   {
     "Country": "Turkey",
@@ -1199,7 +1298,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2030",
     "Location": "Istanbul",
     "CapacityDetails": "New metro lines and stations in major cities.",
-    "ParsedBudget": 18
+    "ParsedBudget": 18,
+    "ClientOwner": "Istanbul Metropolitan Municipality"
   },
   {
     "Country": "Turkey",
@@ -1211,7 +1311,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2027",
     "Location": "Ankara – Izmir",
     "CapacityDetails": "Reduces travel time between Ankara and Izmir.",
-    "ParsedBudget": 4.5
+    "ParsedBudget": 4.5,
+    "ClientOwner": "Turkish State Railways (TCDD)"
   },
   {
     "Country": "Turkey",
@@ -1223,7 +1324,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2022",
     "Location": "Çanakkale",
     "CapacityDetails": "Suspension bridge and integrated motorway project.",
-    "ParsedBudget": 2.5
+    "ParsedBudget": 2.5,
+    "ClientOwner": "General Directorate of Highways, Türkiye (KGM)"
   },
   {
     "Country": "Turkey",
@@ -1235,7 +1337,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2027",
     "Location": "Bursa – Osmaneli",
     "CapacityDetails": "Connects Bursa to the national high-speed network.",
-    "ParsedBudget": 2
+    "ParsedBudget": 2,
+    "ClientOwner": "Turkish State Railways (TCDD)"
   },
   {
     "Country": "Turkey",
@@ -1247,7 +1350,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2032",
     "Location": "Marmara Region",
     "CapacityDetails": "Network completion around Istanbul (tunnels, bridges).",
-    "ParsedBudget": 6
+    "ParsedBudget": 6,
+    "ClientOwner": "General Directorate of Highways, Türkiye (KGM)"
   },
   {
     "Country": "Turkey",
@@ -1259,7 +1363,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2033",
     "Location": "Istanbul – Ankara",
     "CapacityDetails": "Ultra high-speed rail, ~80 minutes travel time.",
-    "ParsedBudget": 10
+    "ParsedBudget": 10,
+    "ClientOwner": "Turkish State Railways (TCDD)"
   },
   {
     "Country": "Turkey",
@@ -1271,7 +1376,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2035",
     "Location": "Nationwide",
     "CapacityDetails": "Network expansion with smart transport systems.",
-    "ParsedBudget": 35
+    "ParsedBudget": 35,
+    "ClientOwner": "General Directorate of Highways, Türkiye (KGM)"
   },
   {
     "Country": "Turkey",
@@ -1283,7 +1389,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2030+",
     "Location": "Across Turkey",
     "CapacityDetails": "Rail/road infrastructure connecting Asia–Europe routes.",
-    "ParsedBudget": 8
+    "ParsedBudget": 8,
+    "ClientOwner": "Ministry of Transport and Infrastructure / Turkish State Railways"
   },
   {
     "Country": "Turkey",
@@ -1295,7 +1402,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2030",
     "Location": "Istanbul",
     "CapacityDetails": "Multi-use tunnel under Bosphorus for road and rail.",
-    "ParsedBudget": 3
+    "ParsedBudget": 3,
+    "ClientOwner": "Ministry of Transport and Infrastructure, Republic of Türkiye"
   },
   {
     "Country": "Australia",
@@ -1307,7 +1415,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2030",
     "Location": "Western Australia (lithium, rare earths) and the Queensland/NSW coal basins,",
     "CapacityDetails": "Lithium, rare earths, coal basin extraction capacity increase.",
-    "ParsedBudget": 100
+    "ParsedBudget": 100,
+    "ClientOwner": "Not uniquely specified — generic or multi-project portfolio entry"
   },
   {
     "Country": "Australia",
@@ -1319,7 +1428,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2030",
     "Location": "sydney",
     "CapacityDetails": "Fully automated rapid transit system, driverless trains.",
-    "ParsedBudget": 38
+    "ParsedBudget": 38,
+    "ClientOwner": "Sydney Metro (NSW Government)"
   },
   {
     "Country": "Australia",
@@ -1331,7 +1441,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2030",
     "Location": "North Australia",
     "CapacityDetails": "20 GW solar, 40+ GWh battery, subsea cables to Singapore.",
-    "ParsedBudget": 35
+    "ParsedBudget": 35,
+    "ClientOwner": "Sun Cable"
   },
   {
     "Country": "Australia",
@@ -1343,7 +1454,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2031",
     "Location": "",
     "CapacityDetails": "Motorway connecting Torrens Road to Darlington.",
-    "ParsedBudget": 39
+    "ParsedBudget": 39,
+    "ClientOwner": "South Australian Department for Infrastructure and Transport"
   },
   {
     "Country": "Australia",
@@ -1355,7 +1467,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2032",
     "Location": "Murdoch Activity Centre in Perth, Western Australia",
     "CapacityDetails": "Aged-care facility, medihotel, medical/commercial spaces.",
-    "ParsedBudget": 0.2
+    "ParsedBudget": 0.2,
+    "ClientOwner": "DevelopmentWA; preferred developer Hesperia"
   },
   {
     "Country": "Australia",
@@ -1367,7 +1480,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2030",
     "Location": "Ripley",
     "CapacityDetails": "Large-scale master-planned residential community.",
-    "ParsedBudget": 0.2
+    "ParsedBudget": 0.2,
+    "ClientOwner": "Amex Corporation (Providence)"
   },
   {
     "Country": "Australia",
@@ -1379,7 +1493,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2030",
     "Location": "Heybridge in North West Tasmania to the Latrobe Valley in Victoria",
     "CapacityDetails": "Subsea/underground heavy-duty power cable (Tasmania-Victoria).",
-    "ParsedBudget": 3.8
+    "ParsedBudget": 3.8,
+    "ClientOwner": "Marinus Link Pty Ltd"
   },
   {
     "Country": "Australia",
@@ -1391,7 +1506,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2032",
     "Location": "North Queensland,",
     "CapacityDetails": "Transmission line connecting NW Minerals Province to NEM.",
-    "ParsedBudget": 14
+    "ParsedBudget": 14,
+    "ClientOwner": "Powerlink Queensland"
   },
   {
     "Country": "South Africa",
@@ -1403,7 +1519,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2035",
     "Location": "Nationwide",
     "CapacityDetails": "Upgrading rail networks with improved signaling and rolling stock.",
-    "ParsedBudget": 8
+    "ParsedBudget": 8,
+    "ClientOwner": "Transnet SOC Ltd"
   },
   {
     "Country": "South Africa",
@@ -1415,7 +1532,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2032",
     "Location": "Durban → Johannesburg",
     "CapacityDetails": "Rail freight connecting Durban port to inland logistics hubs.",
-    "ParsedBudget": 4
+    "ParsedBudget": 4,
+    "ClientOwner": "Transnet Freight Rail"
   },
   {
     "Country": "South Africa",
@@ -1427,7 +1545,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2035",
     "Location": "Nationwide",
     "CapacityDetails": "Expansion and upgrading of highways and bridges.",
-    "ParsedBudget": 20
+    "ParsedBudget": 20,
+    "ClientOwner": "South African National Roads Agency SOC Ltd (SANRAL)"
   },
   {
     "Country": "South Africa",
@@ -1439,7 +1558,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2030",
     "Location": "Eastern Cape",
     "CapacityDetails": "Major structural bridge over Mtentu River.",
-    "ParsedBudget": 0.22
+    "ParsedBudget": 0.22,
+    "ClientOwner": "South African National Roads Agency SOC Ltd (SANRAL)"
   },
   {
     "Country": "South Africa",
@@ -1451,7 +1571,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2033",
     "Location": "Cape Town",
     "CapacityDetails": "Expansion of terminals and runway infrastructure.",
-    "ParsedBudget": 0.55
+    "ParsedBudget": 0.55,
+    "ClientOwner": "Airports Company South Africa (ACSA)"
   },
   {
     "Country": "South Africa",
@@ -1463,7 +1584,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2035",
     "Location": "Western Cape",
     "CapacityDetails": "New airport with logistics and passenger facilities.",
-    "ParsedBudget": 0.4
+    "ParsedBudget": 0.4,
+    "ClientOwner": "Cape Winelands Airport (Pty) Ltd"
   },
   {
     "Country": "South Africa",
@@ -1475,7 +1597,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2036",
     "Location": "Lesotho border",
     "CapacityDetails": "Mass rapid transit lines to improve public transport.",
-    "ParsedBudget": 12
+    "ParsedBudget": 12,
+    "ClientOwner": "Lesotho Highlands Development Authority"
   },
   {
     "Country": "South Africa",
@@ -1487,7 +1610,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2033",
     "Location": "Richards Bay",
     "CapacityDetails": "Container terminal and logistics facility expansion.",
-    "ParsedBudget": 500
+    "ParsedBudget": 500,
+    "ClientOwner": "Transnet National Ports Authority"
   },
   {
     "Country": "South Africa",
@@ -1499,7 +1623,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2034",
     "Location": "Boegoebaai",
     "CapacityDetails": "Deep-water port with rail link for mining exports.",
-    "ParsedBudget": 6
+    "ParsedBudget": 6,
+    "ClientOwner": "Transnet National Ports Authority"
   },
   {
     "Country": "South Africa",
@@ -1511,7 +1636,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2032",
     "Location": "Mtamvuna",
     "CapacityDetails": "Coastal highway construction with tunnels and bridges.",
-    "ParsedBudget": 2
+    "ParsedBudget": 2,
+    "ClientOwner": "South African National Roads Agency SOC Ltd (SANRAL)"
   },
   {
     "Country": "Malaysia",
@@ -1523,7 +1649,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2035",
     "Location": "Kota Bharu",
     "CapacityDetails": "Double-tracking, logistics hubs, bridging east and west coasts.",
-    "ParsedBudget": 10
+    "ParsedBudget": 10,
+    "ClientOwner": "Malaysia Rail Link Sdn Bhd"
   },
   {
     "Country": "Malaysia",
@@ -1535,7 +1662,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2031",
     "Location": "George Town",
     "CapacityDetails": "Elevated and underground metro (Mutiara LRT Line).",
-    "ParsedBudget": 2.5
+    "ParsedBudget": 2.5,
+    "ClientOwner": "Mass Rapid Transit Corporation Sdn Bhd (MRT Corp)"
   },
   {
     "Country": "Malaysia",
@@ -1547,7 +1675,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2035",
     "Location": "Subang",
     "CapacityDetails": "Terminal reconstruction, runway upgrades, hangars.",
-    "ParsedBudget": 600
+    "ParsedBudget": 600,
+    "ClientOwner": "Malaysia Airports Holdings Berhad"
   },
   {
     "Country": "Malaysia",
@@ -1559,7 +1688,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2032",
     "Location": "Kota Kinabalu",
     "CapacityDetails": "Track construction, signaling, and port area integration.",
-    "ParsedBudget": 2
+    "ParsedBudget": 2,
+    "ClientOwner": "Sabah State Railway Department"
   },
   {
     "Country": "Malaysia",
@@ -1571,7 +1701,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2035",
     "Location": "Johor Bahru & Iskandar region",
     "CapacityDetails": "Cross-border highways, rail systems, and industrial zones.",
-    "ParsedBudget": 10
+    "ParsedBudget": 10,
+    "ClientOwner": "Governments of Malaysia and Singapore / Johor state agencies"
   },
   {
     "Country": "Malaysia",
@@ -1583,7 +1714,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2040",
     "Location": "Kuching",
     "CapacityDetails": "Connecting Sabah and Sarawak to boost freight.",
-    "ParsedBudget": 18
+    "ParsedBudget": 18,
+    "ClientOwner": "Governments of Malaysia, Indonesia and Brunei"
   },
   {
     "Country": "Malaysia",
@@ -1595,7 +1727,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2045",
     "Location": "Seremban",
     "CapacityDetails": "Integrated regional development, smart city infrastructure.",
-    "ParsedBudget": 90
+    "ParsedBudget": 90,
+    "ClientOwner": "Sime Darby Property and Negeri Sembilan State Government"
   },
   {
     "Country": "Malaysia",
@@ -1607,7 +1740,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2035",
     "Location": "Pengerang, Johor",
     "CapacityDetails": "Petrochemical/refining infrastructure and export terminals.",
-    "ParsedBudget": 27
+    "ParsedBudget": 27,
+    "ClientOwner": "PETRONAS Refinery and Petrochemical Corporation (PRPC)"
   },
   {
     "Country": "Malaysia",
@@ -1619,7 +1753,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2033",
     "Location": "Kuantan",
     "CapacityDetails": "Lithium, rare earths, coal basin extraction capacity increase.",
-    "ParsedBudget": 100
+    "ParsedBudget": 100,
+    "ClientOwner": "Lynas Malaysia Sdn Bhd"
   },
   {
     "Country": "Malaysia",
@@ -1631,7 +1766,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2035",
     "Location": "Kota Kinabalu region",
     "CapacityDetails": "Roads, ports, industrial zones, and tourism infrastructure.",
-    "ParsedBudget": 20
+    "ParsedBudget": 20,
+    "ClientOwner": "Sabah Economic Development and Investment Authority (SEDIA)"
   },
   {
     "Country": "New Zealand",
@@ -1643,7 +1779,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2023-2035",
     "Location": "auckland",
     "CapacityDetails": "Connecting Auckland Airport to the city center.",
-    "ParsedBudget": 18
+    "ParsedBudget": 18,
+    "ClientOwner": "Auckland Light Rail Limited / New Zealand Transport Agency"
   },
   {
     "Country": "New Zealand",
@@ -1655,7 +1792,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2020-2040",
     "Location": "new zealand",
     "CapacityDetails": "Nationwide long-term roads, rail, water, and housing program.",
-    "ParsedBudget": 100
+    "ParsedBudget": 100,
+    "ClientOwner": "New Zealand Infrastructure Commission (Te Waihanga)"
   },
   {
     "Country": "New Zealand",
@@ -1667,7 +1805,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2022-2035",
     "Location": "All cities & towns",
     "CapacityDetails": "Drinking water, wastewater, and stormwater overhaul.",
-    "ParsedBudget": 50
+    "ParsedBudget": 50,
+    "ClientOwner": "New Zealand Department of Internal Affairs and local water entities"
   },
   {
     "Country": "New Zealand",
@@ -1679,7 +1818,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2023-2040",
     "Location": "South Taranaki",
     "CapacityDetails": "Wind farms and hydro projects for 100% renewable goal.",
-    "ParsedBudget": 20
+    "ParsedBudget": 20,
+    "ClientOwner": "Not uniquely specified — generic or multi-project portfolio entry"
   },
   {
     "Country": "New Zealand",
@@ -1691,7 +1831,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2018-2035",
     "Location": "Nationwide",
     "CapacityDetails": "Large-scale residential, commercial, and infrastructure developments.",
-    "ParsedBudget": 10
+    "ParsedBudget": 10,
+    "ClientOwner": "Kāinga Ora – Homes and Communities"
   },
   {
     "Country": "Greece",
@@ -1703,7 +1844,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2037",
     "Location": "Elliniko, Athens",
     "CapacityDetails": "Large-scale residential, commercial, and infrastructure developments.",
-    "ParsedBudget": 10
+    "ParsedBudget": 10,
+    "ClientOwner": "LAMDA Development S.A."
   },
   {
     "Country": "Greece",
@@ -1715,7 +1857,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2032",
     "Location": "Athens",
     "CapacityDetails": "Underground metro expansion, tunnels, advanced signaling.",
-    "ParsedBudget": 3.5
+    "ParsedBudget": 3.5,
+    "ClientOwner": "Elliniko Metro S.A. (formerly Attiko Metro)"
   },
   {
     "Country": "Greece",
@@ -1727,7 +1870,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2030",
     "Location": "Chania",
     "CapacityDetails": "Tunnels, bridges, and interchanges across Crete.",
-    "ParsedBudget": 2.8
+    "ParsedBudget": 2.8,
+    "ClientOwner": "Ministry of Infrastructure and Transport, Greece"
   },
   {
     "Country": "Greece",
@@ -1739,7 +1883,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2033",
     "Location": "Kavala",
     "CapacityDetails": "Rail line connecting Kavala port to the national network.",
-    "ParsedBudget": 0.28
+    "ParsedBudget": 0.28,
+    "ClientOwner": "ERGOSE S.A."
   },
   {
     "Country": "Greece",
@@ -1751,7 +1896,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2030",
     "Location": "Thessaloniki",
     "CapacityDetails": "Exhibition halls, commercial buildings, underground parking.",
-    "ParsedBudget": 0.35
+    "ParsedBudget": 0.35,
+    "ClientOwner": "TIF-HELEXPO S.A."
   },
   {
     "Country": "Greece",
@@ -1763,7 +1909,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2035",
     "Location": "Thessaloniki",
     "CapacityDetails": "Electrification and track systems for higher speeds.",
-    "ParsedBudget": 0.8
+    "ParsedBudget": 0.8,
+    "ClientOwner": "ERGOSE S.A."
   },
   {
     "Country": "Greece",
@@ -1775,7 +1922,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2033",
     "Location": "Alexandroupoli",
     "CapacityDetails": "Quay extensions, logistics infrastructure, rail connectivity.",
-    "ParsedBudget": 0.25
+    "ParsedBudget": 0.25,
+    "ClientOwner": "Alexandroupolis Port Authority S.A."
   },
   {
     "Country": "Greece",
@@ -1787,7 +1935,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2030",
     "Location": "Athens (SKA)",
     "CapacityDetails": "Track doubling, electrification, and station improvements.",
-    "ParsedBudget": 0.18
+    "ParsedBudget": 0.18,
+    "ClientOwner": "ERGOSE S.A."
   },
   {
     "Country": "Greece",
@@ -1799,7 +1948,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2032",
     "Location": "Patras",
     "CapacityDetails": "Dual carriageways, bridges, interchanges in western Greece.",
-    "ParsedBudget": 0.4
+    "ParsedBudget": 0.4,
+    "ClientOwner": "Olympia Odos S.A. / Ministry of Infrastructure and Transport"
   },
   {
     "Country": "Greece",
@@ -1811,7 +1961,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2031",
     "Location": "Thessaloniki",
     "CapacityDetails": "New metro lines and stations in major cities.",
-    "ParsedBudget": 18
+    "ParsedBudget": 18,
+    "ClientOwner": "Elliniko Metro S.A. (formerly Attiko Metro)"
   },
   {
     "Country": "Japan",
@@ -1823,7 +1974,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2037",
     "Location": "Tokyo → Nagoya → Osaka",
     "CapacityDetails": "Chūō Shinkansen (Maglev Line) key infrastructure development in Japan.",
-    "ParsedBudget": 65
+    "ParsedBudget": 65,
+    "ClientOwner": "Central Japan Railway Company (JR Central)"
   },
   {
     "Country": "Japan",
@@ -1835,7 +1987,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2031",
     "Location": "Hakodate",
     "CapacityDetails": "Long tunnels and snow-resistant infrastructure to Sapporo.",
-    "ParsedBudget": 15
+    "ParsedBudget": 15,
+    "ClientOwner": "Japan Railway Construction, Transport and Technology Agency (JRTT)"
   },
   {
     "Country": "Japan",
@@ -1847,7 +2000,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2031",
     "Location": "Otaru",
     "CapacityDetails": "Deep underground rail tunnel for Hokkaido Shinkansen.",
-    "ParsedBudget": 1.5
+    "ParsedBudget": 1.5,
+    "ClientOwner": "Japan Railway Construction, Transport and Technology Agency (JRTT)"
   },
   {
     "Country": "Japan",
@@ -1859,7 +2013,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2034",
     "Location": "Tokyo",
     "CapacityDetails": "Unmanned automated logistics corridor.",
-    "ParsedBudget": 22
+    "ParsedBudget": 22,
+    "ClientOwner": "Ministry of Land, Infrastructure, Transport and Tourism, Japan"
   },
   {
     "Country": "Japan",
@@ -1871,7 +2026,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2030",
     "Location": "Tokyo",
     "CapacityDetails": "Underground expressway sections and smart traffic systems.",
-    "ParsedBudget": 22
+    "ParsedBudget": 22,
+    "ClientOwner": "NEXCO East / NEXCO Central and MLIT"
   },
   {
     "Country": "Japan",
@@ -1883,7 +2039,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2032",
     "Location": "Osaka",
     "CapacityDetails": "Hotels, convention centers on Yumeshima Island.",
-    "ParsedBudget": 8.5
+    "ParsedBudget": 8.5,
+    "ClientOwner": "Osaka IR Corporation (MGM Resorts–ORIX consortium)"
   },
   {
     "Country": "Japan",
@@ -1895,7 +2052,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2031",
     "Location": "Sendai, Miyagi",
     "CapacityDetails": "Auckland Waterfront urban planning with residential/commercial infrastructure.",
-    "ParsedBudget": 3
+    "ParsedBudget": 3,
+    "ClientOwner": "Sendai City"
   },
   {
     "Country": "Japan",
@@ -1907,7 +2065,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2035",
     "Location": "Shizuoka",
     "CapacityDetails": "Seawalls, embankments, disaster-resilient infrastructure.",
-    "ParsedBudget": 20
+    "ParsedBudget": 20,
+    "ClientOwner": "Ministry of Land, Infrastructure, Transport and Tourism, Japan"
   },
   {
     "Country": "Japan",
@@ -1919,7 +2078,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2030",
     "Location": "Yokohama",
     "CapacityDetails": "Connecting Kanagawa Prefecture with Tokyo.",
-    "ParsedBudget": 3.5
+    "ParsedBudget": 3.5,
+    "ClientOwner": "Japan Railway Construction, Transport and Technology Agency (JRTT)"
   },
   {
     "Country": "Japan",
@@ -1931,7 +2091,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2034",
     "Location": "Nagasaki",
     "CapacityDetails": "Track extensions, tunnel works, station upgrades to Nagasaki.",
-    "ParsedBudget": 5
+    "ParsedBudget": 5,
+    "ClientOwner": "Japan Railway Construction, Transport and Technology Agency (JRTT)"
   },
   {
     "Country": "Canada",
@@ -1943,7 +2104,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2032",
     "Location": "Toronto",
     "CapacityDetails": "Regional rail electrification, higher frequency trains.",
-    "ParsedBudget": 12
+    "ParsedBudget": 12,
+    "ClientOwner": "Metrolinx"
   },
   {
     "Country": "Canada",
@@ -1955,7 +2117,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2031",
     "Location": "Ontario Science Centre",
     "CapacityDetails": "Underground metro line to relieve Toronto congestion.",
-    "ParsedBudget": 20
+    "ParsedBudget": 20,
+    "ClientOwner": "Metrolinx"
   },
   {
     "Country": "Canada",
@@ -1967,7 +2130,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2040",
     "Location": "Toronto",
     "CapacityDetails": "300 km/h electrified tracks (Toronto–Quebec Corridor).",
-    "ParsedBudget": 60
+    "ParsedBudget": 60,
+    "ClientOwner": "Alto (Government of Canada Crown corporation)"
   },
   {
     "Country": "Canada",
@@ -1979,7 +2143,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2030",
     "Location": "Churchill",
     "CapacityDetails": "Electrification, track upgrades, and modern rolling stock.",
-    "ParsedBudget": 6
+    "ParsedBudget": 6,
+    "ClientOwner": "Arctic Gateway Group"
   },
   {
     "Country": "Canada",
@@ -1991,7 +2156,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2032",
     "Location": "Wrigley",
     "CapacityDetails": "Bridges, roadworks connecting remote northern regions.",
-    "ParsedBudget": 2
+    "ParsedBudget": 2,
+    "ClientOwner": "Government of Northwest Territories"
   },
   {
     "Country": "Canada",
@@ -2003,7 +2169,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2034",
     "Location": "Timmins",
     "CapacityDetails": "Open-pit nickel mine and processing facilities for EV materials.",
-    "ParsedBudget": 2
+    "ParsedBudget": 2,
+    "ClientOwner": "Canada Nickel Company"
   },
   {
     "Country": "Canada",
@@ -2015,7 +2182,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2033",
     "Location": "Contrecoeur",
     "CapacityDetails": "New container terminal, docks, rail connections.",
-    "ParsedBudget": 1.2
+    "ParsedBudget": 1.2,
+    "ClientOwner": "Montreal Port Authority"
   },
   {
     "Country": "Canada",
@@ -2027,7 +2195,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2030",
     "Location": "Quebec",
     "CapacityDetails": "Graphite mine and battery material plants.",
-    "ParsedBudget": 0.3
+    "ParsedBudget": 0.3,
+    "ClientOwner": "Nouveau Monde Graphite"
   },
   {
     "Country": "Canada",
@@ -2039,7 +2208,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2035",
     "Location": "Ontario",
     "CapacityDetails": "Structural reinforcement and seismic upgrades of Centre Block.",
-    "ParsedBudget": 3.7
+    "ParsedBudget": 3.7,
+    "ClientOwner": "Public Services and Procurement Canada"
   },
   {
     "Country": "Canada",
@@ -2051,7 +2221,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2040",
     "Location": "Vancouver",
     "CapacityDetails": "Transit-oriented public/institutional building development.",
-    "ParsedBudget": 15
+    "ParsedBudget": 15,
+    "ClientOwner": "City of Vancouver"
   },
   {
     "Country": "Canada",
@@ -2063,7 +2234,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2035",
     "Location": "Montreal, Quebec",
     "CapacityDetails": "Mixed-use commercial complex and infrastructure.",
-    "ParsedBudget": 5
+    "ParsedBudget": 5,
+    "ClientOwner": "Carbonleo"
   },
   {
     "Country": "India",
@@ -2075,7 +2247,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2026",
     "Location": "Agra, Uttar Pradesh",
     "CapacityDetails": "Modern transit to improve mobility around tourist hubs like Taj Mahal.",
-    "ParsedBudget": 1.1
+    "ParsedBudget": 1.1,
+    "ClientOwner": "Uttar Pradesh Metro Rail Corporation Ltd (UPMRC)"
   },
   {
     "Country": "India",
@@ -2087,7 +2260,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2028",
     "Location": "Ahmedabad, Gujarat",
     "CapacityDetails": "Connecting urban and suburban areas in Gujarat.",
-    "ParsedBudget": 1.1
+    "ParsedBudget": 1.1,
+    "ClientOwner": "Gujarat Metro Rail Corporation Ltd (GMRC)"
   },
   {
     "Country": "India",
@@ -2099,7 +2273,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2027",
     "Location": "Ahmedabad, Gujarat To Dholera, Gujarat",
     "CapacityDetails": "Major north–south highway connecting Gdansk, Warsaw, and Kraków.",
-    "ParsedBudget": 8
+    "ParsedBudget": 8,
+    "ClientOwner": "National Highways Authority of India (NHAI)"
   },
   {
     "Country": "India",
@@ -2111,7 +2286,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2035",
     "Location": "Amaravati, Andhra Pradesh",
     "CapacityDetails": "Mass rapid transit lines to improve public transport.",
-    "ParsedBudget": 12
+    "ParsedBudget": 12,
+    "ClientOwner": "Andhra Pradesh Capital Region Development Authority (APCRDA)"
   },
   {
     "Country": "India",
@@ -2123,7 +2299,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2034",
     "Location": "Amritsar, Punjab",
     "CapacityDetails": "Smart city infrastructure and civic amenities.",
-    "ParsedBudget": 0.21
+    "ParsedBudget": 0.21,
+    "ClientOwner": "Amritsar Smart City Limited"
   },
   {
     "Country": "India",
@@ -2135,7 +2312,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2031",
     "Location": "Amritsar, Punjab To Kolkata, West Bengal",
     "CapacityDetails": "Industrial trade corridor across 7 states.",
-    "ParsedBudget": 2.11
+    "ParsedBudget": 2.11,
+    "ClientOwner": "National Highways Authority of India (NHAI)"
   },
   {
     "Country": "India",
@@ -2147,7 +2325,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2020-2028",
     "Location": "Amritsar, Punjab To Kolkata, West Bengal",
     "CapacityDetails": "Dedicated freight corridor, multi-lane highways, terminal expansions.",
-    "ParsedBudget": 21.927710843373493
+    "ParsedBudget": 21.927710843373493,
+    "ClientOwner": "National Industrial Corridor Development Corporation (NICDC)"
   },
   {
     "Country": "India",
@@ -2159,7 +2338,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2028",
     "Location": "Bengaluru, Karnataka",
     "CapacityDetails": "Expansion of Namma Metro with new elevated/underground corridors.",
-    "ParsedBudget": 4
+    "ParsedBudget": 4,
+    "ClientOwner": "Bangalore Metro Rail Corporation Ltd (BMRCL)"
   },
   {
     "Country": "India",
@@ -2171,7 +2351,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2032",
     "Location": "Bengaluru, Karnataka",
     "CapacityDetails": "Elevated road network for urban mobility.",
-    "ParsedBudget": 0.48
+    "ParsedBudget": 0.48,
+    "ClientOwner": "Karnataka Road Development Corporation Ltd (KRDCL)"
   },
   {
     "Country": "India",
@@ -2183,7 +2364,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2030",
     "Location": "Bengaluru, Karnataka",
     "CapacityDetails": "Reducing congestion between industrial and residential zones.",
-    "ParsedBudget": 2.9
+    "ParsedBudget": 2.9,
+    "ClientOwner": "Bangalore Development Authority (BDA)"
   },
   {
     "Country": "India",
@@ -2195,7 +2377,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2028",
     "Location": "Bengaluru, Karnataka",
     "CapacityDetails": "Mass rapid transit lines to improve public transport.",
-    "ParsedBudget": 12
+    "ParsedBudget": 12,
+    "ClientOwner": "Rail Infrastructure Development Company (Karnataka) Ltd (K-RIDE)"
   },
   {
     "Country": "India",
@@ -2207,7 +2390,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2027",
     "Location": "Bengaluru, Karnataka To Chennai, Tamil Nadu",
     "CapacityDetails": "High-speed greenfield corridor connecting economic centers.",
-    "ParsedBudget": 2.4
+    "ParsedBudget": 2.4,
+    "ClientOwner": "National Highways Authority of India (NHAI)"
   },
   {
     "Country": "India",
@@ -2219,7 +2403,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2015 - 2020",
     "Location": "Bhadla, Rajasthan",
     "CapacityDetails": "Large-scale renewable energy project using PV technology in Alentejo.",
-    "ParsedBudget": 0.4
+    "ParsedBudget": 0.4,
+    "ClientOwner": "Rajasthan Renewable Energy Corporation Ltd / Rajasthan Solarpark Development Company"
   },
   {
     "Country": "India",
@@ -2231,7 +2416,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2030",
     "Location": "Pan India",
     "CapacityDetails": "Bharatmala Pariyojana key infrastructure development in India.",
-    "ParsedBudget": 130
+    "ParsedBudget": 130,
+    "ClientOwner": "National Highways Authority of India (NHAI)"
   },
   {
     "Country": "India",
@@ -2243,7 +2429,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2035",
     "Location": "Bhilai, Chhattisgarh",
     "CapacityDetails": "Smart city command center, civic services, roads.",
-    "ParsedBudget": 0.15
+    "ParsedBudget": 0.15,
+    "ClientOwner": "Not uniquely specified — generic or multi-project portfolio entry"
   },
   {
     "Country": "India",
@@ -2255,7 +2442,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2027",
     "Location": "Bhogapuram, Andhra Pradesh",
     "CapacityDetails": "Bhogapuram International Airport key infrastructure development in India.",
-    "ParsedBudget": 0.75
+    "ParsedBudget": 0.75,
+    "ClientOwner": "Andhra Pradesh Airports Development Corporation; concessionaire GMR Visakhapatnam International Airport Ltd"
   },
   {
     "Country": "India",
@@ -2267,7 +2455,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2030",
     "Location": "Bhopal, Madhya Pradesh",
     "CapacityDetails": "Priority metro rail lines and elevated stations.",
-    "ParsedBudget": 0.36
+    "ParsedBudget": 0.36,
+    "ClientOwner": "Madhya Pradesh Metro Rail Corporation Ltd"
   },
   {
     "Country": "India",
@@ -2279,7 +2468,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2033",
     "Location": "Bikaner, Rajasthan",
     "CapacityDetails": "500 MW solar PV power plant.",
-    "ParsedBudget": 0.33
+    "ParsedBudget": 0.33,
+    "ClientOwner": "Rajasthan Renewable Energy Corporation Ltd / Rajasthan Solarpark Development Company"
   },
   {
     "Country": "India",
@@ -2291,7 +2481,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2032",
     "Location": "Dibrugarh, Assam To Dhemaji, Assam",
     "CapacityDetails": "Strategic rail-cum-road bridge over Brahmaputra River.",
-    "ParsedBudget": 1.3253012048192772
+    "ParsedBudget": 1.3253012048192772,
+    "ClientOwner": "Northeast Frontier Railway"
   },
   {
     "Country": "India",
@@ -2303,7 +2494,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "Completed",
     "Location": "Uttar Pradesh",
     "CapacityDetails": "Strategic highway promoting industrial investment in UP.",
-    "ParsedBudget": 1.8
+    "ParsedBudget": 1.8,
+    "ClientOwner": "Uttar Pradesh Expressways Industrial Development Authority (UPEIDA)"
   },
   {
     "Country": "India",
@@ -2315,7 +2507,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2033",
     "Location": "Uttar Pradesh",
     "CapacityDetails": "150 MW solar power park.",
-    "ParsedBudget": 0.09
+    "ParsedBudget": 0.09,
+    "ClientOwner": "Uttar Pradesh New and Renewable Energy Development Agency (UPNEDA)"
   },
   {
     "Country": "India",
@@ -2327,7 +2520,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2030",
     "Location": "Chandigarh",
     "CapacityDetails": "Elevated urban road corridor.",
-    "ParsedBudget": 0.24
+    "ParsedBudget": 0.24,
+    "ClientOwner": "Chandigarh Administration / National Highways Authority of India"
   },
   {
     "Country": "India",
@@ -2339,7 +2533,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2031",
     "Location": "Uttarakhand",
     "CapacityDetails": "Pilgrimage all-weather highway connectivity.",
-    "ParsedBudget": 1.57
+    "ParsedBudget": 1.57,
+    "ClientOwner": "Ministry of Road Transport and Highways (MoRTH)"
   },
   {
     "Country": "India",
@@ -2351,7 +2546,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2004-2024",
     "Location": "Jammu & Kashmir",
     "CapacityDetails": "World's highest railway arch bridge connecting Kashmir.",
-    "ParsedBudget": 0.1783132530120482
+    "ParsedBudget": 0.1783132530120482,
+    "ClientOwner": "Indian Railways"
   },
   {
     "Country": "India",
@@ -2363,7 +2559,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2030",
     "Location": "Chennai, Tamil Nadu",
     "CapacityDetails": "Expanding network with underground tunnels and elevated corridors.",
-    "ParsedBudget": 7.5
+    "ParsedBudget": 7.5,
+    "ClientOwner": "Chennai Metro Rail Limited (CMRL)"
   },
   {
     "Country": "India",
@@ -2375,7 +2572,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2035",
     "Location": "Chennai, Tamil Nadu",
     "CapacityDetails": "Expanding network with underground tunnels and elevated corridors.",
-    "ParsedBudget": 7.5
+    "ParsedBudget": 7.5,
+    "ClientOwner": "Chennai Metro Rail Limited (CMRL)"
   },
   {
     "Country": "India",
@@ -2387,7 +2585,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2028",
     "Location": "Chennai, Tamil Nadu",
     "CapacityDetails": "Freight corridor connecting industrial zones and ports.",
-    "ParsedBudget": 1.5
+    "ParsedBudget": 1.5,
+    "ClientOwner": "Tamil Nadu Highways Department"
   },
   {
     "Country": "India",
@@ -2399,7 +2598,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2028",
     "Location": "Chennai, Tamil Nadu",
     "CapacityDetails": "Container terminals, storage, and port modernization.",
-    "ParsedBudget": 1.3
+    "ParsedBudget": 1.3,
+    "ClientOwner": "Chennai Port Authority"
   },
   {
     "Country": "India",
@@ -2411,7 +2611,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2026",
     "Location": "Chennai, Tamil Nadu",
     "CapacityDetails": "Dedicated logistics connectivity to reduce port congestion.",
-    "ParsedBudget": 0.2
+    "ParsedBudget": 0.2,
+    "ClientOwner": "National Highways Authority of India and Chennai Port Authority"
   },
   {
     "Country": "India",
@@ -2423,7 +2624,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2032",
     "Location": "Colachel, Tamil Nadu",
     "CapacityDetails": "Commercial deep-sea port terminal.",
-    "ParsedBudget": 0.6
+    "ParsedBudget": 0.6,
+    "ClientOwner": "Government of India / Tamil Nadu Maritime Board"
   },
   {
     "Country": "India",
@@ -2435,7 +2637,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2026",
     "Location": "Uttar Pradesh, Rajasthan, Gujarat, Maharashtra",
     "CapacityDetails": "Electrified tracks, logistics hubs connecting North & West India.",
-    "ParsedBudget": 12
+    "ParsedBudget": 12,
+    "ClientOwner": "Dedicated Freight Corridor Corporation of India Ltd (DFCCIL)"
   },
   {
     "Country": "India",
@@ -2447,7 +2650,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2032",
     "Location": "Delhi",
     "CapacityDetails": "Phase 5 expansion of NCR rapid transit.",
-    "ParsedBudget": 0.72
+    "ParsedBudget": 0.72,
+    "ClientOwner": "Delhi Metro Rail Corporation Ltd (DMRC)"
   },
   {
     "Country": "India",
@@ -2459,7 +2663,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2018-2027",
     "Location": "Delhi To Mumbai, Maharashtra",
     "CapacityDetails": "Smart industrial cities, logistics expressways, power grids.",
-    "ParsedBudget": 90
+    "ParsedBudget": 90,
+    "ClientOwner": "National Industrial Corridor Development Corporation (NICDC)"
   },
   {
     "Country": "India",
@@ -2471,7 +2676,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2028",
     "Location": "Delhi To Amritsar, Punjab To Katra, Jammu & Kashmir",
     "CapacityDetails": "Connecting Delhi, Punjab, and J&K pilgrimage destinations.",
-    "ParsedBudget": 4.5
+    "ParsedBudget": 4.5,
+    "ClientOwner": "National Highways Authority of India (NHAI)"
   },
   {
     "Country": "India",
@@ -2483,7 +2689,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2028",
     "Location": "Delhi To Meerut, Uttar Pradesh",
     "CapacityDetails": "Semi-high-speed regional rail (up to 180 km/h).",
-    "ParsedBudget": 3.8
+    "ParsedBudget": 3.8,
+    "ClientOwner": "National Capital Region Transport Corporation (NCRTC)"
   },
   {
     "Country": "India",
@@ -2495,7 +2702,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2027",
     "Location": "Delhi To Mumbai, Maharashtra",
     "CapacityDetails": "Intelligent traffic systems, wildlife crossings, access-controlled.",
-    "ParsedBudget": 12.891566265060241
+    "ParsedBudget": 12.891566265060241,
+    "ClientOwner": "National Highways Authority of India (NHAI)"
   },
   {
     "Country": "India",
@@ -2507,7 +2715,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2040",
     "Location": "Dholera, Gujarat",
     "CapacityDetails": "Underground utility tunnels, district cooling, IoT command centers.",
-    "ParsedBudget": 14.939759036144578
+    "ParsedBudget": 14.939759036144578,
+    "ClientOwner": "Dholera Industrial City Development Ltd (DICDL)"
   },
   {
     "Country": "India",
@@ -2519,7 +2728,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2032",
     "Location": "Lower Dibang Valley, Arunachal Pradesh",
     "CapacityDetails": "Mass rapid transit lines to improve public transport.",
-    "ParsedBudget": 12
+    "ParsedBudget": 12,
+    "ClientOwner": "NHPC Limited"
   },
   {
     "Country": "India",
@@ -2531,7 +2741,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2026",
     "Location": "Delhi To Gurugram, Haryana",
     "CapacityDetails": "Elevated roads and tunnels connecting Delhi and Gurugram.",
-    "ParsedBudget": 1.2
+    "ParsedBudget": 1.2,
+    "ClientOwner": "National Highways Authority of India (NHAI)"
   },
   {
     "Country": "India",
@@ -2543,7 +2754,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2034",
     "Location": "Odisha, Andhra Pradesh, Tamil Nadu",
     "CapacityDetails": "Major industrial corridor along the eastern coast.",
-    "ParsedBudget": 2.71
+    "ParsedBudget": 2.71,
+    "ClientOwner": "National Industrial Corridor Development Corporation (NICDC)"
   },
   {
     "Country": "India",
@@ -2555,7 +2767,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2026",
     "Location": "Punjab To West Bengal",
     "CapacityDetails": "Coal transport and industrial logistics (Punjab to West Bengal).",
-    "ParsedBudget": 11
+    "ParsedBudget": 11,
+    "ClientOwner": "Dedicated Freight Corridor Corporation of India Ltd (DFCCIL)"
   },
   {
     "Country": "India",
@@ -2567,7 +2780,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2032",
     "Location": "Enayam, Tamil Nadu",
     "CapacityDetails": "Deep-sea container transshipment hub.",
-    "ParsedBudget": 1.05
+    "ParsedBudget": 1.05,
+    "ClientOwner": "Ministry of Ports, Shipping and Waterways / V.O. Chidambaranar Port Authority"
   },
   {
     "Country": "India",
@@ -2579,7 +2793,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2026",
     "Location": "Uttar Pradesh",
     "CapacityDetails": "High-speed expressway connecting western and eastern UP.",
-    "ParsedBudget": 4.4
+    "ParsedBudget": 4.4,
+    "ClientOwner": "Uttar Pradesh Expressways Industrial Development Authority (UPEIDA)"
   },
   {
     "Country": "India",
@@ -2591,7 +2806,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2025",
     "Location": "Uttar Pradesh & Bihar",
     "CapacityDetails": "Bio-engineered erosion control, ghat reconstruction, sewage management.",
-    "ParsedBudget": 1.5
+    "ParsedBudget": 1.5,
+    "ClientOwner": "National Mission for Clean Ganga and state urban agencies"
   },
   {
     "Country": "India",
@@ -2603,7 +2819,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "Ongoing Projects",
     "Location": "Gandhinagar, Gujarat",
     "CapacityDetails": "Smart financial city, stock exchanges, advanced cleanrooms.",
-    "ParsedBudget": 20
+    "ParsedBudget": 20,
+    "ClientOwner": "Gujarat International Finance Tec-City Company Ltd (GIFTCL)"
   },
   {
     "Country": "India",
@@ -2615,7 +2832,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2026",
     "Location": "Gorakhpur, Uttar Pradesh",
     "CapacityDetails": "Access-controlled roads linking to Purvanchal Expressway.",
-    "ParsedBudget": 0.9
+    "ParsedBudget": 0.9,
+    "ClientOwner": "Uttar Pradesh Expressways Industrial Development Authority (UPEIDA)"
   },
   {
     "Country": "India",
@@ -2627,7 +2845,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2029",
     "Location": "Gorakhpur, Uttar Pradesh",
     "CapacityDetails": "Fully automated driverless electric metro, 43,000 passengers/hour capacity.",
-    "ParsedBudget": 2
+    "ParsedBudget": 2,
+    "ClientOwner": "Uttar Pradesh Metro Rail Corporation Ltd (UPMRC)"
   },
   {
     "Country": "India",
@@ -2639,7 +2858,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2030",
     "Location": "Great Nicobar Island, Andaman & Nicobar Islands",
     "CapacityDetails": "Mass rapid transit lines to improve public transport.",
-    "ParsedBudget": 12
+    "ParsedBudget": 12,
+    "ClientOwner": "Andaman and Nicobar Islands Integrated Development Corporation Ltd (ANIIDCO)"
   },
   {
     "Country": "India",
@@ -2651,7 +2871,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2019-2025",
     "Location": "Pan India",
     "CapacityDetails": "Heavy double-stack container trackbeds (25-tonne axle loads).",
-    "ParsedBudget": 12
+    "ParsedBudget": 12,
+    "ClientOwner": "Ministry of Railways / Dedicated Freight Corridor Corporation of India"
   },
   {
     "Country": "India",
@@ -2663,7 +2884,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2028",
     "Location": "Hyderabad, Telangana",
     "CapacityDetails": "Additional corridors to improve mobility in Telangana.",
-    "ParsedBudget": 1.5
+    "ParsedBudget": 1.5,
+    "ClientOwner": "Hyderabad Metro Rail Limited (HMRL)"
   },
   {
     "Country": "India",
@@ -2675,7 +2897,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2032",
     "Location": "Hyderabad, Telangana",
     "CapacityDetails": "Integrated pharmaceutical industrial cluster.",
-    "ParsedBudget": 1.02
+    "ParsedBudget": 1.02,
+    "ClientOwner": "Telangana Industrial Infrastructure Corporation (TSIIC)"
   },
   {
     "Country": "India",
@@ -2687,7 +2910,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2030",
     "Location": "Hyderabad, Telangana",
     "CapacityDetails": "Highway supporting urban expansion and freight movement.",
-    "ParsedBudget": 4.7
+    "ParsedBudget": 4.7,
+    "ClientOwner": "National Highways Authority of India (NHAI)"
   },
   {
     "Country": "India",
@@ -2699,7 +2923,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2033",
     "Location": "Indore, Madhya Pradesh To Ahmedabad, Gujarat",
     "CapacityDetails": "High-speed inter-state expressway.",
-    "ParsedBudget": 0.72
+    "ParsedBudget": 0.72,
+    "ClientOwner": "National Highways Authority of India (NHAI)"
   },
   {
     "Country": "India",
@@ -2711,7 +2936,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2034",
     "Location": "Jaipur, Rajasthan",
     "CapacityDetails": "Elevated traffic bypass corridor.",
-    "ParsedBudget": 0.3
+    "ParsedBudget": 0.3,
+    "ClientOwner": "Jaipur Development Authority"
   },
   {
     "Country": "India",
@@ -2723,7 +2949,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2028",
     "Location": "Navi Mumbai, Maharashtra",
     "CapacityDetails": "Increasing cargo capacity through new terminals and rail links.",
-    "ParsedBudget": 1.5
+    "ParsedBudget": 1.5,
+    "ClientOwner": "Jawaharlal Nehru Port Authority (JNPA)"
   },
   {
     "Country": "India",
@@ -2735,7 +2962,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2030",
     "Location": "Karnataka, Maharashtra & Tamil Nadu",
     "CapacityDetails": "2.5 GW wind farms, utility-scale PV, battery energy storage.",
-    "ParsedBudget": 3.8
+    "ParsedBudget": 3.8,
+    "ClientOwner": "JSW Energy Ltd"
   },
   {
     "Country": "India",
@@ -2747,7 +2975,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2033",
     "Location": "Kandla, Gujarat",
     "CapacityDetails": "Port infrastructure expansion at Deendayal/Kandla port.",
-    "ParsedBudget": 0.3
+    "ParsedBudget": 0.3,
+    "ClientOwner": "Deendayal Port Authority"
   },
   {
     "Country": "India",
@@ -2759,7 +2988,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2032",
     "Location": "Kandla, Gujarat",
     "CapacityDetails": "Integrated logistics and industrial infrastructure around Deendayal Port.",
-    "ParsedBudget": 2
+    "ParsedBudget": 2,
+    "ClientOwner": "Deendayal Port Authority"
   },
   {
     "Country": "India",
@@ -2771,7 +3001,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2027",
     "Location": "Kandla, Gujarat To Gorakhpur, Uttar Pradesh",
     "CapacityDetails": "One of the world's longest LPG pipelines supplying northern India.",
-    "ParsedBudget": 1.3
+    "ParsedBudget": 1.3,
+    "ClientOwner": "Indian Oil Corporation Ltd"
   },
   {
     "Country": "India",
@@ -2783,7 +3014,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2026",
     "Location": "Kanpur, Uttar Pradesh",
     "CapacityDetails": "Elevated corridors and depots for urban UP mobility.",
-    "ParsedBudget": 1.4
+    "ParsedBudget": 1.4,
+    "ClientOwner": "Uttar Pradesh Metro Rail Corporation Ltd (UPMRC)"
   },
   {
     "Country": "India",
@@ -2795,7 +3027,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2030",
     "Location": "Madhya Pradesh To Uttar Pradesh",
     "CapacityDetails": "Transferring water from Ken to Betwa river to improve resilience.",
-    "ParsedBudget": 5.4
+    "ParsedBudget": 5.4,
+    "ClientOwner": "Ken-Betwa Link Project Authority / National Water Development Agency"
   },
   {
     "Country": "India",
@@ -2807,7 +3040,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2028",
     "Location": "Kochi, Kerala",
     "CapacityDetails": "Elevated corridors to improve public transportation efficiency.",
-    "ParsedBudget": 1
+    "ParsedBudget": 1,
+    "ClientOwner": "Kochi Metro Rail Limited (KMRL)"
   },
   {
     "Country": "India",
@@ -2819,7 +3053,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2026",
     "Location": "Kochi, Kerala",
     "CapacityDetails": "Fully automated driverless electric metro, 43,000 passengers/hour capacity.",
-    "ParsedBudget": 2
+    "ParsedBudget": 2,
+    "ClientOwner": "Kochi Metro Rail Limited (KMRL)"
   },
   {
     "Country": "India",
@@ -2831,7 +3066,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2031",
     "Location": "Kolkata, West Bengal",
     "CapacityDetails": "East-west rapid transit metro line.",
-    "ParsedBudget": 0.63
+    "ParsedBudget": 0.63,
+    "ClientOwner": "Kolkata Metro Rail Corporation Ltd"
   },
   {
     "Country": "India",
@@ -2843,7 +3079,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2034",
     "Location": "Kolkata, West Bengal",
     "CapacityDetails": "Airport link metro rail corridor.",
-    "ParsedBudget": 0.42
+    "ParsedBudget": 0.42,
+    "ClientOwner": "Metro Railway, Kolkata"
   },
   {
     "Country": "India",
@@ -2855,7 +3092,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2034",
     "Location": "Kolkata, West Bengal To Howrah, West Bengal",
     "CapacityDetails": "Underwater river tunnel metro link.",
-    "ParsedBudget": 0.45
+    "ParsedBudget": 0.45,
+    "ClientOwner": "Kolkata Metro Rail Corporation Ltd"
   },
   {
     "Country": "India",
@@ -2867,7 +3105,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2030",
     "Location": "Kovvada, Andhra Pradesh",
     "CapacityDetails": "Thermal and renewable energy facilities to meet electricity demand.",
-    "ParsedBudget": 10
+    "ParsedBudget": 10,
+    "ClientOwner": "Nuclear Power Corporation of India Ltd (NPCIL)"
   },
   {
     "Country": "India",
@@ -2879,7 +3118,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2022-26",
     "Location": "Krishnapatnam, Andhra Pradesh",
     "CapacityDetails": "Cargo handling expansion, automated quay crane dispatch systems.",
-    "ParsedBudget": 0.85
+    "ParsedBudget": 0.85,
+    "ClientOwner": "Adani Krishnapatnam Port Ltd"
   },
   {
     "Country": "India",
@@ -2891,7 +3131,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2035",
     "Location": "Lucknow, Uttar Pradesh",
     "CapacityDetails": "East-west metro corridor expansion.",
-    "ParsedBudget": 0.36
+    "ParsedBudget": 0.36,
+    "ClientOwner": "Uttar Pradesh Metro Rail Corporation Ltd (UPMRC)"
   },
   {
     "Country": "India",
@@ -2903,7 +3144,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2030",
     "Location": "Ludhiana, Punjab",
     "CapacityDetails": "Elevated urban corridor in Ludhiana.",
-    "ParsedBudget": 0.21
+    "ParsedBudget": 0.21,
+    "ClientOwner": "National Highways Authority of India (NHAI)"
   },
   {
     "Country": "India",
@@ -2915,7 +3157,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2030",
     "Location": "Mopa, Goa",
     "CapacityDetails": "Upgrading Manohar Int'l Airport in Goa for growing tourism.",
-    "ParsedBudget": 0.5
+    "ParsedBudget": 0.5,
+    "ClientOwner": "GMR Goa International Airport Ltd"
   },
   {
     "Country": "India",
@@ -2927,7 +3170,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2030",
     "Location": "Mumbai, Maharashtra",
     "CapacityDetails": "Tunnels, interchanges, sea walls, and intelligent traffic systems.",
-    "ParsedBudget": 1.7
+    "ParsedBudget": 1.7,
+    "ClientOwner": "Brihanmumbai Municipal Corporation (BMC)"
   },
   {
     "Country": "India",
@@ -2939,7 +3183,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2026",
     "Location": "Mumbai, Maharashtra",
     "CapacityDetails": "Fully underground corridor (Colaba–Bandra–SEEPZ).",
-    "ParsedBudget": 4
+    "ParsedBudget": 4,
+    "ClientOwner": "Mumbai Metro Rail Corporation Ltd (MMRCL)"
   },
   {
     "Country": "India",
@@ -2951,7 +3196,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2031",
     "Location": "Mumbai, Maharashtra",
     "CapacityDetails": "32 km elevated metro corridor.",
-    "ParsedBudget": 0.63
+    "ParsedBudget": 0.63,
+    "ClientOwner": "Mumbai Metropolitan Region Development Authority (MMRDA)"
   },
   {
     "Country": "India",
@@ -2963,7 +3209,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2032",
     "Location": "Thane, Maharashtra To Kalyan, Maharashtra",
     "CapacityDetails": "Elevated rapid transit connecting Thane and Kalyan.",
-    "ParsedBudget": 1.08
+    "ParsedBudget": 1.08,
+    "ClientOwner": "Mumbai Metropolitan Region Development Authority (MMRDA)"
   },
   {
     "Country": "India",
@@ -2975,7 +3222,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2027",
     "Location": "Mumbai, Maharashtra",
     "CapacityDetails": "Elevated rapid transit connecting Lokhandwala and Vikhroli.",
-    "ParsedBudget": 1.1
+    "ParsedBudget": 1.1,
+    "ClientOwner": "Mumbai Metropolitan Region Development Authority (MMRDA)"
   },
   {
     "Country": "India",
@@ -2987,7 +3235,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2032",
     "Location": "Mumbai, Maharashtra",
     "CapacityDetails": "Underground metro link to international airport.",
-    "ParsedBudget": 0.45
+    "ParsedBudget": 0.45,
+    "ClientOwner": "Mumbai Metropolitan Region Development Authority (MMRDA)"
   },
   {
     "Country": "India",
@@ -2999,7 +3248,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2024",
     "Location": "Mumbai, Maharashtra To Navi Mumbai, Maharashtra",
     "CapacityDetails": "India's longest sea bridge connecting Mumbai and Navi Mumbai.",
-    "ParsedBudget": 2.2
+    "ParsedBudget": 2.2,
+    "ClientOwner": "Mumbai Metropolitan Region Development Authority (MMRDA)"
   },
   {
     "Country": "India",
@@ -3011,7 +3261,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2028",
     "Location": "Mumbai, Maharashtra",
     "CapacityDetails": "Mass rapid transit lines to improve public transport.",
-    "ParsedBudget": 12
+    "ParsedBudget": 12,
+    "ClientOwner": "Mumbai Railway Vikas Corporation Ltd (MRVC)"
   },
   {
     "Country": "India",
@@ -3023,7 +3274,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2022-25",
     "Location": "Mysore, Karnataka",
     "CapacityDetails": "120 high-efficiency turbines, LiDAR wind resource mapping.",
-    "ParsedBudget": 0.25
+    "ParsedBudget": 0.25,
+    "ClientOwner": "Not uniquely specified — generic or multi-project portfolio entry"
   },
   {
     "Country": "India",
@@ -3035,7 +3287,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2023-2026",
     "Location": "Nagpur, Maharashtra",
     "CapacityDetails": "Electric arc furnace, AI-driven melt analytics, closed-loop cooling.",
-    "ParsedBudget": 0.45
+    "ParsedBudget": 0.45,
+    "ClientOwner": "Not uniquely specified — generic or multi-project portfolio entry"
   },
   {
     "Country": "India",
@@ -3047,7 +3300,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2029",
     "Location": "Nagpur, Maharashtra",
     "CapacityDetails": "Transit-oriented infrastructure supporting urban expansion.",
-    "ParsedBudget": 0.8
+    "ParsedBudget": 0.8,
+    "ClientOwner": "Maharashtra Metro Rail Corporation Ltd (MAHA-Metro)"
   },
   {
     "Country": "India",
@@ -3059,7 +3313,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2027",
     "Location": "Nagpur, Maharashtra To Mumbai, Maharashtra",
     "CapacityDetails": "High-speed access-controlled expressway for freight and travel.",
-    "ParsedBudget": 7.5
+    "ParsedBudget": 7.5,
+    "ClientOwner": "Maharashtra State Road Development Corporation (MSRDC)"
   },
   {
     "Country": "India",
@@ -3071,7 +3326,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2040",
     "Location": "Pan India",
     "CapacityDetails": "National Industrial Corridor Development Programme key infrastructure development in India.",
-    "ParsedBudget": 100.00000000000001
+    "ParsedBudget": 100.00000000000001,
+    "ClientOwner": "National Industrial Corridor Development Corporation (NICDC)"
   },
   {
     "Country": "India",
@@ -3083,7 +3339,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2022-2026",
     "Location": "Lothal, Gujarat",
     "CapacityDetails": "Museum galleries, reconstructed Lothal dockyard, theme park.",
-    "ParsedBudget": 0.4
+    "ParsedBudget": 0.4,
+    "ClientOwner": "Ministry of Ports, Shipping and Waterways"
   },
   {
     "Country": "India",
@@ -3095,7 +3352,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2018 - 2026",
     "Location": "Navi Mumbai, Maharashtra",
     "CapacityDetails": "Navi Mumbai International Airport key infrastructure development in India.",
-    "ParsedBudget": 2.8
+    "ParsedBudget": 2.8,
+    "ClientOwner": "Navi Mumbai International Airport Ltd (CIDCO–Adani Airports)"
   },
   {
     "Country": "India",
@@ -3107,7 +3365,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2030",
     "Location": "Navi Mumbai, Maharashtra",
     "CapacityDetails": "Elevated metro line in Navi Mumbai.",
-    "ParsedBudget": 0.6
+    "ParsedBudget": 0.6,
+    "ClientOwner": "City and Industrial Development Corporation of Maharashtra Ltd (CIDCO)"
   },
   {
     "Country": "India",
@@ -3119,7 +3378,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2023-2025",
     "Location": "Solan, Himachal Pradesh",
     "CapacityDetails": "Mass rapid transit lines to improve public transport.",
-    "ParsedBudget": 12
+    "ParsedBudget": 12,
+    "ClientOwner": "Not uniquely specified — generic or multi-project portfolio entry"
   },
   {
     "Country": "India",
@@ -3131,7 +3391,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2030",
     "Location": "Jewar, Uttar Pradesh",
     "CapacityDetails": "Noida International Airport (Jewar Airport) key infrastructure development in India.",
-    "ParsedBudget": 4
+    "ParsedBudget": 4,
+    "ClientOwner": "Noida International Airport Ltd; concessionaire Yamuna International Airport Pvt Ltd"
   },
   {
     "Country": "India",
@@ -3143,7 +3404,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2018-2027",
     "Location": "Western India Corridor",
     "CapacityDetails": "PAIMANA - India key infrastructure development in India.",
-    "ParsedBudget": 100.00000000000001
+    "ParsedBudget": 100.00000000000001,
+    "ClientOwner": "Not uniquely specified — generic or multi-project portfolio entry"
   },
   {
     "Country": "India",
@@ -3155,7 +3417,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2033",
     "Location": "Paradip, Odisha",
     "CapacityDetails": "New outer harbor and mechanized berths.",
-    "ParsedBudget": 0.45
+    "ParsedBudget": 0.45,
+    "ClientOwner": "Paradip Port Authority"
   },
   {
     "Country": "India",
@@ -3167,7 +3430,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2035",
     "Location": "Parandur, Tamil Nadu",
     "CapacityDetails": "Chennai's proposed second international airport.",
-    "ParsedBudget": 2.4
+    "ParsedBudget": 2.4,
+    "ClientOwner": "Tamil Nadu Industrial Development Corporation (TIDCO)"
   },
   {
     "Country": "India",
@@ -3179,7 +3443,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2035",
     "Location": "Pan India",
     "CapacityDetails": "Eco-friendly connectivity for hilly and remote terrain.",
-    "ParsedBudget": 3
+    "ParsedBudget": 3,
+    "ClientOwner": "National Highways Logistics Management Ltd (NHLML)"
   },
   {
     "Country": "India",
@@ -3191,7 +3456,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2031",
     "Location": "Patna, Bihar",
     "CapacityDetails": "Promenade, ghat redevelopment, and riverfront beautification.",
-    "ParsedBudget": 0.45
+    "ParsedBudget": 0.45,
+    "ClientOwner": "Patna Smart City Limited / Bihar Urban Infrastructure Development Corporation"
   },
   {
     "Country": "India",
@@ -3203,7 +3469,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2028",
     "Location": "Patna, Bihar",
     "CapacityDetails": "First metro rail system in Bihar (elevated/underground).",
-    "ParsedBudget": 1.7
+    "ParsedBudget": 1.7,
+    "ClientOwner": "Patna Metro Rail Corporation Ltd"
   },
   {
     "Country": "India",
@@ -3215,7 +3482,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2030",
     "Location": "Patna, Bihar To Kolkata, West Bengal",
     "CapacityDetails": "High-speed highway linking Bihar and West Bengal.",
-    "ParsedBudget": 3.5
+    "ParsedBudget": 3.5,
+    "ClientOwner": "National Highways Authority of India (NHAI)"
   },
   {
     "Country": "India",
@@ -3227,7 +3495,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2035",
     "Location": "Pan India",
     "CapacityDetails": "Multi-modal connectivity (roads, rail, ports, airports).",
-    "ParsedBudget": 150
+    "ParsedBudget": 150,
+    "ClientOwner": "Department for Promotion of Industry and Internal Trade (DPIIT)"
   },
   {
     "Country": "India",
@@ -3239,7 +3508,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2028",
     "Location": "Andhra Pradesh",
     "CapacityDetails": "Multipurpose dam for irrigation, drinking water, and power.",
-    "ParsedBudget": 7
+    "ParsedBudget": 7,
+    "ClientOwner": "Polavaram Project Authority / Andhra Pradesh Water Resources Department"
   },
   {
     "Country": "India",
@@ -3251,7 +3521,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2022-2026",
     "Location": "Puga Valley, Ladakh",
     "CapacityDetails": "1 MW binary cycle plant, district heating, high-altitude drilling.",
-    "ParsedBudget": 0.05
+    "ParsedBudget": 0.05,
+    "ClientOwner": "ONGC Energy Centre"
   },
   {
     "Country": "India",
@@ -3263,7 +3534,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2033",
     "Location": "Pune, Maharashtra",
     "CapacityDetails": "Expansion to accommodate growing passenger traffic.",
-    "ParsedBudget": 0.42
+    "ParsedBudget": 0.42,
+    "ClientOwner": "Airports Authority of India"
   },
   {
     "Country": "India",
@@ -3275,7 +3547,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2031",
     "Location": "Pune, Maharashtra",
     "CapacityDetails": "Vanaz to Ramwadi elevated corridor.",
-    "ParsedBudget": 0.36
+    "ParsedBudget": 0.36,
+    "ClientOwner": "Maharashtra Metro Rail Corporation Ltd (MAHA-Metro)"
   },
   {
     "Country": "India",
@@ -3287,7 +3560,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2029",
     "Location": "Pune, Maharashtra",
     "CapacityDetails": "Diverting traffic from city center, improving logistics.",
-    "ParsedBudget": 2.2
+    "ParsedBudget": 2.2,
+    "ClientOwner": "Maharashtra State Road Development Corporation (MSRDC)"
   },
   {
     "Country": "India",
@@ -3299,7 +3573,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2031",
     "Location": "Pune, Maharashtra To Nashik, Maharashtra",
     "CapacityDetails": "Rail corridor connecting Pune and Nashik industrial zones.",
-    "ParsedBudget": 2.1
+    "ParsedBudget": 2.1,
+    "ClientOwner": "Maharashtra Rail Infrastructure Development Corporation Ltd (MAHARAIL)"
   },
   {
     "Country": "India",
@@ -3311,7 +3586,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "Ongoing Projects",
     "Location": "Pan India",
     "CapacityDetails": "Fully automated driverless electric metro, 43,000 passengers/hour capacity.",
-    "ParsedBudget": 2
+    "ParsedBudget": 2,
+    "ClientOwner": "Not uniquely specified — generic or multi-project portfolio entry"
   },
   {
     "Country": "India",
@@ -3323,7 +3599,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2033",
     "Location": "Raipur, Chhattisgarh To Durg, Chhattisgarh",
     "CapacityDetails": "Access-controlled expressway linking Raipur and Durg.",
-    "ParsedBudget": 0.42
+    "ParsedBudget": 0.42,
+    "ClientOwner": "National Highways Authority of India (NHAI)"
   },
   {
     "Country": "India",
@@ -3335,7 +3612,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2030",
     "Location": "Raipur, Chhattisgarh To Visakhapatnam, Andhra Pradesh",
     "CapacityDetails": "Economic corridor improving trade from central to eastern India.",
-    "ParsedBudget": 6
+    "ParsedBudget": 6,
+    "ClientOwner": "National Highways Authority of India (NHAI)"
   },
   {
     "Country": "India",
@@ -3347,7 +3625,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2033",
     "Location": "Rajkot, Gujarat",
     "CapacityDetails": "Smart urban utilities and greenfield area development.",
-    "ParsedBudget": 0.17
+    "ParsedBudget": 0.17,
+    "ClientOwner": "Rajkot Smart City Development Ltd"
   },
   {
     "Country": "India",
@@ -3359,7 +3638,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "1996- Present",
     "Location": "Jamnagar, Gujarat",
     "CapacityDetails": "World's largest refining complex (1.2 million barrels/day).",
-    "ParsedBudget": 14.939759036144578
+    "ParsedBudget": 14.939759036144578,
+    "ClientOwner": "Reliance Industries Ltd"
   },
   {
     "Country": "India",
@@ -3371,7 +3651,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2030",
     "Location": "Khavda, Gujarat",
     "CapacityDetails": "World's largest hybrid (solar/wind) renewable energy park.",
-    "ParsedBudget": 20
+    "ParsedBudget": 20,
+    "ClientOwner": "Gujarat Industries Power Company / Adani Green / NTPC Renewable Energy and other park allottees"
   },
   {
     "Country": "India",
@@ -3383,7 +3664,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2030",
     "Location": "Rewa, Madhya Pradesh",
     "CapacityDetails": "250 MW solar expansion addition.",
-    "ParsedBudget": 0.21
+    "ParsedBudget": 0.21,
+    "ClientOwner": "Rewa Ultra Mega Solar Ltd (RUMSL)"
   },
   {
     "Country": "India",
@@ -3395,7 +3677,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2032",
     "Location": "Rishikesh, Uttarakhand To Karnaprayag, Uttarakhand",
     "CapacityDetails": "125 km strategic hill railway line.",
-    "ParsedBudget": 0.42
+    "ParsedBudget": 0.42,
+    "ClientOwner": "Indian Railways"
   },
   {
     "Country": "India",
@@ -3407,7 +3690,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2028",
     "Location": "Ahmedabad, Gujarat",
     "CapacityDetails": "Extending promenades, landscaping, and flood management systems.",
-    "ParsedBudget": 0.4
+    "ParsedBudget": 0.4,
+    "ClientOwner": "Sabarmati Riverfront Development Corporation Ltd"
   },
   {
     "Country": "India",
@@ -3419,7 +3703,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2030",
     "Location": "Sambhar, Rajasthan",
     "CapacityDetails": "2,000 MW mega solar power park.",
-    "ParsedBudget": 2.41
+    "ParsedBudget": 2.41,
+    "ClientOwner": "Sambhar Salts Ltd / SECI-led public-sector consortium"
   },
   {
     "Country": "India",
@@ -3431,7 +3716,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2030",
     "Location": "Shendra-Bidkin, Maharashtra",
     "CapacityDetails": "Manufacturing industrial cluster development.",
-    "ParsedBudget": 0.36
+    "ParsedBudget": 0.36,
+    "ClientOwner": "Aurangabad Industrial Township Ltd (AITL) / NICDC"
   },
   {
     "Country": "India",
@@ -3443,7 +3729,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2034",
     "Location": "Siliguri, West Bengal",
     "CapacityDetails": "Elevated transit corridor in North Bengal.",
-    "ParsedBudget": 0.36
+    "ParsedBudget": 0.36,
+    "ClientOwner": "National Highways Authority of India (NHAI)"
   },
   {
     "Country": "India",
@@ -3455,7 +3742,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2027",
     "Location": "Silkyara, Uttarakhand To Barkot, Uttarakhand",
     "CapacityDetails": "Part of Char Dham highway, avoiding landslide stretches.",
-    "ParsedBudget": 0.1783132530120482
+    "ParsedBudget": 0.1783132530120482,
+    "ClientOwner": "National Highways & Infrastructure Development Corporation Ltd (NHIDCL)"
   },
   {
     "Country": "India",
@@ -3467,7 +3755,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2034",
     "Location": "Singrauli, Madhya Pradesh",
     "CapacityDetails": "Large-scale solar power generation facility.",
-    "ParsedBudget": 0.72
+    "ParsedBudget": 0.72,
+    "ClientOwner": "Not uniquely specified — generic or multi-project portfolio entry"
   },
   {
     "Country": "India",
@@ -3479,7 +3768,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2031",
     "Location": "Indore, Madhya Pradesh",
     "CapacityDetails": "Smart governance, digital infrastructure, urban development.",
-    "ParsedBudget": 0.15
+    "ParsedBudget": 0.15,
+    "ClientOwner": "Indore Smart City Development Ltd"
   },
   {
     "Country": "India",
@@ -3491,7 +3781,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2027",
     "Location": "Surat, Gujarat",
     "CapacityDetails": "Reducing road congestion and supporting urban development.",
-    "ParsedBudget": 1.5
+    "ParsedBudget": 1.5,
+    "ClientOwner": "Gujarat Metro Rail Corporation Ltd (GMRC)"
   },
   {
     "Country": "India",
@@ -3503,7 +3794,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2023-2025",
     "Location": "Surat, Gujarat",
     "CapacityDetails": "Corrosion-resistant infrastructure, low-wind-speed turbine blades.",
-    "ParsedBudget": 0.3
+    "ParsedBudget": 0.3,
+    "ClientOwner": "Not uniquely specified — generic or multi-project portfolio entry"
   },
   {
     "Country": "India",
@@ -3515,7 +3807,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2032",
     "Location": "Surat, Gujarat To Chennai, Tamil Nadu",
     "CapacityDetails": "High-speed economic corridor linking western and southern India.",
-    "ParsedBudget": 12
+    "ParsedBudget": 12,
+    "ClientOwner": "National Highways Authority of India (NHAI)"
   },
   {
     "Country": "India",
@@ -3527,7 +3820,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2028",
     "Location": "Tehri, Uttarakhand",
     "CapacityDetails": "Grid stability and renewable energy storage.",
-    "ParsedBudget": 1.2
+    "ParsedBudget": 1.2,
+    "ClientOwner": "THDC India Ltd"
   },
   {
     "Country": "India",
@@ -3539,7 +3833,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2031",
     "Location": "Chennai, Tamil Nadu",
     "CapacityDetails": "Expanding Tidel Park IT infrastructure.",
-    "ParsedBudget": 0.21
+    "ParsedBudget": 0.21,
+    "ClientOwner": "TIDEL Park Ltd"
   },
   {
     "Country": "India",
@@ -3551,7 +3846,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2026",
     "Location": "Jammu & Kashmir",
     "CapacityDetails": "Strategic railway connecting Kashmir Valley to national grid.",
-    "ParsedBudget": 4
+    "ParsedBudget": 4,
+    "ClientOwner": "Indian Railways"
   },
   {
     "Country": "India",
@@ -3563,7 +3859,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2035",
     "Location": "Palghar, Maharashtra",
     "CapacityDetails": "Mega deep-water port aiming to be India's largest container facility.",
-    "ParsedBudget": 9.2
+    "ParsedBudget": 9.2,
+    "ClientOwner": "Jawaharlal Nehru Port Authority (JNPA)"
   },
   {
     "Country": "India",
@@ -3575,7 +3872,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2032",
     "Location": "Varanasi, Uttar Pradesh",
     "CapacityDetails": "Smart heritage city modernization and utilities.",
-    "ParsedBudget": 0.18
+    "ParsedBudget": 0.18,
+    "ClientOwner": "Varanasi Smart City Ltd"
   },
   {
     "Country": "India",
@@ -3587,7 +3885,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2031",
     "Location": "Visakhapatnam, Andhra Pradesh",
     "CapacityDetails": "Urban mass transit system for the coastal city.",
-    "ParsedBudget": 1.9
+    "ParsedBudget": 1.9,
+    "ClientOwner": "Andhra Pradesh Metro Rail Corporation Ltd"
   },
   {
     "Country": "India",
@@ -3599,7 +3898,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2035",
     "Location": "Visakhapatnam, Andhra Pradesh",
     "CapacityDetails": "Port capacity expansion for cargo handling.",
-    "ParsedBudget": 0.54
+    "ParsedBudget": 0.54,
+    "ClientOwner": "Visakhapatnam Port Authority"
   },
   {
     "Country": "India",
@@ -3611,7 +3911,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2026",
     "Location": "Thiruvananthapuram, Kerala",
     "CapacityDetails": "Deep-water transshipment hub for large container vessels.",
-    "ParsedBudget": 1.2
+    "ParsedBudget": 1.2,
+    "ClientOwner": "Vizhinjam International Seaport Ltd; concessionaire Adani Vizhinjam Port Pvt Ltd"
   },
   {
     "Country": "India",
@@ -3623,7 +3924,8 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2028",
     "Location": "Haryana",
     "CapacityDetails": "Highway widening and intelligent transport systems around Delhi.",
-    "ParsedBudget": 1
+    "ParsedBudget": 1,
+    "ClientOwner": "Haryana State Industrial & Infrastructure Development Corporation (HSIIDC)"
   },
   {
     "Country": "India",
@@ -3635,6 +3937,7 @@ export const projectsData: ProjectData[] = [
     "Deadline": "2028",
     "Location": "Jammu & Kashmir To Ladakh",
     "CapacityDetails": "All-weather bi-directional road tunnel linking J&K and Ladakh.",
-    "ParsedBudget": 0.85
+    "ParsedBudget": 0.85,
+    "ClientOwner": "National Highways & Infrastructure Development Corporation Ltd (NHIDCL)"
   }
 ];

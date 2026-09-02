@@ -1,6 +1,6 @@
 import React, { useMemo } from 'react';
 import type { ProjectData } from '../types';
-import { X, MapPin, Calendar, DollarSign, IndianRupee, Activity, Tag, Info, Navigation, Building2 } from 'lucide-react';
+import { X, MapPin, Calendar, DollarSign, IndianRupee, Activity, Tag, Info, Navigation, Building2, Briefcase } from 'lucide-react';
 import { getProjectBudgetDisplay } from '../utils/budgetFormatter';
 
 interface ProjectModalProps {
@@ -112,6 +112,14 @@ export const ProjectModal: React.FC<ProjectModalProps> = ({ project, onClose }) 
           )}
           
           <div className="modal-grid" style={{ marginTop: '1.5rem' }}>
+            <div className="detail-item glass-item">
+              <span className="detail-label">Client / Project Owner</span>
+              <span className="detail-value">
+                <Briefcase size={18} />
+                <span>{project.ClientOwner || 'N/A'}</span>
+              </span>
+            </div>
+
             <div className="detail-item glass-item">
               <span className="detail-label">Budget</span>
               <span className="detail-value highlight">
