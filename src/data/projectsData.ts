@@ -3565,19 +3565,6 @@ export const projectsData: ProjectData[] = [
   },
   {
     "Country": "India",
-    "Project": "Pune–Nashik Semi High-Speed Rail Corridor",
-    "Summary": "A 235 km semi-high-speed double broad-gauge railway line engineered for operating speeds up to 200 km/h, cutting transit time between Pune and Nashik to 105 minutes.\n\nStates & Key Cities Covered:\nMaharashtra: Pune (Hadapsar, Chakan, Rajgurunagar, Manchar, Narayangaon, Junnar), Sangamner, Sinnar, Nashik Road",
-    "Category": "Infrastructure",
-    "Area": "235 km",
-    "Budget": "₹17,430 Crore",
-    "Deadline": "2031",
-    "Location": "Pune, Maharashtra To Nashik, Maharashtra",
-    "CapacityDetails": "Rail corridor connecting Pune and Nashik industrial zones.",
-    "ParsedBudget": 2.1,
-    "ClientOwner": "Maharashtra Rail Infrastructure Development Corporation Ltd (MAHARAIL)"
-  },
-  {
-    "Country": "India",
     "Project": "Railway and Metro Projects – Global",
     "Summary": "High-capacity automated driverless mass rapid transit systems, advanced signaling (CBTC), and urban rail engineering projects deployed across major Indian metropolitan centers.\n\nStates & Key Cities Covered:\nPan India: Mass transit and urban metro networks across Delhi NCR, Mumbai, Bengaluru, Chennai, Hyderabad, Kolkata, Ahmedabad, Pune, Kochi, and Lucknow",
     "Category": "Infrastructure",
